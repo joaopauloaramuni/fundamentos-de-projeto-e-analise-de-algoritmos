@@ -1,4 +1,4 @@
-# BigOComplex
+# Projeto BigOComplex
 
 O **BigOComplex** é um projeto desenvolvido para ajudar a entender e analisar a complexidade de algoritmos com base na notação **Big O**. Este projeto utiliza o pacote `big-O-calculator` para determinar a complexidade assintótica de funções, como busca binária, ordenação por fusão, ordenação rápida, busca linear e ordenação por bolha.
 
