@@ -28,6 +28,12 @@ https://benjdd.com/languages/
 <br>https://github.com/bddicken/languages
 <br>https://x.com/BenjDicken/status/1863977678690541570
 
-<br>1 Billion nested loop iterations
-<br>
+1 Billion nested loop iterations
+
 <img alt="GIF" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/BenjDicken-1863977678690541570-50MB.gif?raw=true"/>
+
+| 1 Billion nested loop iterations |
+|----------------------------------|
+| ![GIF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/BenjDicken-1863977678690541570-50MB.gif?raw=true) |
+
+
