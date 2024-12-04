@@ -26,3 +26,4 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 https://benjdd.com/languages/
 <br>https://github.com/bddicken/languages
+<br>https://x.com/BenjDicken/status/1863977678690541570
