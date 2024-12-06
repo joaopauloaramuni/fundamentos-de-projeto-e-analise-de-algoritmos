@@ -1,4 +1,8 @@
-# fundamentos-de-projeto-e-analise-de-algoritmos
+-----
+
+<img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/FUNDOCOREUCAPA.jpg?raw=true"/>
+
+-----
 
 <div align="center">
     <table>
@@ -7,7 +11,7 @@
         </tr> 
         <tr>
             <td>
-                <img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
+                <img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/FUNDOCOREUCAPA.jpg?raw=true"/>
             </td>
         </tr>
         <tr>
