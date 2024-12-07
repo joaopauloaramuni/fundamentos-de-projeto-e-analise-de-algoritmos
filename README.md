@@ -23,6 +23,8 @@ https://benjdd.com/languages/
 
 [1 Billion nested loop iterations](https://github.com/user-attachments/assets/ecc2b488-08b9-4fa8-a86e-3091cba92e91)
 
+[Naïve Fibonacci](https://github.com/user-attachments/assets/22483092-6425-4736-a770-f688be8a4277)
+
 -----
 
 <div align="center">
