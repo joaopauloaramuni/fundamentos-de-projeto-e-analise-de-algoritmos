@@ -8,7 +8,9 @@ def eh_primo(n):
     if n < 2:
         return False
     for i in range(2, int(n**0.5) + 1):
+        # print(f"Testando divisor: {i} para {n}")  # Depuração
         if n % i == 0:
+            print(f"Divisor encontrado: {i} para {n}")
             return False
     return True
 
