@@ -1,7 +1,7 @@
 import time
 
 # Fibonacci Iterativo
-# Melhor Caso: O(n) -> Precisa iterar n vezes para calcular o valor de Fibonacci.
+# Melhor Caso: O(1) -> Para n = 0 ou n = 1, o resultado é retornado imediatamente.
 # Caso Médio: O(n) -> Não há variação na complexidade, pois depende linearmente de n.
 # Pior Caso: O(n) -> Sempre executa n iterações.
 def fibonacci_iterativo(n):
@@ -19,9 +19,9 @@ def fibonacci_iterativo(n):
     return atual  # Retorna o n-ésimo número da sequência
 
 # Fibonacci Recursivo
-# Melhor Caso: O(2^n) -> Precisa calcular todas as combinações de subproblemas.
-# Caso Médio: O(2^n) -> Mesmo para valores médios de n, há grande sobreposição de subproblemas.
-# Pior Caso: O(2^n) -> Altíssima redundância nas chamadas recursivas.
+# Melhor Caso: O(1) -> Para n = 0 ou n = 1, o resultado é retornado imediatamente.
+# Caso Médio: O(2^n) -> A árvore de chamadas cresce exponencialmente com n > 1.
+# Pior Caso: O(2^n) -> Mesmo comportamento exponencial com alta redundância nas chamadas recursivas.
 def fibonacci_recursivo(n):
     if n == 0:
         return 0
@@ -30,7 +30,7 @@ def fibonacci_recursivo(n):
     return fibonacci_recursivo(n - 1) + fibonacci_recursivo(n - 2)
 
 # Fibonacci Recursivo com memoização
-# Melhor Caso: O(n) -> Cada valor é calculado apenas uma vez e armazenado.
+# Melhor Caso: O(1) -> Cada valor é calculado apenas uma vez e armazenado.
 # Caso Médio: O(n) -> A reutilização de resultados evita cálculos redundantes mesmo para valores médios de n.
 # Pior Caso: O(n) -> Todos os subproblemas são resolvidos no máximo uma vez, resultando em complexidade linear.
 def fibonacci_memoizado(n, memo={}):
