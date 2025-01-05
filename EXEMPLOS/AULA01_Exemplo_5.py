@@ -9,10 +9,14 @@ def fibonacci_iterativo(n):
         return 0
     elif n == 1:
         return 1
-    a, b = 0, 1
-    for _ in range(2, n + 1):
-        a, b = b, a + b
-    return b
+    
+    anterior, atual = 0, 1  # Inicializando os dois primeiros números da sequência
+    
+    for _ in range(2, n + 1):  # Itera de 2 até n
+        proximo = anterior + atual  # Soma dos dois números anteriores
+        anterior, atual = atual, proximo  # Atualiza os valores
+    
+    return atual  # Retorna o n-ésimo número da sequência
 
 # Fibonacci Recursivo
 # Melhor Caso: O(2^n) -> Precisa calcular todas as combinações de subproblemas.
