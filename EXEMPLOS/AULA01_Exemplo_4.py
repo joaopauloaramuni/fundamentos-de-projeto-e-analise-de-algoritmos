@@ -11,7 +11,7 @@ def fatorial_iterativo(n):
     return resultado
 
 # Fatorial Recursivo
-# Melhor Caso: O(n) -> Precisa fazer n chamadas recursivas.
+# Melhor Caso: O(1) -> Para n = 0 ou n = 1, o resultado é retornado imediatamente.
 # Caso Médio: O(n) -> Todas as chamadas recursivas são necessárias até n = 1.
 # Pior Caso: O(n) -> A profundidade da recursão é proporcional a n.
 def fatorial_recursivo(n):
