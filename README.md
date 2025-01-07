@@ -13,11 +13,11 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 Python Tutor (Ferramenta interativa para visualizar a execução passo a passo de código):
 <br>https://pythontutor.com/
 <br>https://pythontutor.com/python-compiler.html
-(Ele permite visualizar graficamente a execução passo a passo do código, mostrando como as variáveis, pilha de chamadas na memória e estruturas de dados evoluem ao longo da execução.)
+<br>(Ele permite visualizar graficamente a execução passo a passo do código, mostrando como as variáveis, pilha de chamadas na memória e estruturas de dados evoluem ao longo da execução.)
 
 Programiz (Compilador online para Python):
 <br>https://www.programiz.com/python-programming/online-compiler/
-(Caso você não esteja com o ambiente configurado no VS Code ou PyCharm.)
+<br>(Caso você não esteja com o ambiente configurado no VS Code ou PyCharm.)
 
 Big-O Cheat Sheet:
 <br>https://www.bigocheatsheet.com/
