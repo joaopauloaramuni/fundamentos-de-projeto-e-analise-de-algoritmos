@@ -25,6 +25,22 @@ Big-O Cheat Sheet:
 Algorithm Visualizer:
 <br>https://algorithm-visualizer.org/
 
+Python:
+<br>https://docs.python.org/3/
+
+IDE recomendada:
+<br>https://www.jetbrains.com/pt-br/pycharm/
+<br>https://www.jetbrains.com/community/education/#students
+<br>https://blog.jetbrains.com/education/2018/09/18/free-jetbrains-licenses-as-part-of-github-student-developer-pack/
+<br>https://education.github.com/pack
+
+Livros recomendados:
+<br>https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904
+<br>https://www.amazon.com.br/Python-Fluente-Programação-Concisa-Eficaz/dp/857522462X
+<br>https://www.amazon.com.br/Pense-Python-Como-Cientista-Computação/dp/8575225081
+<br>https://www.amazon.com.br/Python-Essential-Reference-David-Beazley-dp-0134173279/dp/0134173279
+<br>https://www.amazon.com.br/Web-Scraping-Com-Python-Coletando/dp/8575227300
+
 Links úteis:
 <br>https://benjdd.com/languages/
 <br>https://github.com/bddicken/languages
