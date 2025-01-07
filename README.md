@@ -10,24 +10,24 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 - 1°Sem 2025
 
-Python Tutor (Ferramenta interativa para visualizar a execução passo a passo de código):
-<br>https://pythontutor.com/
-<br>https://pythontutor.com/python-compiler.html
-<br>(Ele permite visualizar graficamente a execução passo a passo do código, mostrando como as variáveis, pilha de chamadas na memória e estruturas de dados evoluem ao longo da execução.)
+### Python Tutor
+- [Python Tutor - Página Principal](https://pythontutor.com/)
+- [Python Tutor - Python Compiler](https://pythontutor.com/python-compiler.html)  
+  *(Permite visualizar graficamente a execução passo a passo do código, mostrando como as variáveis, pilha de chamadas na memória e estruturas de dados evoluem ao longo da execução.)*
 
-Programiz (Compilador online para Python):
-<br>https://www.programiz.com/python-programming/online-compiler/
-<br>(Caso você não esteja com o ambiente configurado no VS Code ou PyCharm.)
+### Programiz
+- [Programiz - Compilador Online para Python](https://www.programiz.com/python-programming/online-compiler/)  
+  *(Ideal para quem não está com o ambiente configurado no VS Code ou PyCharm.)*
 
-Big-O Cheat Sheet:
-<br>https://www.bigocheatsheet.com/
+### Big-O Cheat Sheet
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 
-Algorithm Visualizer:
-<br>https://algorithm-visualizer.org/
+### Algorithm Visualizer
+- [Algorithm Visualizer](https://algorithm-visualizer.org/)
 
-Python:
-<br>https://docs.python.org/3/
-<br>https://devdocs.io/python~3.10/
+#### Python
+- [Documentação Oficial do Python](https://docs.python.org/3/)
+- [DevDocs - Python 3.10](https://devdocs.io/python~3.10/)
 
 #### IDE Recomendada
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
@@ -48,6 +48,12 @@ Python:
 <br>https://github.com/bddicken/languages
 <br>https://x.com/BenjDicken/status/1863977678690541570
 <br>https://x.com/BenjDicken/status/1861811963434770665
+
+#### Links Úteis
+- [BenjDicken - Linguagens](https://benjdd.com/languages/)
+- [BenjDicken - Repositório GitHub - Languages](https://github.com/bddicken/languages)
+- [BenjDicken no X - Post Languages](https://x.com/BenjDicken/status/1863977678690541570)
+- [BenjDicken no X - Post Fibonacci](https://x.com/BenjDicken/status/1861811963434770665)
 
 <!--
 | 1 Billion nested loop iterations |
