@@ -10,6 +10,10 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 - 1°Sem 2025
 
+#### Python:
+- [Documentação Oficial do Python](https://docs.python.org/3/)
+- [DevDocs - Python 3.10](https://devdocs.io/python~3.10/)
+
 #### Python Tutor:
 - [Python Tutor - Página Principal](https://pythontutor.com/)
 - [Python Tutor - Python Compiler](https://pythontutor.com/python-compiler.html)  
@@ -24,10 +28,6 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 #### Algorithm Visualizer:
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
-
-#### Python:
-- [Documentação Oficial do Python](https://docs.python.org/3/)
-- [DevDocs - Python 3.10](https://devdocs.io/python~3.10/)
 
 #### IDE recomendada:
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
