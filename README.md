@@ -36,6 +36,8 @@ IDE recomendada:
 
 Livros recomendados:
 <br>https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904
+<br>https://www.amazon.com.br/Algorithms-Robert-Sedgewick/dp/032157351X
+<br>https://www.amazon.com.br/Algorithms-Nutshell-2e-George-Heineman/dp/1491948922
 <br>https://www.amazon.com.br/Python-Fluente-Programação-Concisa-Eficaz/dp/857522462X
 <br>https://www.amazon.com.br/Pense-Python-Como-Cientista-Computação/dp/8575225081
 <br>https://www.amazon.com.br/Python-Essential-Reference-David-Beazley-dp-0134173279/dp/0134173279
