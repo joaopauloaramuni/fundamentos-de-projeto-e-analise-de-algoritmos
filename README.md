@@ -29,17 +29,17 @@ Links úteis:
 | <img src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/BenjDicken-1863977678690541570-100MB.gif?raw=true" alt="1 Billion nested loop iterations" /> |
 -->
 
-<div align="center">
-
 [1 Billion nested loop iterations](https://github.com/user-attachments/assets/ecc2b488-08b9-4fa8-a86e-3091cba92e91)
-</div>
 
 [Naïve Fibonacci](https://github.com/user-attachments/assets/718297e4-a105-4fe0-8854-5450c8fead95)
 
 Torres de Hanói - com 6 discos:
 
-  <img alt="hanoi_6" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_6_disks.gif?raw=true"/>
+<img alt="hanoi_6" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_6_disks.gif?raw=true"/>
 
+Torres de Hanói - com 4 discos:
+
+<img alt="hanoi_4" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_4_disks.gif?raw=true"/>
 
 -----
 
