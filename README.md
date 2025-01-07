@@ -15,7 +15,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [DevDocs - Python 3.10](https://devdocs.io/python~3.10/)
 
 #### Python Tutor:
-- [Python Tutor - Página Principal](https://pythontutor.com/)
+- [Python Tutor - Página principal](https://pythontutor.com/)
 - [Python Tutor - Python Compiler](https://pythontutor.com/python-compiler.html)  
   *(Permite visualizar graficamente a execução passo a passo do código, mostrando como as variáveis, pilha de chamadas na memória e estruturas de dados evoluem ao longo da execução.)*
 
@@ -24,7 +24,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   *(Ideal para quem não está com o ambiente configurado no VS Code ou PyCharm.)*
 
 #### Big-O Cheat Sheet:
-- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+- [Big-O Cheat Sheet - Página principal](https://www.bigocheatsheet.com/)
+- [Big-O Cheat Sheet - PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/BIG-O-CHEATSHEET/big-o-cheatsheet.pdf)
 
 #### Algorithm Visualizer:
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
