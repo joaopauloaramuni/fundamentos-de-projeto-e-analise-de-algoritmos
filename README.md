@@ -34,9 +34,9 @@ Links úteis:
 [Naïve Fibonacci](https://github.com/user-attachments/assets/718297e4-a105-4fe0-8854-5450c8fead95)
 
 Torres de Hanói - com 6 discos:
-<div align="center">
+
   <img alt="hanoi_6" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_6_disks.gif?raw=true"/>
-</div>
+
 
 -----
 
