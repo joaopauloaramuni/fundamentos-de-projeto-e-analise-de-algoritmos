@@ -10,19 +10,19 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 - 1°Sem 2025
 
-### Python Tutor
+#### Python Tutor
 - [Python Tutor - Página Principal](https://pythontutor.com/)
 - [Python Tutor - Python Compiler](https://pythontutor.com/python-compiler.html)  
   *(Permite visualizar graficamente a execução passo a passo do código, mostrando como as variáveis, pilha de chamadas na memória e estruturas de dados evoluem ao longo da execução.)*
 
-### Programiz
+#### Programiz
 - [Programiz - Compilador Online para Python](https://www.programiz.com/python-programming/online-compiler/)  
   *(Ideal para quem não está com o ambiente configurado no VS Code ou PyCharm.)*
 
-### Big-O Cheat Sheet
+#### Big-O Cheat Sheet
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 
-### Algorithm Visualizer
+#### Algorithm Visualizer
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 
 #### Python
