@@ -27,14 +27,15 @@ Algorithm Visualizer:
 
 Python:
 <br>https://docs.python.org/3/
+<br>https://devdocs.io/python~3.10/
 
-### IDE Recomendada
+#### IDE Recomendada
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
 - [JetBrains para estudantes](https://www.jetbrains.com/community/education/#students)
 - [Licenças JetBrains gratuitas via GitHub Student Developer Pack](https://blog.jetbrains.com/education/2018/09/18/free-jetbrains-licenses-as-part-of-github-student-developer-pack/)
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 
-### Livros Recomendados
+#### Livros Recomendados
 - [Algoritmos - Thomas H. Cormen](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904)
 - [Algorithms - Robert Sedgewick](https://www.amazon.com.br/Algorithms-Robert-Sedgewick/dp/032157351X)
 - [Algorithms in a Nutshell - George Heineman](https://www.amazon.com.br/Algorithms-Nutshell-2e-George-Heineman/dp/1491948922)
@@ -42,7 +43,7 @@ Python:
 - [Pense em Python: Como Cientista da Computação](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computação/dp/8575225081)
 - [Python Essential Reference - David Beazley](https://www.amazon.com.br/Python-Essential-Reference-David-Beazley-dp-0134173279/dp/0134173279)
 
-### Links úteis:
+#### Links úteis:
 <br>https://benjdd.com/languages/
 <br>https://github.com/bddicken/languages
 <br>https://x.com/BenjDicken/status/1863977678690541570
