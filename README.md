@@ -42,7 +42,7 @@ Torres de Hanói - com 4 discos:
 
 Torres de Hanói - com 6 discos:
 
-<img alt="hanoi_6" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_6_disks.gif?raw=true"/>
+<img alt="hanoi_6" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_6_disks_b.gif?raw=true"/>
 
 -----
 
