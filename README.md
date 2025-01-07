@@ -10,32 +10,32 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 - 1°Sem 2025
 
-#### Python Tutor
+#### Python Tutor:
 - [Python Tutor - Página Principal](https://pythontutor.com/)
 - [Python Tutor - Python Compiler](https://pythontutor.com/python-compiler.html)  
   *(Permite visualizar graficamente a execução passo a passo do código, mostrando como as variáveis, pilha de chamadas na memória e estruturas de dados evoluem ao longo da execução.)*
 
-#### Programiz
+#### Programiz:
 - [Programiz - Compilador Online para Python](https://www.programiz.com/python-programming/online-compiler/)  
   *(Ideal para quem não está com o ambiente configurado no VS Code ou PyCharm.)*
 
-#### Big-O Cheat Sheet
+#### Big-O Cheat Sheet:
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 
-#### Algorithm Visualizer
+#### Algorithm Visualizer:
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 
-#### Python
+#### Python:
 - [Documentação Oficial do Python](https://docs.python.org/3/)
 - [DevDocs - Python 3.10](https://devdocs.io/python~3.10/)
 
-#### IDE Recomendada
+#### IDE recomendada:
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
 - [JetBrains para estudantes](https://www.jetbrains.com/community/education/#students)
 - [Licenças JetBrains gratuitas via GitHub Student Developer Pack](https://blog.jetbrains.com/education/2018/09/18/free-jetbrains-licenses-as-part-of-github-student-developer-pack/)
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 
-#### Livros Recomendados
+#### Livros recomendados:
 - [Algoritmos - Thomas H. Cormen](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904)
 - [Algorithms - Robert Sedgewick](https://www.amazon.com.br/Algorithms-Robert-Sedgewick/dp/032157351X)
 - [Algorithms in a Nutshell - George Heineman](https://www.amazon.com.br/Algorithms-Nutshell-2e-George-Heineman/dp/1491948922)
@@ -43,7 +43,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Pense em Python: Como Cientista da Computação](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computação/dp/8575225081)
 - [Python Essential Reference - David Beazley](https://www.amazon.com.br/Python-Essential-Reference-David-Beazley-dp-0134173279/dp/0134173279)
 
-#### Links Úteis
+#### Links úteis:
 - [BenjDicken - Linguagens](https://benjdd.com/languages/)
 - [BenjDicken - Repositório GitHub - Languages](https://github.com/bddicken/languages)
 - [BenjDicken no X - Post Languages](https://x.com/BenjDicken/status/1863977678690541570)
