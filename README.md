@@ -43,12 +43,6 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Pense em Python: Como Cientista da Computação](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computação/dp/8575225081)
 - [Python Essential Reference - David Beazley](https://www.amazon.com.br/Python-Essential-Reference-David-Beazley-dp-0134173279/dp/0134173279)
 
-#### Links úteis:
-<br>https://benjdd.com/languages/
-<br>https://github.com/bddicken/languages
-<br>https://x.com/BenjDicken/status/1863977678690541570
-<br>https://x.com/BenjDicken/status/1861811963434770665
-
 #### Links Úteis
 - [BenjDicken - Linguagens](https://benjdd.com/languages/)
 - [BenjDicken - Repositório GitHub - Languages](https://github.com/bddicken/languages)
