@@ -17,7 +17,7 @@ Python Tutor:
 Big-O Cheat Sheet:
 <br>https://www.bigocheatsheet.com/
 
-Algorithm Visualizer
+Algorithm Visualizer:
 <br>https://algorithm-visualizer.org/
 
 Links úteis:
@@ -36,13 +36,13 @@ Links úteis:
 
 [Naïve Fibonacci](https://github.com/user-attachments/assets/718297e4-a105-4fe0-8854-5450c8fead95)
 
+Torres de Hanói - com 4 discos:
+
+<img width="70%" alt="hanoi_4" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_4_disks_b.gif?raw=true"/>
+
 Torres de Hanói - com 6 discos:
 
 <img alt="hanoi_6" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_6_disks.gif?raw=true"/>
-
-Torres de Hanói - com 4 discos:
-
-<img alt="hanoi_4" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_4_disks_b.gif?raw=true"/>
 
 -----
 
