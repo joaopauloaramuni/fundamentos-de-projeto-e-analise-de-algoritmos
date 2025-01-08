@@ -57,6 +57,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [BenjDicken no X - Post Languages](https://x.com/BenjDicken/status/1863977678690541570)
 - [BenjDicken no X - Post Fibonacci](https://x.com/BenjDicken/status/1861811963434770665)
 - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
+- [GitHub Sound of Sorting - SoS](https://github.com/bingmann/sound-of-sorting)
+- [Sound of Sorting - SoS - CheatSheet](https://panthema.net/2013/sound-of-sorting/SoS-CheatSheet.pdf)
 
 -----
 
