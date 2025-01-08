@@ -66,6 +66,10 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 [Naïve Fibonacci](https://github.com/user-attachments/assets/718297e4-a105-4fe0-8854-5450c8fead95)
 
+15 algoritmos de ordenação em 6 minutos:
+
+[15 Sorting Algorithms in 6 Minutes](https://github.com/user-attachments/assets/ae31dea9-19c4-40f1-a885-a862bb1aa615)
+
 Torres de Hanói - com 4 discos:
 
 <img width="75%" alt="hanoi_4" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_4_disks_b.gif?raw=true"/>
