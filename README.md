@@ -96,6 +96,31 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
+#### Visualizando a complexidade do algoritmo:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr>
+<tr>
+ <td align="center"><img align="center" alt="min_complexity" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/min_complexity.gif?raw=true"/></td>
+ <td align="center"><img align="center" alt="min_complexity" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/min_complexity2.gif?raw=true"/></td>
+ <td align="center"><img align="center" alt="min_complexity" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/min_complexitysort.gif?raw=true"/></td>
+</tr>
+<tr>
+ <td align="center">Cada algoritmo tenta encontrar o número 29 em um conjunto de 40 números ordenados do menor para o maior.</td>
+ <td align="center">cada algoritmo tenta encontrar o número 83 em um conjunto de 100 números ordenados do menor para o maior.</td>
+ <td align="center">Merge Sort vs Bubble Sort</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
+
+-----
+
 #### Uma possível solução para o Problema do Caixeiro Viajante (Travelling Salesman Problem) usando um Algoritmo Evolutivo do PyGMO, um pacote Parallel Global Multiobjective Optimizer para Python:
 
 <div align="center">
