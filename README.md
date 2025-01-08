@@ -92,7 +92,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 #### Uma possível solução para o Problema do Caixeiro Viajante (Travelling Salesman Problem) usando um Algoritmo Evolutivo do PyGMO, um pacote Parallel Global Multiobjective Optimizer para Python:
 
-<img width="75%" alt="Travelling_Salesman_Problem" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Travelling_Salesman_Problem.gif?raw=true"/>
+<img alt="Travelling_Salesman_Problem" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Travelling_Salesman_Problem.gif?raw=true"/>
 
 -----
 
