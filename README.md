@@ -53,19 +53,19 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 #### Links úteis:
 
-##### Medição de tempo de execução em diversas linguanges
+##### Medição de tempo de execução em diversas linguanges:
 - [BenjDicken - Linguagens](https://benjdd.com/languages/)
 - [BenjDicken - Repositório GitHub - Languages](https://github.com/bddicken/languages)
 - [BenjDicken no X - Post Languages](https://x.com/BenjDicken/status/1863977678690541570)
 - [BenjDicken no X - Post Fibonacci](https://x.com/BenjDicken/status/1861811963434770665)
 
-##### Sound of Sorting - SoS
+##### Sound of Sorting - SoS:
 - [The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/)
 - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 - [GitHub Sound of Sorting - SoS](https://github.com/bingmann/sound-of-sorting)
 - [Sound of Sorting - SoS - CheatSheet - PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/CHEATSHEETS/SOUND-OF-SORTING-CHEATSHEET/SoS-CheatSheet.pdf)
 
-##### PyGMO 
+##### PyGMO:
 - [PyGMO - Página principal](https://esa.github.io/pygmo/)
 - [PyGMO - Documentação](https://esa.github.io/pygmo/documentation/index.html)
 - [Travelling Salesman Problem with PyGMO](https://github.com/GuintherKovalski/Travelling-Salesman-Problem)
