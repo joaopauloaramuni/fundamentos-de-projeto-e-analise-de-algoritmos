@@ -74,6 +74,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [2024 - Python Big O: the time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
 - [2018 - Big-O: How Code Slows as Data Grows](https://nedbatchelder.com/text/bigo.html)
 - [2018 - Ned Batchelder - Big-O: How Code Slows as Data Grows - PyCon 2018](https://www.youtube.com/watch?v=duvZ-2UK0fc)
+- [2018 - Visualizing Algorithm Complexity](https://www.somesolvedproblems.com/2018/02/visualizing-algorithm-complexity.html)
 
 -----
 
