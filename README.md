@@ -111,8 +111,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 </table>
 </div>
 
-<div align="center">
-<table>
+<div width="75%" align="center">
+<table width="75%">
 <tr>
  <td align="center"><img width="75%" align="center" alt="min_complexitysort" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/min_complexitysort.gif?raw=true"/></td>
 </tr>
