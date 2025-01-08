@@ -96,7 +96,9 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-#### Visualizando a complexidade do algoritmo:
+#### Visualizando a complexidade de algoritmos:
+
+##### Algoritmos de busca:
 
 <div align="center">
 <table>
@@ -111,10 +113,12 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 </table>
 </div>
 
+##### Algoritmos de ordenação:
+
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="400px" align="center" alt="min_complexitysort" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/min_complexitysort.gif?raw=true"/></td>
+ <td align="center"><img width="420px" align="center" alt="min_complexitysort" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/min_complexitysort.gif?raw=true"/></td>
 </tr>
 <tr>
  <td align="center">Merge Sort vs Bubble Sort</td>
