@@ -56,6 +56,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [BenjDicken - Repositório GitHub - Languages](https://github.com/bddicken/languages)
 - [BenjDicken no X - Post Languages](https://x.com/BenjDicken/status/1863977678690541570)
 - [BenjDicken no X - Post Fibonacci](https://x.com/BenjDicken/status/1861811963434770665)
+- [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 
 -----
 
