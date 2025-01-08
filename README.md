@@ -32,7 +32,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 #### Big-O Cheat Sheet:
 - [Big-O Cheat Sheet - Página principal](https://www.bigocheatsheet.com/)
-- [Big-O Cheat Sheet - PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/BIG-O-CHEATSHEET/big-o-cheatsheet.pdf)
+- [Big-O Cheat Sheet - PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/CHEATSHEETS/BIG-O-CHEATSHEET/big-o-cheatsheet.pdf)
 
 #### Algorithm Visualizer:
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
@@ -56,9 +56,10 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [BenjDicken - Repositório GitHub - Languages](https://github.com/bddicken/languages)
 - [BenjDicken no X - Post Languages](https://x.com/BenjDicken/status/1863977678690541570)
 - [BenjDicken no X - Post Fibonacci](https://x.com/BenjDicken/status/1861811963434770665)
+
 - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 - [GitHub Sound of Sorting - SoS](https://github.com/bingmann/sound-of-sorting)
-- [Sound of Sorting - SoS - CheatSheet](https://panthema.net/2013/sound-of-sorting/SoS-CheatSheet.pdf)
+- [Sound of Sorting - SoS - CheatSheet](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/CHEATSHEETS/SOUND-OF-SORTING-CHEATSHEET/SoS-CheatSheet.pdf)
 
 -----
 
