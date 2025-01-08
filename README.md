@@ -70,6 +70,11 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [PyGMO - Documentação](https://esa.github.io/pygmo/documentation/index.html)
 - [Travelling Salesman Problem with PyGMO](https://github.com/GuintherKovalski/Travelling-Salesman-Problem)
 
+#### Leituras e vídeos sugeridos:
+- [2024 - Python Big O: the time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
+- [2018 - Big-O: How Code Slows as Data Grows](https://nedbatchelder.com/text/bigo.html)
+- [2018 - Ned Batchelder - Big-O: How Code Slows as Data Grows - PyCon 2018](https://www.youtube.com/watch?v=duvZ-2UK0fc)
+
 -----
 
 #### Medição de tempos de execução para 1 bilhão de iterações em loops aninhados - 31 Linguagens:
