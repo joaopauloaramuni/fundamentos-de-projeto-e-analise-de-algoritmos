@@ -76,9 +76,13 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 [1 Billion nested loop iterations](https://github.com/user-attachments/assets/ecc2b488-08b9-4fa8-a86e-3091cba92e91)
 
+-----
+
 #### Medição de tempos de execução para o Fibonacci - 14 Linguagens:
 
 [Naïve Fibonacci](https://github.com/user-attachments/assets/718297e4-a105-4fe0-8854-5450c8fead95)
+
+-----
 
 #### 15 algoritmos de ordenação em 6 minutos:
 
