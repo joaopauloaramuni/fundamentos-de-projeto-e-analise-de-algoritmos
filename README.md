@@ -12,7 +12,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ### Sumário:
 - [Aulas em PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/tree/main/PDF)
-- [Exercícios em Python](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/tree/main/EXERCI%CC%81CIOS)
+- [Exercícios em Python](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/tree/main/EXERCICIOS)
 - [Exemplos em Python](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/tree/main/EXEMPLOS)
 - [Projetos em Python](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/tree/main/PROJETOS)
 - [Artigos sugeridos](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/tree/main/ARTIGOS)
