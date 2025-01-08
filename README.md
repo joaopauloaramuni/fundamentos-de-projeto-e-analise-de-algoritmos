@@ -80,7 +80,11 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 #### Medição de tempos de execução para o Fibonacci - 14 Linguagens:
 
+<div align="center">
+
 [Naïve Fibonacci](https://github.com/user-attachments/assets/718297e4-a105-4fe0-8854-5450c8fead95)
+
+</div>
 
 -----
 
