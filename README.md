@@ -101,20 +101,18 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="3"></td>
+ <td align="center" colspan="2"></td>
 </tr>
 <tr>
  <td align="center"><img align="center" alt="min_complexity" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/min_complexity.gif?raw=true"/></td>
  <td align="center"><img align="center" alt="min_complexity" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/min_complexity2.gif?raw=true"/></td>
- <td align="center"><img align="center" alt="min_complexity" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/min_complexitysort.gif?raw=true"/></td>
 </tr>
 <tr>
  <td align="center">Cada algoritmo tenta encontrar o número 29 em um conjunto de 40 números ordenados do menor para o maior.</td>
- <td align="center">cada algoritmo tenta encontrar o número 83 em um conjunto de 100 números ordenados do menor para o maior.</td>
- <td align="center">Merge Sort vs Bubble Sort</td>
+ <td align="center">Cada algoritmo tenta encontrar o número 83 em um conjunto de 100 números ordenados do menor para o maior.</td>
 </tr>
 <tr>
- <td align="center" colspan="3"></td>
+ <td align="center" colspan="2"></td>
 </tr> 
 </table>
 </div>
