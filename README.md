@@ -52,13 +52,23 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Python Essential Reference - David Beazley](https://www.amazon.com.br/Python-Essential-Reference-David-Beazley-dp-0134173279/dp/0134173279)
 
 #### Links úteis:
+
+##### Medição de tempo de execução em diversas linguanges
 - [BenjDicken - Linguagens](https://benjdd.com/languages/)
 - [BenjDicken - Repositório GitHub - Languages](https://github.com/bddicken/languages)
 - [BenjDicken no X - Post Languages](https://x.com/BenjDicken/status/1863977678690541570)
 - [BenjDicken no X - Post Fibonacci](https://x.com/BenjDicken/status/1861811963434770665)
+
+##### Sound of Sorting - SoS
+- [The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/)
 - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 - [GitHub Sound of Sorting - SoS](https://github.com/bingmann/sound-of-sorting)
 - [Sound of Sorting - SoS - CheatSheet - PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/CHEATSHEETS/SOUND-OF-SORTING-CHEATSHEET/SoS-CheatSheet.pdf)
+
+##### PyGMO 
+- [PyGMO - Página principal](https://esa.github.io/pygmo/)
+- [PyGMO - Documentação](https://esa.github.io/pygmo/documentation/index.html)
+- [Travelling Salesman Problem with PyGMO](https://github.com/GuintherKovalski/Travelling-Salesman-Problem)
 
 -----
 
@@ -77,6 +87,10 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 #### Torres de Hanói - com 4 discos:
 
 <img width="75%" alt="hanoi_4" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_4_disks.gif?raw=true"/>
+
+#### Uma possível solução para o Problema do Caixeiro Viajante (Travelling Salesman Problem) usando um Algoritmo Evolutivo do PyGMO, um pacote Parallel Global Multiobjective Optimizer para Python
+
+<img width="75%" alt="Travelling_Salesman_Problem" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Travelling_Salesman_Problem.gif?raw=true"/>
 
 -----
 
