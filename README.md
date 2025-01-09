@@ -10,6 +10,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 - 1°Sem 2025
 
+-----
+
 ### Sumário:
 - [Aulas em PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/tree/main/PDF)
 - [Artigos sugeridos](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/tree/main/ARTIGOS)
