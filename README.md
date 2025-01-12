@@ -71,13 +71,15 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ##### PyGMO:
 - [PyGMO - Página principal](https://esa.github.io/pygmo/)
 - [PyGMO - Documentação](https://esa.github.io/pygmo/documentation/index.html)
-- [Travelling Salesman Problem with PyGMO](https://github.com/GuintherKovalski/Travelling-Salesman-Problem)
+- [Travelling Salesman Problem with PyGMO - GitHub](https://github.com/GuintherKovalski/Travelling-Salesman-Problem)
 
 ##### Leituras e vídeos sugeridos:
 - [2024 - Python Big O: the time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
 - [2018 - Big-O: How Code Slows as Data Grows](https://nedbatchelder.com/text/bigo.html)
 - [2018 - Ned Batchelder - Big-O: How Code Slows as Data Grows - PyCon 2018](https://www.youtube.com/watch?v=duvZ-2UK0fc)
 - [2018 - Visualizing Algorithm Complexity](https://www.somesolvedproblems.com/2018/02/visualizing-algorithm-complexity.html)
+- [2014 - Traveling Salesman with Simulated Annealing, R, and Shiny - Post no Blog](https://toddwschneider.com/posts/traveling-salesman-with-simulated-annealing-r-and-shiny/)
+- [2014 - Traveling Salesman with Simulated Annealing, R, and Shiny - GitHub](https://github.com/toddwschneider/shiny-salesman)
 
 -----
 
