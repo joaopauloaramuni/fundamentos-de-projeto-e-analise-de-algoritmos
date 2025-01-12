@@ -156,7 +156,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
  <td align="center"><img width="350px" align="center" alt="Knights_Tour_5x5" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_5x5.gif?raw=true"/></td>
 </tr>
 <tr>
- <td align="center">Como você começa em uma casa, você fará 24 movimentos em um tabuleiro 5×5.</td>
+ <td align="center">Como você começa em uma casa, você fará 24 movimentos em um tabuleiro 5×5. XXXXXXXXXXXXXXXXXX XXXXXXXXXXXX XXXXXXXXXXXX XXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXX</td>
 </tr>
 </table>
 </div>
