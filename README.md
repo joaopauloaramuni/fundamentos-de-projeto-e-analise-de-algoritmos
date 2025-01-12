@@ -131,21 +131,6 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-#### Uma possível solução para o Problema do Caixeiro Viajante (Travelling Salesman Problem) usando um Algoritmo Evolutivo do PyGMO, um pacote Parallel Global Multiobjective Optimizer para Python:
-
-<div align="center">
-<table>
-<tr>
- <td align="center"><img alt="Travelling_Salesman_Problem" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Travelling_Salesman_Problem.gif?raw=true"/></td>
-</tr>
-<tr>
- <td align="center">Travelling Salesman Problem with PyGMO</td>
-</tr>
-</table>
-</div>
-
------
-
 #### Caminho do cavalo (Knight's tour):
 
 <div align="center">
@@ -157,6 +142,21 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <tr>
  <td>O cavalo visita cada casa exatamente uma vez. Duas casas em uma direção (horizontal ou vertical) e uma casa em uma direção perpendicular.</td>
  <td>O problema do caminho do cavalo é um exemplo do problema do caminho hamiltoniano mais geral na teoria dos grafos.</td>
+</tr>
+</table>
+</div>
+
+-----
+
+#### Uma possível solução para o Problema do Caixeiro Viajante (Travelling Salesman Problem) usando um Algoritmo Evolutivo do PyGMO, um pacote Parallel Global Multiobjective Optimizer para Python:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center"><img alt="Travelling_Salesman_Problem" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Travelling_Salesman_Problem.gif?raw=true"/></td>
+</tr>
+<tr>
+ <td align="center">Travelling Salesman Problem with PyGMO</td>
 </tr>
 </table>
 </div>
