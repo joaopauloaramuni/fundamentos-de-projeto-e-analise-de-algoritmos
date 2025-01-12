@@ -153,7 +153,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="400px" align="center" alt="Knights_Tour_5x5" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_5x5.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Knights_Tour_5x5" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_5x5.gif?raw=true"/></td>
 </tr>
 <tr>
  <td align="center">Knights_Tour_5x5</td>
