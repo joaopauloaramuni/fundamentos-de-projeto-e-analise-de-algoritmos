@@ -99,9 +99,9 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-#### Visualizando a complexidade de algoritmos:
+### Visualizando a complexidade de algoritmos:
 
-##### Algoritmos de busca:
+#### Algoritmos de busca:
 
 <div align="center">
 <table>
@@ -116,7 +116,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 </table>
 </div>
 
-##### Algoritmos de ordenação:
+#### Algoritmos de ordenação:
 
 <div align="center">
 <table>
@@ -148,7 +148,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 </table>
 </div>
 
-##### Tabuleiro 5x5:
+#### Tabuleiro 5x5:
 
 <div align="center">
 <table>
@@ -163,7 +163,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-#### Uma possível solução para o Problema do Caixeiro Viajante (Travelling Salesman Problem) usando um Algoritmo Evolutivo do PyGMO, um pacote Parallel Global Multiobjective Optimizer para Python:
+### Uma possível solução para o Problema do Caixeiro Viajante (Travelling Salesman Problem) usando um Algoritmo Evolutivo do PyGMO, um pacote Parallel Global Multiobjective Optimizer para Python:
 
 <div align="center">
 <table>
@@ -178,7 +178,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-#### Torres de Hanói - com 4 discos:
+### Torres de Hanói - com 4 discos:
 
 <div align="center">
   <img width="400px" alt="hanoi_4" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_4_disks.gif?raw=true"/>
