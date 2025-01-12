@@ -142,8 +142,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
  <td align="center"><img width="350px" align="center" alt="Knights_Tour_8x8_2" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_8x8_2.gif?raw=true"/></td>
 </tr>
 <tr>
- <td align="center">O cavalo visita cada casa exatamente uma vez. Duas casas em uma direção (horizontal ou vertical) e uma casa em uma direção perpendicular.</td>
- <td align="center">O problema do caminho do cavalo é um exemplo do problema do caminho hamiltoniano mais geral na teoria dos grafos.</td>
+ <td>O cavalo visita cada casa exatamente uma vez. Duas casas em uma direção (horizontal ou vertical) e uma casa em uma direção perpendicular.</td>
+ <td>O problema do caminho do cavalo é um exemplo do problema do caminho hamiltoniano mais geral na teoria dos grafos.</td>
 </tr>
 </table>
 </div>
@@ -153,10 +153,10 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="300px" align="center" alt="Knights_Tour_5x5" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_5x5.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Knights_Tour_5x5" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_5x5.gif?raw=true"/></td>
 </tr>
 <tr>
- <td align="center">Knights_Tour_5x5</td>
+ <td align="center">Como você começa em uma casa, você fará 24 movimentos em um tabuleiro 5×5.</td>
 </tr>
 </table>
 </div>
