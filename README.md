@@ -183,7 +183,14 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ### Torres de Hanói - com 4 discos:
 
 <div align="center">
-  <img width="400px" alt="hanoi_4" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_4_disks.gif?raw=true"/>
+<table>
+<tr>
+ <td align="center"><img width="400px" alt="hanoi_4" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_4_disks.gif?raw=true"/></td>
+</tr>
+<tr>
+ <td align="center">Tower of Hanoi with 4 disks</td>
+</tr>
+</table>
 </div>
 
 -----
