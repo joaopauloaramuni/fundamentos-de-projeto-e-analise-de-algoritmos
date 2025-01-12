@@ -131,9 +131,9 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-#### Caminho do cavalo (Knight's tour):
+### Caminho do cavalo (Knight's tour):
 
-##### Tabuleiro 8x8:
+#### Tabuleiro 8x8:
 
 <div align="center">
 <table>
