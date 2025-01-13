@@ -194,18 +194,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <table>
 <tr>
  <td align="center"><img alt="Travelling_Salesman_Problem" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Travelling_Salesman_Problem.gif?raw=true"/></td>
-</tr>
-<tr>
- <td align="center">Travelling Salesman Problem with PyGMO</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<table>
-<tr>
- <td align="center"><img alt="Travelling_Salesman_Problem" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Travelling_Salesman_Problem.gif?raw=true"/></td>
- <td align="center"><img height="300px" align="center" alt="Travelling_Salesman" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Traveling_Salesman_1.jpg?raw=true"/></td>
+ <td align="center"><img height="288px" align="center" alt="Travelling_Salesman" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Traveling_Salesman_1.jpg?raw=true"/></td>
 </tr>
 <tr>
  <td>Travelling Salesman Problem with PyGMO.</td>
