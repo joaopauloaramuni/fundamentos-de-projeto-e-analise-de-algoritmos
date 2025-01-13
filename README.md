@@ -155,10 +155,12 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="300px" align="center" alt="Knights_Tour_5x5" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_5x5.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Knights_Tour_5x5" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_5x5.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Knights_Tour_5x5_2" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_5x5_2.gif?raw=true"/></td>
 </tr>
 <tr>
- <td>Como você começa em uma casa, você fará 24<br>movimentos [(n x n) - 1] em um tabuleiro 5×5.</td>
+ <td>Como você começa em uma casa, você fará 24 movimentos [(n x n) - 1] em um tabuleiro 5×5.</td>
+ <td>Iniciando o caminho em uma casa diferente.</td>
 </tr>
 </table>
 </div>
@@ -172,12 +174,12 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="350px" align="center" alt="Knights_Tour_8x8" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Eight_Queens_Puzzle.gif?raw=true"/></td>
- <td align="center"><img width="350px" align="center" alt="Knights_Tour_8x8_2" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Eight_Queens_Puzzle_Min_Conflict.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Eight_Queens_Puzzle" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Eight_Queens_Puzzle.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Eight_Queens_Puzzle_Min_Conflict" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Eight_Queens_Puzzle_Min_Conflict.gif?raw=true"/></td>
 </tr>
 <tr>
- <td>A GIF acima ilustra o backtracking para resolver o problema. Uma rainha é colocada em uma coluna que não causa conflito. Se uma coluna não for encontrada, o programa retorna ao último estado bom e então tenta uma coluna diferente.</td>
- <td>solução de conflitos mínimos para 8 rainhas.</td>
+ <td>A GIF acima ilustra o backtracking para resolver o problema.</td>
+ <td>Solução de conflitos mínimos para 8 rainhas.</td>
 </tr>
 </table>
 </div>
