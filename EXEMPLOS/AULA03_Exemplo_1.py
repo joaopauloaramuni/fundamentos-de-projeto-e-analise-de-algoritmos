@@ -1,3 +1,7 @@
+# Busca Linear
+# Melhor Caso: O(1) -> O elemento está na primeira posição da lista.
+# Caso Médio: O(n) -> O elemento está em uma posição aleatória.
+# Pior Caso: O(n) -> O elemento não está na lista ou está na última posição.
 def sequential_search(arr, target):
     """
     Busca sequencial (força bruta).
@@ -12,7 +16,9 @@ def sequential_search(arr, target):
             return i  # Retorna o índice do elemento
     return -1  # Retorna -1 se não for encontrado
 
-
+# Melhor Caso: O(n^2) -> Sempre será O(n^2) devido à repetição de busca exaustiva.
+# Caso Médio: O(n^2) -> Sempre será O(n^2), independentemente da ordem inicial.
+# Pior Caso: O(n^2) -> Sempre será O(n^2), independente da entrada inicial.
 def sequential_sort(arr):
     """
     Ordenação sequencial (força bruta).
