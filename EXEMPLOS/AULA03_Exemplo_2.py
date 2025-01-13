@@ -32,7 +32,6 @@ def sum_of_digits_recursive(n):
 
 
 if __name__ == "__main__":
-    # Exemplo de uso
     numero = 12345
     print(f"Número: {numero}")
 
