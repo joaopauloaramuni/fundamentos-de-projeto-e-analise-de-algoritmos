@@ -150,7 +150,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 </table>
 </div>
 
-#### Tabuleiro 5x5 e exemplo de passeio em 8x8:
+#### Tabuleiro 5x5 e um exemplo de passeio em 8x8:
 
 <div align="center">
 <table>
