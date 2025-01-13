@@ -178,7 +178,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
  <td align="center"><img width="350px" align="center" alt="Eight_Queens_Puzzle_Min_Conflict" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Eight_Queens_Puzzle_Min_Conflict.gif?raw=true"/></td>
 </tr>
 <tr>
- <td>A GIF acima ilustra o backtracking para resolver o problema.</td>
+ <td>A GIF acima ilustra o backtracking para resolver o Problema das Oito Rainhas.</td>
  <td>Solução de conflitos mínimos para 8 rainhas.</td>
 </tr>
 </table>
