@@ -150,17 +150,17 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 </table>
 </div>
 
-#### Tabuleiro 5x5:
+#### Tabuleiro 5x5 e exemplo de passeio em 8x8:
 
 <div align="center">
 <table>
 <tr>
  <td align="center"><img width="300px" align="center" alt="Knights_Tour_5x5" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_5x5.gif?raw=true"/></td>
- <td align="center"><img width="400px" align="center" alt="Knights_Tour_5x5_2" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_5x5_2.gif?raw=true"/></td>
+ <td align="center"><img width="400px" align="center" alt="Knights_Tour_8x8_3" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_8x8_3.gif?raw=true"/></td>
 </tr>
 <tr>
  <td>Como você começa em uma casa, você fará 24 movimentos [(n x n) - 1] em um tabuleiro 5×5.</td>
- <td>Iniciando o caminho em uma casa diferente.</td>
+ <td>Um exemplo de passeio aberto de cavalo em um tabuleiro de xadrez 8x8.</td>
 </tr>
 </table>
 </div>
