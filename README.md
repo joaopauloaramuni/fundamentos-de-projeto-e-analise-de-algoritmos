@@ -165,6 +165,25 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
+### Problema das Oito Rainhas (Eight Queens Puzzle):
+
+#### Tabuleiro 8x8:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center"><img width="350px" align="center" alt="Knights_Tour_8x8" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Eight_Queens_Puzzle.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Knights_Tour_8x8_2" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Eight_Queens_Puzzle_Min_Conflict.gif?raw=true"/></td>
+</tr>
+<tr>
+ <td>A GIF acima ilustra o backtracking para resolver o problema. Uma rainha é colocada em uma coluna que não causa conflito. Se uma coluna não for encontrada, o programa retorna ao último estado bom e então tenta uma coluna diferente.</td>
+ <td>solução de conflitos mínimos para 8 rainhas.</td>
+</tr>
+</table>
+</div>
+
+-----
+
 ### Caixeiro Viajante (Travelling Salesman Problem):
 
 #### Uma possível <a href="https://github.com/GuintherKovalski/Travelling-Salesman-Problem" target="_blank">solução</a> para o Problema do Caixeiro Viajante (Travelling Salesman Problem) usando um Algoritmo Evolutivo do <a href="https://esa.github.io/pygmo/" target="_blank">PyGMO</a>, um pacote Parallel Global Multiobjective Optimizer para Python:
