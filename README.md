@@ -217,8 +217,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div align="center">
 <table>
 <tr>
- <td align="center"><img align="center" alt="Flood_Fill" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Flood_Fill.gif?raw=true"/></td>
- <td align="center"><img align="center" alt="Flood_Fill_2" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Flood_Fill_2.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Flood_Fill" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Flood_Fill.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Flood_Fill_2" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Flood_Fill_2.gif?raw=true"/></td>
 </tr>
 <tr>
  <td align="center">Com Python</td>
