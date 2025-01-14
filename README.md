@@ -200,8 +200,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
  <td align="center"><img height="300px" align="center" alt="Travelling_Salesman" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Traveling_Salesman_1.jpg?raw=true"/></td>
 </tr>
 <tr>
- <td>Travelling Salesman Problem with PyGMO.</td>
- <td>Travelling Salesman</td>
+ <td align="center">Travelling Salesman Problem with PyGMO</td>
+ <td align="center">Travelling Salesman</td>
 </tr>
 </table>
 </div>
@@ -216,7 +216,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
  <td align="center"><img width="400px" alt="hanoi_4" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_4_disks.gif?raw=true"/></td>
 </tr>
 <tr>
- <td align="center">Tower of Hanoi with 4 disks.</td>
+ <td align="center">Tower of Hanoi with 4 disks</td>
 </tr>
 </table>
 </div>
