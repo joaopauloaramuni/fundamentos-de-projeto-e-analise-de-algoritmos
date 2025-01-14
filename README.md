@@ -78,6 +78,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ##### Leituras e vídeos sugeridos:
 - [2024 - Python Big O: the time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
+- [2022 - Comparing Flood Fill Algorithms in JavaScript](https://codeheir.com/2022/08/21/comparing-flood-fill-algorithms-in-javascript/)
+- [2020 - Algorithm to Flood Fill in Python - GitHub](https://github.com/ThiagoCComelli/Flood-Fill)
 - [2018 - Big-O: How Code Slows as Data Grows](https://nedbatchelder.com/text/bigo.html)
 - [2018 - Ned Batchelder - Big-O: How Code Slows as Data Grows - PyCon 2018](https://www.youtube.com/watch?v=duvZ-2UK0fc)
 - [2018 - Visualizing Algorithm Complexity](https://www.somesolvedproblems.com/2018/02/visualizing-algorithm-complexity.html)
@@ -196,12 +198,31 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div align="center">
 <table>
 <tr>
- <td align="center"><img alt="Travelling_Salesman_Problem" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Travelling_Salesman_Problem.gif?raw=true"/></td>
+ <td align="center"><img align="center" alt="Travelling_Salesman_Problem" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Travelling_Salesman_Problem.gif?raw=true"/></td>
  <td align="center"><img height="290px" align="center" alt="Travelling_Salesman" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Traveling_Salesman_1.jpg?raw=true"/></td>
 </tr>
 <tr>
  <td align="center">Travelling Salesman Problem with PyGMO</td>
  <td align="center">Travelling Salesman</td>
+</tr>
+</table>
+</div>
+
+-----
+
+### Preenchimento por inundação (Flood Fill):
+
+#### Uma possível <a href="https://github.com/ThiagoCComelli/Flood-Fill" target="_blank">solução</a> para visualizar o Flood Fill usando Python e uma <a href="https://codeheir.com/2022/08/21/comparing-flood-fill-algorithms-in-javascript/" target="_blank">comparação</a> de algoritmos Flood Fill com JavaScript:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center"><img align="center" alt="Flood_Fill" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Flood_Fill.gif?raw=true"/></td>
+ <td align="center"><img align="center" alt="Flood_Fill_2" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Flood_Fill_2.gif?raw=true"/></td>
+</tr>
+<tr>
+ <td align="center">Com Python</td>
+ <td align="center">Com JavaScript</td>
 </tr>
 </table>
 </div>
