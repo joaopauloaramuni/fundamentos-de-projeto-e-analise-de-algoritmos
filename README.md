@@ -98,7 +98,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-#### 15 algoritmos de ordenação em 6 minutos:
+#### 15 algoritmos de ordenação em 6 minutos: (Habilite o som)
 
 [15 Sorting Algorithms in 6 Minutes](https://github.com/user-attachments/assets/ae31dea9-19c4-40f1-a885-a862bb1aa615)
 
