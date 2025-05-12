@@ -115,8 +115,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div align="center">
 <table>
 <tr>
- <td align="center"><img align="center" alt="min_complexity" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/min_complexity.gif?raw=true"/></td>
- <td align="center"><img align="center" alt="min_complexity" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/min_complexity2.gif?raw=true"/></td>
+ <td align="center"><img align="center" alt="min_complexity" src="https://joaopauloaramuni.github.io/image/min_complexity.gif?raw=true"/></td>
+ <td align="center"><img align="center" alt="min_complexity" src="https://joaopauloaramuni.github.io/image/min_complexity2.gif?raw=true"/></td>
 </tr>
 <tr>
  <td>Cada algoritmo tenta encontrar o número 29 em um conjunto de 40 números ordenados do menor para o maior.</td>
@@ -130,7 +130,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="400px" align="center" alt="min_complexitysort" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/min_complexitysort.gif?raw=true"/></td>
+ <td align="center"><img width="400px" align="center" alt="min_complexitysort" src="https://joaopauloaramuni.github.io/image/min_complexitysort.gif?raw=true"/></td>
 </tr>
 <tr>
  <td align="center">Merge Sort vs Bubble Sort</td>
@@ -147,8 +147,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="350px" align="center" alt="Knights_Tour_8x8" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_8x8.gif?raw=true"/></td>
- <td align="center"><img width="350px" align="center" alt="Knights_Tour_8x8_2" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_8x8_2.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Knights_Tour_8x8" src="https://joaopauloaramuni.github.io/image/Knights_Tour_8x8.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Knights_Tour_8x8_2" src="https://joaopauloaramuni.github.io/image/Knights_Tour_8x8_2.gif?raw=true"/></td>
 </tr>
 <tr>
  <td>O cavalo visita cada casa exatamente uma vez. Duas casas em uma direção (horizontal ou vertical) e uma casa em uma direção perpendicular.</td>
@@ -162,8 +162,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="290px" align="center" alt="Knights_Tour_5x5" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_5x5.gif?raw=true"/></td>
- <td align="center"><img width="300px" align="center" alt="Knights_Tour_8x8_3" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Knights_Tour_8x8_3.gif?raw=true"/></td>
+ <td align="center"><img width="290px" align="center" alt="Knights_Tour_5x5" src="https://joaopauloaramuni.github.io/image/Knights_Tour_5x5.gif?raw=true"/></td>
+ <td align="center"><img width="300px" align="center" alt="Knights_Tour_8x8_3" src="https://joaopauloaramuni.github.io/image/Knights_Tour_8x8_3.gif?raw=true"/></td>
 </tr>
 <tr>
  <td>Como você começa em uma casa, você fará 24 movimentos [(n x n) - 1] em um tabuleiro 5×5.</td>
@@ -181,8 +181,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="350px" align="center" alt="Eight_Queens_Puzzle" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Eight_Queens_Puzzle.gif?raw=true"/></td>
- <td align="center"><img width="350px" align="center" alt="Eight_Queens_Puzzle_Min_Conflict" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Eight_Queens_Puzzle_Min_Conflict.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Eight_Queens_Puzzle" src="https://joaopauloaramuni.github.io/image/Eight_Queens_Puzzle.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Eight_Queens_Puzzle_Min_Conflict" src="https://joaopauloaramuni.github.io/image/Eight_Queens_Puzzle_Min_Conflict.gif?raw=true"/></td>
 </tr>
 <tr>
  <td>Backtracking para resolver o Problema das Oito Rainhas.</td>
@@ -200,8 +200,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div align="center">
 <table>
 <tr>
- <td align="center"><img align="center" alt="Travelling_Salesman_Problem" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Travelling_Salesman_Problem.gif?raw=true"/></td>
- <td align="center"><img height="290px" align="center" alt="Travelling_Salesman" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Traveling_Salesman_1.jpg?raw=true"/></td>
+ <td align="center"><img align="center" alt="Travelling_Salesman_Problem" src="https://joaopauloaramuni.github.io/image/Travelling_Salesman_Problem.gif?raw=true"/></td>
+ <td align="center"><img height="290px" align="center" alt="Travelling_Salesman" src="https://joaopauloaramuni.github.io/image/Traveling_Salesman_1.jpg?raw=true"/></td>
 </tr>
 <tr>
  <td align="center">Travelling Salesman Problem with PyGMO</td>
@@ -219,8 +219,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="350px" align="center" alt="Flood_Fill" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Flood_Fill.gif?raw=true"/></td>
- <td align="center"><img width="350px" align="center" alt="Flood_Fill_2" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Flood_Fill_2.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Flood_Fill" src="https://joaopauloaramuni.github.io/image/Flood_Fill.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Flood_Fill_2" src="https://joaopauloaramuni.github.io/image/Flood_Fill_2.gif?raw=true"/></td>
 </tr>
 <tr>
  <td align="center">Com Python</td>
@@ -236,7 +236,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="400px" alt="hanoi_4" src="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/img/Tower_of_Hanoi_4_disks.gif?raw=true"/></td>
+ <td align="center"><img width="400px" alt="hanoi_4" src="https://joaopauloaramuni.github.io/image/Tower_of_Hanoi_4_disks.gif?raw=true"/></td>
 </tr>
 <tr>
  <td align="center">Tower of Hanoi with 4 disks</td>
