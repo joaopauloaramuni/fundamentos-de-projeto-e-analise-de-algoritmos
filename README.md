@@ -273,7 +273,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 </table>
 </div>
 
-Outras duas possíveis soluções do Geeks for Geeks com complexidades O(n*9^(n*n) e O(9^(n*n)):
+Outras duas possíveis soluções do Geeks for Geeks com complexidades `O(n*9^(n*n)) e O(9^(n*n))`:
 - [2025 - Geeks for Geeks - Sudoku Backtracking with Python](https://www.geeksforgeeks.org/dsa/sudoku-backtracking-7/)
 
 -----
