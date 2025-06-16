@@ -232,7 +232,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ### Preenchimento por inundação (Flood-Fill Algorithm):
 
-#### Uma possível <a href="https://github.com/ThiagoCComelli/Flood-Fill" target="_blank">solução</a> para visualizar o Flood Fill usando Python e uma <a href="https://codeheir.com/2022/08/21/comparing-flood-fill-algorithms-in-javascript/" target="_blank">comparação</a> de algoritmos Flood Fill com JavaScript:
+#### Uma possível <a href="https://github.com/ThiagoCComelli/Flood-Fill" target="_blank">solução</a> para visualizar o Flood Fill usando Python; e uma <a href="https://codeheir.com/2022/08/21/comparing-flood-fill-algorithms-in-javascript/" target="_blank">comparação</a> de algoritmos Flood Fill com JavaScript:
 
 <div align="center">
 <table>
@@ -243,6 +243,25 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <tr>
  <td align="center">Com Python</td>
  <td align="center">Com JavaScript</td>
+</tr>
+</table>
+</div>
+
+-----
+
+### Sudoku com algoritmo de retrocesso (Sudoku Backtracking):
+
+#### <a href="https://github.com/willtrinh/Sudoku-Solver" target="_blank">Sudoku Autosolver</a> gamificado em Python com Interface Gráfica, Pygame e Algoritmo de Backtracking; e um <a href="https://github.com/SarthakV7/ai_sudoku_solver" target="_blank">Sudoku Solver com IA</a>, Deep Learning e OpenCV:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center"><img width="350px" align="center" alt="Sudoku" src="https://joaopauloaramuni.github.io/image/Sudoku_autosolve.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Sudoku_2" src="https://joaopauloaramuni.github.io/image/Sudoku_solved_by_bactracking_2?raw=true"/></td>
+</tr>
+<tr>
+ <td align="center">https://github.com/willtrinh/Sudoku-Solver</td>
+ <td align="center">https://github.com/SarthakV7/ai_sudoku_solver</td>
 </tr>
 </table>
 </div>
