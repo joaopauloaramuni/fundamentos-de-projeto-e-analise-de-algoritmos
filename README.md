@@ -78,13 +78,25 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Travelling Salesman Problem with PyGMO - GitHub](https://github.com/GuintherKovalski/Travelling-Salesman-Problem)
 
 ##### Leituras e vídeos sugeridos:
-- [2024 - Python Big O: the time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
+
+###### Sudoku:
+- [2025 - Geeks for Geeks - Sudoku Backtracking with Python](https://www.geeksforgeeks.org/dsa/sudoku-backtracking-7/)
+- [2019 - Tech with Tim - Learn how to create a Sudoku Solver using python and backtracking](https://www.techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking)
+- [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.1](https://www.youtube.com/watch?v=eqUwSA0xI-s)
+- [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.2](https://www.youtube.com/watch?v=lK4N8E6uNr4)
+
+###### Flood Fill:
 - [2022 - Comparing Flood Fill Algorithms in JavaScript](https://codeheir.com/2022/08/21/comparing-flood-fill-algorithms-in-javascript/)
 - [2020 - Algorithm to Flood Fill in Python - GitHub](https://github.com/ThiagoCComelli/Flood-Fill)
+
+###### Algorithm Complexity and Visualizations:
+- [2024 - Python Big O: the time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
 - [2018 - Big-O: How Code Slows as Data Grows](https://nedbatchelder.com/text/bigo.html)
 - [2018 - Ned Batchelder - Big-O: How Code Slows as Data Grows - PyCon 2018](https://www.youtube.com/watch?v=duvZ-2UK0fc)
 - [2018 - Visualizing Algorithm Complexity](https://www.somesolvedproblems.com/2018/02/visualizing-algorithm-complexity.html)
 - [2015 - Course - MIT - Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+
+###### Traveling Salesman:
 - [2014 - Traveling Salesman with Simulated Annealing, R, and Shiny - Post no Blog](https://toddwschneider.com/posts/traveling-salesman-with-simulated-annealing-r-and-shiny/)
 - [2014 - Traveling Salesman with Simulated Annealing, R, and Shiny - GitHub](https://github.com/toddwschneider/shiny-salesman)
 
