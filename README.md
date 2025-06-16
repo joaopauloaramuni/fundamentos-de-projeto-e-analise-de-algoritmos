@@ -86,6 +86,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ###### Sudoku:
 - [2025 - Geeks for Geeks - Sudoku Backtracking with Python](https://www.geeksforgeeks.org/dsa/sudoku-backtracking-7/)
+- [2020 - AI-Powered Sudoku Solver with Deep Learning and OpenCV - Article](https://www.kaggle.com/code/sarthakvajpayee/simple-ai-sudoku-solver)
 - [2020 - AI-Powered Sudoku Solver with Deep Learning and OpenCV - GitHub](https://github.com/SarthakV7/ai_sudoku_solver)
 - [2019 - Tech with Tim - Learn how to create a Sudoku Solver using python and backtracking](https://www.techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking)
 - [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.1](https://www.youtube.com/watch?v=eqUwSA0xI-s)
