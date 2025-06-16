@@ -1,4 +1,4 @@
-# Algoritmo resolvedor de Sudoku com backtracking | Sudoku Solver 🧩✨
+# Algoritmo resolvedor de Sudoku com backtracking | Sudoku Solver 🧩
 
 **Última atualização no Geeks for Geeks:** 📅 31 de janeiro de 2025
 
