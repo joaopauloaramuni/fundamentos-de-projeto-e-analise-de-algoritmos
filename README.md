@@ -257,7 +257,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <table>
 <tr>
  <td align="center"><img width="350px" align="center" alt="Sudoku" src="https://joaopauloaramuni.github.io/image/Sudoku_autosolve.gif?raw=true"/></td>
- <td align="center"><img width="350px" align="center" alt="Sudoku_2" src="https://joaopauloaramuni.github.io/image/Sudoku_solved_by_bactracking_2?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Sudoku_2" src="https://joaopauloaramuni.github.io/image/Sudoku_solved_by_bactracking_2.gif?raw=true"/></td>
 </tr>
 <tr>
  <td align="center">https://github.com/willtrinh/Sudoku-Solver</td>
