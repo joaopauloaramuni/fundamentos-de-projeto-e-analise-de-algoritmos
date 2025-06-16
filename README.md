@@ -258,7 +258,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ### Sudoku com algoritmo de retrocesso (Sudoku Backtracking):
 
-#### <a href="https://github.com/willtrinh/Sudoku-Solver" target="_blank">Sudoku Autosolver</a> gamificado em Python com Interface Gráfica, Pygame e Algoritmo de Backtracking; e um <a href="https://github.com/SarthakV7/ai_sudoku_solver" target="_blank">Sudoku Solver com IA</a>, Deep Learning e OpenCV:
+#### <a href="https://github.com/willtrinh/Sudoku-Solver" target="_blank">Um Sudoku Autosolver</a> gamificado em Python com Interface Gráfica, Pygame e Algoritmo de Backtracking; e um <a href="https://github.com/SarthakV7/ai_sudoku_solver" target="_blank">Sudoku Solver com IA</a>, Deep Learning e OpenCV:
 
 <div align="center">
 <table>
@@ -272,6 +272,9 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 </tr>
 </table>
 </div>
+
+Outras duas possíveis soluções do Geeks for Geeks com complexidades O(n*9^(n*n) e O(9^(n*n)):
+- [2025 - Geeks for Geeks - Sudoku Backtracking with Python](https://www.geeksforgeeks.org/dsa/sudoku-backtracking-7/)
 
 -----
 
