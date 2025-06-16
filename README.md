@@ -77,10 +77,16 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [PyGMO - Documentação](https://esa.github.io/pygmo/documentation/index.html)
 - [Travelling Salesman Problem with PyGMO - GitHub](https://github.com/GuintherKovalski/Travelling-Salesman-Problem)
 
+##### PyGame:
+- [PyGame - Página principal](https://www.pygame.org/news)
+- [PyGame - Documentação](https://www.pygame.org/docs/)
+- [Sudoku GUI Solver & Game in Python (Backtracking) - GitHub](https://github.com/willtrinh/Sudoku-Solver)
+
 ##### Leituras e vídeos sugeridos:
 
 ###### Sudoku:
 - [2025 - Geeks for Geeks - Sudoku Backtracking with Python](https://www.geeksforgeeks.org/dsa/sudoku-backtracking-7/)
+- [2020 - AI-Powered Sudoku Solver with Deep Learning and OpenCV - GitHub](https://github.com/SarthakV7/ai_sudoku_solver)
 - [2019 - Tech with Tim - Learn how to create a Sudoku Solver using python and backtracking](https://www.techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking)
 - [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.1](https://www.youtube.com/watch?v=eqUwSA0xI-s)
 - [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.2](https://www.youtube.com/watch?v=lK4N8E6uNr4)
