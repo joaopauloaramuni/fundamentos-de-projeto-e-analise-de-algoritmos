@@ -92,6 +92,12 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.1](https://www.youtube.com/watch?v=eqUwSA0xI-s)
 - [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.2](https://www.youtube.com/watch?v=lK4N8E6uNr4)
 
+###### Knight's tour:
+- [2025 - Geeks for Geeks - Knights tour problem](https://www.geeksforgeeks.org/dsa/the-knights-tour-problem/)
+
+###### N Queen problem:
+- [2025 - Geeks for Geeks - N Queen - Backtracking](https://www.geeksforgeeks.org/dsa/n-queen-problem-backtracking-3/)
+
 ###### Flood Fill:
 - [2022 - Comparing Flood Fill Algorithms in JavaScript](https://codeheir.com/2022/08/21/comparing-flood-fill-algorithms-in-javascript/)
 - [2020 - Algorithm to Flood Fill in Python - GitHub](https://github.com/ThiagoCComelli/Flood-Fill)
