@@ -119,6 +119,10 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [2022 - Comparing Flood Fill Algorithms in JavaScript](https://codeheir.com/2022/08/21/comparing-flood-fill-algorithms-in-javascript/)
 - [2020 - Algorithm to Flood Fill in Python - GitHub](https://github.com/ThiagoCComelli/Flood-Fill)
 
+###### A* Algorithm:
+- [2017 - A* Pathfinding Algorithm (Coding Challenge 51 - Part 1](https://www.youtube.com/watch?v=aKYlikFAV4k)
+- [2017 - A* Pathfinding Algorithm (Coding Challenge 51 - Part 2](https://www.youtube.com/watch?v=EaZxUCWAjb0)
+
 ###### Algorithm Complexity and Visualizations:
 - [2024 - Python Big O: the time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
 - [2018 - Big-O: How Code Slows as Data Grows](https://nedbatchelder.com/text/bigo.html)
