@@ -121,7 +121,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ###### A* Algorithm:
 - [2017 - A* Pathfinding Algorithm (Coding Challenge 51 - Part 1](https://www.youtube.com/watch?v=aKYlikFAV4k)
-- [2017 - A* Pathfinding Algorithm (Coding Challenge 51 - Part 2](https://www.youtube.com/watch?v=EaZxUCWAjb0)
+- [2017 - A* Pathfinding Algorithm (Coding Challenge 51.2 - Part 2](https://www.youtube.com/watch?v=EaZxUCWAjb0)
 
 ###### Algorithm Complexity and Visualizations:
 - [2024 - Python Big O: the time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
