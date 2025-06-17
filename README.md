@@ -85,20 +85,30 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ##### Leituras e vídeos sugeridos:
 
 ###### Sudoku:
-- [2025 - Geeks for Geeks - Sudoku Backtracking with Python](https://www.geeksforgeeks.org/dsa/sudoku-backtracking-7/)
+- [2025 - Sudoku Backtracking with Python](https://www.geeksforgeeks.org/dsa/sudoku-backtracking-7/)
 - [2020 - AI-Powered Sudoku Solver with Deep Learning and OpenCV - Article](https://www.kaggle.com/code/sarthakvajpayee/simple-ai-sudoku-solver)
 - [2020 - AI-Powered Sudoku Solver with Deep Learning and OpenCV - GitHub](https://github.com/SarthakV7/ai_sudoku_solver)
 - [2019 - Tech with Tim - Learn how to create a Sudoku Solver using python and backtracking](https://www.techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking)
 - [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.1](https://www.youtube.com/watch?v=eqUwSA0xI-s)
 - [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.2](https://www.youtube.com/watch?v=lK4N8E6uNr4)
 
-###### Knight's tour:
-- [2025 - Geeks for Geeks - Knights tour problem](https://www.geeksforgeeks.org/dsa/the-knights-tour-problem/)
+###### Knight's tour Problem:
+- [2025 - Knights tour problem](https://www.geeksforgeeks.org/dsa/the-knights-tour-problem/)
 - [1997 - An efficient algorithm for the Knight's tour problem](https://mimuw.edu.pl/~rytter/TEACHING/ALCOMB/efficient%20algorithm%20recursion%20knight.pdf)
 
-###### N Queen problem:
-- [2025 - Geeks for Geeks - N Queen - Backtracking](https://www.geeksforgeeks.org/dsa/n-queen-problem-backtracking-3/)
+###### Subset Sum Problem:
+- [2025 - Subset Sum Problem (Dynamic Programming)](https://www.geeksforgeeks.org/dsa/subset-sum-problem-dp-25/)
+- [2023 - Subset Sum Problem using Backtracking](https://www.geeksforgeeks.org/dsa/subset-sum-problem/)
+- [2023 - Subset Sum is NP Complete](https://www.geeksforgeeks.org/dsa/subset-sum-is-np-complete/)
+
+###### N Queens Problem:
+- [2025 - N Queen - Backtracking](https://www.geeksforgeeks.org/dsa/n-queen-problem-backtracking-3/)
 - [1990 - A polynomial time algorithm for the N-Queens problem](https://dl.acm.org/doi/pdf/10.1145/101340.101343)
+
+###### Traveling Salesman Problem:
+- [2024 - Traveling Salesman Problem (TSP) Implementation](https://www.geeksforgeeks.org/dsa/traveling-salesman-problem-tsp-implementation/)
+- [2014 - Traveling Salesman with Simulated Annealing, R, and Shiny - Post no Blog](https://toddwschneider.com/posts/traveling-salesman-with-simulated-annealing-r-and-shiny/)
+- [2014 - Traveling Salesman with Simulated Annealing, R, and Shiny - GitHub](https://github.com/toddwschneider/shiny-salesman)
 
 ###### Flood Fill:
 - [2022 - Comparing Flood Fill Algorithms in JavaScript](https://codeheir.com/2022/08/21/comparing-flood-fill-algorithms-in-javascript/)
@@ -110,10 +120,6 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [2018 - Ned Batchelder - Big-O: How Code Slows as Data Grows - PyCon 2018](https://www.youtube.com/watch?v=duvZ-2UK0fc)
 - [2018 - Visualizing Algorithm Complexity](https://www.somesolvedproblems.com/2018/02/visualizing-algorithm-complexity.html)
 - [2015 - Course - MIT - Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
-
-###### Traveling Salesman:
-- [2014 - Traveling Salesman with Simulated Annealing, R, and Shiny - Post no Blog](https://toddwschneider.com/posts/traveling-salesman-with-simulated-annealing-r-and-shiny/)
-- [2014 - Traveling Salesman with Simulated Annealing, R, and Shiny - GitHub](https://github.com/toddwschneider/shiny-salesman)
 
 -----
 
@@ -276,7 +282,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 </div>
 
 Abaixo, outras duas possíveis soluções do Geeks for Geeks com complexidades `O(n*9^(n*n)) e O(9^(n*n))`:
-- [2025 - Geeks for Geeks - Sudoku Backtracking with Python](https://www.geeksforgeeks.org/dsa/sudoku-backtracking-7/)
+- [2025 - Sudoku Backtracking with Python](https://www.geeksforgeeks.org/dsa/sudoku-backtracking-7/)
 
 -----
 
