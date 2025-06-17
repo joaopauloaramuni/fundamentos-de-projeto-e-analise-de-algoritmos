@@ -94,6 +94,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ###### Knight's tour:
 - [2025 - Geeks for Geeks - Knights tour problem](https://www.geeksforgeeks.org/dsa/the-knights-tour-problem/)
+- [1997 - An efficient algorithm for the Knight's tour problem](https://mimuw.edu.pl/~rytter/TEACHING/ALCOMB/efficient%20algorithm%20recursion%20knight.pdf)
 
 ###### N Queen problem:
 - [2025 - Geeks for Geeks - N Queen - Backtracking](https://www.geeksforgeeks.org/dsa/n-queen-problem-backtracking-3/)
