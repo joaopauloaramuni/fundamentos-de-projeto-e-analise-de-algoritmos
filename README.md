@@ -98,6 +98,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ###### N Queen problem:
 - [2025 - Geeks for Geeks - N Queen - Backtracking](https://www.geeksforgeeks.org/dsa/n-queen-problem-backtracking-3/)
+- [1990 - A polynomial time algorithm for the N-Queens problem](https://dl.acm.org/doi/pdf/10.1145/101340.101343)
 
 ###### Flood Fill:
 - [2022 - Comparing Flood Fill Algorithms in JavaScript](https://codeheir.com/2022/08/21/comparing-flood-fill-algorithms-in-javascript/)
