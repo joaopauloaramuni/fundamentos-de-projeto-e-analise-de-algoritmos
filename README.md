@@ -105,6 +105,11 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [2025 - N Queen - Backtracking](https://www.geeksforgeeks.org/dsa/n-queen-problem-backtracking-3/)
 - [1990 - A polynomial time algorithm for the N-Queens problem](https://dl.acm.org/doi/pdf/10.1145/101340.101343)
 
+###### Knapsack Problem:
+- [2025 - 0/1 Knapsack Problem (Dynamic Programming)](https://www.geeksforgeeks.org/dsa/0-1-knapsack-problem-dp-10/)
+- [2025 - 0/1 Knapsack Problem - GeeksforGeeks Practice](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
+- [2025 - 0/1 Knapsack Problem - W3Schools](https://www.w3schools.com/dsa/dsa_ref_knapsack.php)
+
 ###### Traveling Salesman Problem:
 - [2024 - Traveling Salesman Problem (TSP) Implementation](https://www.geeksforgeeks.org/dsa/traveling-salesman-problem-tsp-implementation/)
 - [2014 - Traveling Salesman with Simulated Annealing, R, and Shiny - Post no Blog](https://toddwschneider.com/posts/traveling-salesman-with-simulated-annealing-r-and-shiny/)
