@@ -183,7 +183,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-### Caminho do cavalo (Knight's tour):
+### 🐴 Caminho do cavalo (Knight's tour):
 
 #### Tabuleiro 8x8:
 
@@ -217,7 +217,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-### Problema das Oito Rainhas (Eight Queens Puzzle):
+### 👑 Problema das Oito Rainhas (Eight Queens Puzzle):
 
 #### Tabuleiro 8x8:
 
@@ -236,7 +236,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-### Caixeiro Viajante (Travelling Salesman Problem):
+### 🧳 Caixeiro Viajante (Travelling Salesman Problem):
 
 #### Uma possível <a href="https://github.com/GuintherKovalski/Travelling-Salesman-Problem" target="_blank">solução</a> para o Problema do Caixeiro Viajante (Travelling Salesman Problem) usando um Algoritmo Evolutivo do <a href="https://esa.github.io/pygmo/" target="_blank">PyGMO</a>, um pacote Parallel Global Multiobjective Optimizer para Python:
 
@@ -274,7 +274,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-### Sudoku com algoritmo de retrocesso (Sudoku Backtracking):
+### 🧩 Sudoku com algoritmo de retrocesso (Sudoku Backtracking):
 
 #### <a href="https://github.com/willtrinh/Sudoku-Solver" target="_blank">Um Sudoku Autosolver</a> gamificado em Python com Interface Gráfica, Pygame e Algoritmo de Backtracking; e um <a href="https://github.com/SarthakV7/ai_sudoku_solver" target="_blank">Sudoku Solver com IA</a>, Deep Learning e OpenCV:
 
