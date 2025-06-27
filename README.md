@@ -133,19 +133,19 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-#### Medição de tempos de execução para 1 bilhão de iterações em loops aninhados - 31 Linguagens:
+#### 🎥 Medição de tempos de execução para 1 bilhão de iterações em loops aninhados - 31 Linguagens:
  
 [1 Billion nested loop iterations](https://github.com/user-attachments/assets/ecc2b488-08b9-4fa8-a86e-3091cba92e91)
 
 -----
 
-#### Medição de tempos de execução para o Fibonacci - 14 Linguagens:
+#### 🎥 Medição de tempos de execução para o Fibonacci - 14 Linguagens:
 
 [Naïve Fibonacci](https://github.com/user-attachments/assets/718297e4-a105-4fe0-8854-5450c8fead95)
 
 -----
 
-#### 15 algoritmos de ordenação em 6 minutos: (Habilite o som)
+#### 🎥 15 algoritmos de ordenação em 6 minutos: (Habilite o som)
 
 [15 Sorting Algorithms in 6 Minutes](https://github.com/user-attachments/assets/ae31dea9-19c4-40f1-a885-a862bb1aa615)
 
