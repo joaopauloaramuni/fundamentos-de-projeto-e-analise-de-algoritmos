@@ -54,12 +54,12 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 
 ##### 📚 Livros recomendados:
-- [Algoritmos - Thomas H. Cormen](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904)
-- [Algorithms - Robert Sedgewick](https://www.amazon.com.br/Algorithms-Robert-Sedgewick/dp/032157351X)
-- [Algorithms in a Nutshell - George Heineman](https://www.amazon.com.br/Algorithms-Nutshell-2e-George-Heineman/dp/1491948922)
-- [Python Fluente: Programação Concisa e Eficaz](https://www.amazon.com.br/Python-Fluente-Programação-Concisa-Eficaz/dp/857522462X)
-- [Pense em Python: Como Cientista da Computação](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computação/dp/8575225081)
-- [Python Essential Reference - David Beazley](https://www.amazon.com.br/Python-Essential-Reference-David-Beazley-dp-0134173279/dp/0134173279)
+- 📕 [Algoritmos - Thomas H. Cormen](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904)
+- 📗 [Algorithms - Robert Sedgewick](https://www.amazon.com.br/Algorithms-Robert-Sedgewick/dp/032157351X)
+- 📘 [Algorithms in a Nutshell - George Heineman](https://www.amazon.com.br/Algorithms-Nutshell-2e-George-Heineman/dp/1491948922)
+- 📙 [Python Fluente: Programação Concisa e Eficaz](https://www.amazon.com.br/Python-Fluente-Programação-Concisa-Eficaz/dp/857522462X)
+- 📒 [Pense em Python: Como Cientista da Computação](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computação/dp/8575225081)
+- 📔 [Python Essential Reference - David Beazley](https://www.amazon.com.br/Python-Essential-Reference-David-Beazley-dp-0134173279/dp/0134173279)
 
 ##### ⏱️ Medição de tempo de execução em diversas linguagens:
 - [BenjDicken - Linguagens](https://benjdd.com/languages/)
@@ -93,7 +93,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.1](https://www.youtube.com/watch?v=eqUwSA0xI-s)
 - [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.2](https://www.youtube.com/watch?v=lK4N8E6uNr4)
 
-###### ♞ Knight's tour Problem:
+###### 🐴 Knight's tour Problem:
 - [2025 - Knights tour problem](https://www.geeksforgeeks.org/dsa/the-knights-tour-problem/)
 - [1997 - An efficient algorithm for the Knight's tour problem](https://mimuw.edu.pl/~rytter/TEACHING/ALCOMB/efficient%20algorithm%20recursion%20knight.pdf)
 
