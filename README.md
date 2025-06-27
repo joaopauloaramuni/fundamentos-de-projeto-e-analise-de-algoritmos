@@ -255,7 +255,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-### Preenchimento por inundação (Flood-Fill Algorithm):
+### 🌊 Preenchimento por inundação (Flood-Fill Algorithm):
 
 #### Uma possível <a href="https://github.com/ThiagoCComelli/Flood-Fill" target="_blank">solução</a> para visualizar o Flood Fill usando Python; e uma <a href="https://codeheir.com/2022/08/21/comparing-flood-fill-algorithms-in-javascript/" target="_blank">comparação</a> de algoritmos Flood Fill com JavaScript:
 
@@ -296,7 +296,7 @@ Abaixo, outras duas possíveis soluções do Geeks for Geeks com complexidades `
 
 -----
 
-### Torres de Hanói - com 4 discos:
+### 🛕 Torres de Hanói - com 4 discos:
 
 <div align="center">
 <table>
