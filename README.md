@@ -25,33 +25,35 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   - [Individuais](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/tree/main/TRABALHOS/INDIVIDUAIS)
   - [Em grupo](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/tree/main/TRABALHOS/EM%20GRUPO)
 
-#### Python:
+#### Links úteis:
+
+##### 🐍 Python:
 - [Documentação Oficial do Python](https://docs.python.org/3/)
 - [DevDocs - Python 3.10](https://devdocs.io/python~3.10/)
 
-#### Python Tutor:
+##### 🐢 Python Tutor:
 - [Python Tutor - Página principal](https://pythontutor.com/)
 - [Python Tutor - Python Compiler](https://pythontutor.com/python-compiler.html)  
   *(Permite visualizar graficamente a execução passo a passo do código, mostrando como as variáveis, pilha de chamadas na memória e estruturas de dados evoluem ao longo da execução.)*
 
-#### Programiz:
+##### 🖥️ Programiz:
 - [Programiz - Compilador Online para Python](https://www.programiz.com/python-programming/online-compiler/)  
   *(Ideal para quem não está com o ambiente configurado no VS Code ou PyCharm.)*
 
-#### Big-O Cheat Sheet:
+##### 📈 Big-O Cheat Sheet:
 - [Big-O Cheat Sheet - Página principal](https://www.bigocheatsheet.com/)
 - [Big-O Cheat Sheet - PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/CHEATSHEETS/BIG-O-CHEATSHEET/big-o-cheatsheet.pdf)
 
-#### Algorithm Visualizer:
+##### 🧠 Algorithm Visualizer:
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 
-#### IDE recomendada:
+##### 🧰 IDE recomendada:
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
 - [JetBrains para estudantes](https://www.jetbrains.com/community/education/#students)
 - [Licenças JetBrains gratuitas via GitHub Student Developer Pack](https://blog.jetbrains.com/education/2018/09/18/free-jetbrains-licenses-as-part-of-github-student-developer-pack/)
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 
-#### Livros recomendados:
+##### 📚 Livros recomendados:
 - [Algoritmos - Thomas H. Cormen](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904)
 - [Algorithms - Robert Sedgewick](https://www.amazon.com.br/Algorithms-Robert-Sedgewick/dp/032157351X)
 - [Algorithms in a Nutshell - George Heineman](https://www.amazon.com.br/Algorithms-Nutshell-2e-George-Heineman/dp/1491948922)
@@ -59,33 +61,31 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Pense em Python: Como Cientista da Computação](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computação/dp/8575225081)
 - [Python Essential Reference - David Beazley](https://www.amazon.com.br/Python-Essential-Reference-David-Beazley-dp-0134173279/dp/0134173279)
 
-#### Links úteis:
-
-##### Medição de tempo de execução em diversas linguanges:
+##### ⏱️ Medição de tempo de execução em diversas linguagens:
 - [BenjDicken - Linguagens](https://benjdd.com/languages/)
 - [BenjDicken - Repositório GitHub - Languages](https://github.com/bddicken/languages)
 - [BenjDicken no X - Post Languages](https://x.com/BenjDicken/status/1863977678690541570)
 - [BenjDicken no X - Post Fibonacci](https://x.com/BenjDicken/status/1861811963434770665)
 
-##### Sound of Sorting - SoS:
+##### 🎵 Sound of Sorting - SoS:
 - [The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/)
 - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 - [GitHub Sound of Sorting - SoS](https://github.com/bingmann/sound-of-sorting)
 - [Sound of Sorting - SoS - CheatSheet - PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/CHEATSHEETS/SOUND-OF-SORTING-CHEATSHEET/SoS-CheatSheet.pdf)
 
-##### PyGMO:
+##### 🚀 PyGMO:
 - [PyGMO - Página principal](https://esa.github.io/pygmo/)
 - [PyGMO - Documentação](https://esa.github.io/pygmo/documentation/index.html)
 - [Travelling Salesman Problem with PyGMO - GitHub](https://github.com/GuintherKovalski/Travelling-Salesman-Problem)
 
-##### PyGame:
+##### 🎮 PyGame:
 - [PyGame - Página principal](https://www.pygame.org/news)
 - [PyGame - Documentação](https://www.pygame.org/docs/)
 - [Sudoku GUI Solver & Game in Python (Backtracking) - GitHub](https://github.com/willtrinh/Sudoku-Solver)
 
-##### Leituras e vídeos sugeridos:
+##### 📖 Leituras e vídeos sugeridos:
 
-###### Sudoku:
+###### 🧩 Sudoku:
 - [2025 - Sudoku Backtracking with Python](https://www.geeksforgeeks.org/dsa/sudoku-backtracking-7/)
 - [2020 - AI-Powered Sudoku Solver with Deep Learning and OpenCV - Article](https://www.kaggle.com/code/sarthakvajpayee/simple-ai-sudoku-solver)
 - [2020 - AI-Powered Sudoku Solver with Deep Learning and OpenCV - GitHub](https://github.com/SarthakV7/ai_sudoku_solver)
@@ -93,38 +93,38 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.1](https://www.youtube.com/watch?v=eqUwSA0xI-s)
 - [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.2](https://www.youtube.com/watch?v=lK4N8E6uNr4)
 
-###### Knight's tour Problem:
+###### ♞ Knight's tour Problem:
 - [2025 - Knights tour problem](https://www.geeksforgeeks.org/dsa/the-knights-tour-problem/)
 - [1997 - An efficient algorithm for the Knight's tour problem](https://mimuw.edu.pl/~rytter/TEACHING/ALCOMB/efficient%20algorithm%20recursion%20knight.pdf)
 
-###### Subset Sum Problem:
+###### 🧮 Subset Sum Problem:
 - [2025 - Subset Sum Problem (Dynamic Programming)](https://www.geeksforgeeks.org/dsa/subset-sum-problem-dp-25/)
 - [2023 - Subset Sum Problem using Backtracking](https://www.geeksforgeeks.org/dsa/subset-sum-problem/)
 - [2023 - Subset Sum is NP Complete](https://www.geeksforgeeks.org/dsa/subset-sum-is-np-complete/)
 
-###### N Queens Problem:
+###### 👑 N Queens Problem:
 - [2025 - N Queen - Backtracking](https://www.geeksforgeeks.org/dsa/n-queen-problem-backtracking-3/)
 - [1990 - A polynomial time algorithm for the N-Queens problem](https://dl.acm.org/doi/pdf/10.1145/101340.101343)
 
-###### Knapsack Problem:
+###### 🎒 Knapsack Problem:
 - [2025 - 0/1 Knapsack Problem (Dynamic Programming)](https://www.geeksforgeeks.org/dsa/0-1-knapsack-problem-dp-10/)
 - [2025 - 0/1 Knapsack Problem - GeeksforGeeks Practice](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
 - [2025 - 0/1 Knapsack Problem - W3Schools](https://www.w3schools.com/dsa/dsa_ref_knapsack.php)
 
-###### Traveling Salesman Problem:
+###### 🧳 Traveling Salesman Problem:
 - [2024 - Traveling Salesman Problem (TSP) Implementation](https://www.geeksforgeeks.org/dsa/traveling-salesman-problem-tsp-implementation/)
 - [2014 - Traveling Salesman with Simulated Annealing, R, and Shiny - Post no Blog](https://toddwschneider.com/posts/traveling-salesman-with-simulated-annealing-r-and-shiny/)
 - [2014 - Traveling Salesman with Simulated Annealing, R, and Shiny - GitHub](https://github.com/toddwschneider/shiny-salesman)
 
-###### Flood Fill:
+###### 🌊 Flood Fill:
 - [2022 - Comparing Flood Fill Algorithms in JavaScript](https://codeheir.com/2022/08/21/comparing-flood-fill-algorithms-in-javascript/)
 - [2020 - Algorithm to Flood Fill in Python - GitHub](https://github.com/ThiagoCComelli/Flood-Fill)
 
-###### A* Algorithm:
+###### ⭐ A* Algorithm:
 - [2017 - A* Pathfinding Algorithm (Coding Challenge 51 - Part 1](https://www.youtube.com/watch?v=aKYlikFAV4k)
 - [2017 - A* Pathfinding Algorithm (Coding Challenge 51.2 - Part 2](https://www.youtube.com/watch?v=EaZxUCWAjb0)
 
-###### Algorithm Complexity and Visualizations:
+###### 🧮 Algorithm Complexity and Visualizations:
 - [2024 - Python Big O: the time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
 - [2018 - Big-O: How Code Slows as Data Grows](https://nedbatchelder.com/text/bigo.html)
 - [2018 - Ned Batchelder - Big-O: How Code Slows as Data Grows - PyCon 2018](https://www.youtube.com/watch?v=duvZ-2UK0fc)
