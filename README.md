@@ -151,7 +151,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-### Visualizando a complexidade de algoritmos:
+### 📈 Visualizando a complexidade de algoritmos:
 
 #### Algoritmos de busca:
 
