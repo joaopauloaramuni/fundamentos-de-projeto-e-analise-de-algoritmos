@@ -153,7 +153,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ### 📈 Visualizando a complexidade de algoritmos:
 
-#### Algoritmos de busca:
+#### 🔍 Algoritmos de busca:
 
 <div align="center">
 <table>
@@ -168,7 +168,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 </table>
 </div>
 
-#### Algoritmos de ordenação:
+#### 🔢 Algoritmos de ordenação:
 
 <div align="center">
 <table>
@@ -185,7 +185,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ### 🐴 Caminho do cavalo (Knight's tour):
 
-#### Tabuleiro 8x8:
+#### ♟️ Tabuleiro 8x8:
 
 <div align="center">
 <table>
@@ -200,7 +200,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 </table>
 </div>
 
-#### Tabuleiro 5x5 e um exemplo de passeio em 8x8:
+#### ♟️ Tabuleiro 5x5 e um exemplo de passeio em 8x8:
 
 <div align="center">
 <table>
@@ -219,7 +219,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ### 👑 Problema das Oito Rainhas (Eight Queens Puzzle):
 
-#### Tabuleiro 8x8:
+#### ♟️ Tabuleiro 8x8:
 
 <div align="center">
 <table>
