@@ -54,12 +54,13 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 
 ##### 📚 Livros recomendados:
-- 📕 [Algoritmos - Thomas H. Cormen](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904)
-- 📗 [Algorithms - Robert Sedgewick](https://www.amazon.com.br/Algorithms-Robert-Sedgewick/dp/032157351X)
-- 📘 [Algorithms in a Nutshell - George Heineman](https://www.amazon.com.br/Algorithms-Nutshell-2e-George-Heineman/dp/1491948922)
-- 📙 [Python Fluente: Programação Concisa e Eficaz](https://www.amazon.com.br/Python-Fluente-Programação-Concisa-Eficaz/dp/857522462X)
-- 📒 [Pense em Python: Como Cientista da Computação](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computação/dp/8575225081)
-- 📔 [Python Essential Reference - David Beazley](https://www.amazon.com.br/Python-Essential-Reference-David-Beazley-dp-0134173279/dp/0134173279)
+- 📕 [Algoritmos – Thomas H. Cormen (2024)](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904)
+- 📗 [Algorithms – Robert Sedgewick (2011)](https://www.amazon.com.br/Algorithms-Robert-Sedgewick/dp/032157351X)
+- 📘 [Problemas Clássicos de Ciência da Computação com Python (2019)](https://www.amazon.com.br/Problemas-Cl%C3%A1ssicos-Ci%C3%AAncia-Computa%C3%A7%C3%A3o-Python/dp/8575228056)
+- 📓 [Algorithms in a Nutshell – George Heineman (2016)](https://www.amazon.com.br/Algorithms-Nutshell-2e-George-Heineman/dp/1491948922)
+- 📒 [Pense em Python: Como Cientista da Computação – Allen B. Downey (2016)](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computação/dp/8575225081)
+- 📙 [Python Fluente: Programação Concisa e Eficaz – Luciano Ramalho (2015)](https://www.amazon.com.br/Python-Fluente-Programação-Concisa-Eficaz/dp/857522462X)
+- 📔 [Python Distilled – David Beazley (2021)](https://www.amazon.com.br/Python-Essential-Reference-David-Beazley-dp-0134173279/dp/0134173279)
 
 ##### ⏱️ Medição de tempo de execução em diversas linguagens:
 - [BenjDicken - Linguagens](https://benjdd.com/languages/)
