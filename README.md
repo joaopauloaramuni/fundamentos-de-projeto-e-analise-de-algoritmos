@@ -24,6 +24,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Trabalhos para entregar](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/tree/main/TRABALHOS)
   - [Individuais](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/tree/main/TRABALHOS/INDIVIDUAIS)
   - [Em grupo](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/tree/main/TRABALHOS/EM%20GRUPO)
+- [Plano de Ensino](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/tree/main/PLANO%20DE%20ENSINO)
 
 #### Links úteis:
 
