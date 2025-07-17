@@ -145,12 +145,15 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 1. **Alan Turing – "On Computable Numbers, with an Application to the Entscheidungsproblem" (1936)**
    - Origem da máquina de Turing e da noção de computabilidade.
+   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Turing_Paper_1936.pdf)
 
 2. **Alan Turing – "Computing Machinery and Intelligence" (1950)**
    - Propõe o "Teste de Turing" e discute a inteligência artificial.
+   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Turing_Paper_1950.pdf)
 
 3. **Stephen Cook – "The Complexity of Theorem-Proving Procedures" (1971)**
    - Artigo que introduz o conceito de NP-completude.
+   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Cook_Paper_1971.pdf)
 
 -----
 
@@ -158,15 +161,30 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 4. **Edsger Dijkstra – "A Note on Two Problems in Connexion with Graphs" (1959)**
    - Introduz o algoritmo de caminhos mínimos em grafos (Dijkstra).
+   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Dijkstra_Paper_1959.pdf)
 
 5. **Robert Floyd – "Algorithm 97: Shortest Path" (1962)**
    - Introduz o algoritmo de Floyd-Warshall para caminhos mínimos.
+   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Floyd_Paper_1962.pdf)
 
 6. **Anatolii Karatsuba & Yu. Ofman – "Multiplication of Multidigit Numbers on Automata" (1962)**
    - Algoritmo de multiplicação com complexidade subquadrática.
+   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Karatsuba_Paper_1962.pdf)
 
 7. **Richard Bellman – "Dynamic Programming" (1957)**
    - Artigo fundacional do paradigma de programação dinâmica.
+  
+7.1 **Richard Bellman – "Dynamic Programming" (1957, RAND Paper P-392)**
+   - Artigo curto **10 páginas** que introduz o paradigma de programação dinâmica.
+   - Enfatiza a ideia de decompor problemas em subproblemas sobrepostos.
+   - Publicado originalmente como um relatório técnico da RAND Corporation.
+   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bellman_Paper_1957.pdf)
+
+7.2 **Richard Bellman – *Dynamic Programming* (Livro, 1972 – Sixth Printing, Princeton University Press)**
+   - Versão expandida e consolidada da teoria com aplicações matemáticas, físicas e econômicas.
+   - Contém **365 páginas** na edição de 1972 (Sexta impressão).
+   - Uma das obras mais citadas sobre o tema na literatura científica.
+   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bellman_Book_1972.pdf)
 
 -----
 
