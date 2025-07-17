@@ -179,14 +179,14 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 7. **Richard Bellman – "Dynamic Programming" (1957)**
    - Artigo fundacional do paradigma de programação dinâmica.
-  
-7.1 **Richard Bellman – "Dynamic Programming" (1957, RAND Paper P-392)**
+
+   7.1 **Richard Bellman – "Dynamic Programming" (1957, RAND Paper P-392)**
    - Artigo curto **10 páginas** que introduz o paradigma de programação dinâmica.
    - Enfatiza a ideia de decompor problemas em subproblemas sobrepostos.
    - Publicado originalmente como um relatório técnico da RAND Corporation.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bellman_Paper_1957.pdf)
 
-7.2 **Richard Bellman – *Dynamic Programming* (Livro, 1972 – Sixth Printing, Princeton University Press)**
+   7.2 **Richard Bellman – *Dynamic Programming* (Livro, 1972 – Sixth Printing, Princeton University Press)**
    - Versão expandida e consolidada da teoria com aplicações matemáticas, físicas e econômicas.
    - Contém **365 páginas** na edição de 1972 (Sexta impressão).
    - Uma das obras mais citadas sobre o tema na literatura científica.
