@@ -192,12 +192,20 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 8. **Richard Karp – "Reducibility Among Combinatorial Problems" (1972)**
    - Lista os primeiros 21 problemas NP-completos.
+   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Karp_Paper_1972.pdf)
 
-9. **Leonid Levin – Versão paralela ao artigo de Cook (1973)**
-   - Co-descobridor do conceito de NP-completude (versão russa).
+9. **Leonid Levin – "Universal Sequential Search Problems" (1973)**
+   - Publicado originalmente em russo como *"Universal’nye perebornye zadachi"* na revista *Problemy Peredachi Informatsii*, vol. 9, nº 3.
+   - Artigo independente, publicado quase simultaneamente ao de Stephen Cook, que introduz formalmente a noção de problemas de busca NP-completos.
+   - Levin define seis problemas universais que capturam a dificuldade intrínseca dos problemas em NP.
+   - Reconhecido como co-descobridor da teoria da NP-completude.
+   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Levin_Paper_1973.pdf)
 
-10. **Michael Sipser – Capítulos de *Introduction to the Theory of Computation***
-   - Excelente referência didática sobre P, NP, e problemas indecidíveis.
+10. **Michael Sipser – *Introduction to the Theory of Computation* (Primeira edição: 1996, Terceira edição: 2012)**
+   - Livro didático referência para teoria da computação, complexidade computacional e automatos.
+   - Aborda detalhadamente classes de problemas como P, NP, NP-completos e problemas indecidíveis.
+   - Muito utilizado em cursos de graduação e pós-graduação como base teórica para análise de algoritmos e teoria da complexidade.
+   - [Livro na Amazon](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X)
 
 -----
 
