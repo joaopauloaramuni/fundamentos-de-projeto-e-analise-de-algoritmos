@@ -210,94 +210,94 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Levin_Paper_1973.pdf)
 
 10. **Michael Sipser – *Introduction to the Theory of Computation* (Primeira edição: 1996; Terceira edição: 2012)**
-   - Livro didático referência para teoria da computação, complexidade computacional e automatos.
-   - Aborda detalhadamente classes de problemas como P, NP, NP-completos e problemas indecidíveis.
-   - Muito utilizado em cursos de graduação e pós-graduação como base teórica para análise de algoritmos e teoria da complexidade.
-   - [Livro na Amazon](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X)
+    - Livro didático referência para teoria da computação, complexidade computacional e automatos.
+    - Aborda detalhadamente classes de problemas como P, NP, NP-completos e problemas indecidíveis.
+    - Muito utilizado em cursos de graduação e pós-graduação como base teórica para análise de algoritmos e teoria da complexidade.
+    - [Livro na Amazon](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X)
 
 -----
 
 ###### 🔁 Paradigmas de Projeto de Algoritmos
 
 11. **Cormen, Leiserson, Rivest, Stein – *Introduction to Algorithms* (Primeira edição: 1990; Quarta edição: 2024)**
-   - Livro referência para design e análise de algoritmos, cobrindo uma ampla gama de tópicos e paradigmas.
-   - Fundamental para estudantes de engenharia de software e ciência da computação.
-   - [Livro na Amazon](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904)
+    - Livro referência para design e análise de algoritmos, cobrindo uma ampla gama de tópicos e paradigmas.
+    - Fundamental para estudantes de engenharia de software e ciência da computação.
+    - [Livro na Amazon](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904)
 
 12. **C.L. Liu – *Elements of Discrete Mathematics* (1985)**
-   - Apresenta os fundamentos da matemática discreta com enfoque em algoritmos gulosos e programação dinâmica.
-   - Excelente para entender bases teóricas dos algoritmos.
-   - [Livro na Amazon](https://www.amazon.com/Elements-Discrete-Mathematics-C-Liu/dp/0071005447)
+    - Apresenta os fundamentos da matemática discreta com enfoque em algoritmos gulosos e programação dinâmica.
+    - Excelente para entender bases teóricas dos algoritmos.
+    - [Livro na Amazon](https://www.amazon.com/Elements-Discrete-Mathematics-C-Liu/dp/0071005447)
 
 13. **Donald Knuth – *The Art of Computer Programming* (Volumes publicados a partir de 1968)**
-   - Série clássica que compila algoritmos e análise formal detalhada.
-   - Referência essencial para aprofundamento teórico e histórico.
+    - Série clássica que compila algoritmos e análise formal detalhada.
+    - Referência essencial para aprofundamento teórico e histórico.
 
-   - **13.1 Livro – *The Art of Computer Programming***
-     - Primeira edição publicada em 1968.
-     - Volumes sucessivos abrangem análise de algoritmos, estruturas de dados, técnicas avançadas, e mais.
-     - [Boxed Set na Amazon](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
+    - **13.1 Livro – *The Art of Computer Programming***
+      - Primeira edição publicada em 1968.
+      - Volumes sucessivos abrangem análise de algoritmos, estruturas de dados, técnicas avançadas, e mais.
+      - [Boxed Set na Amazon](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
 
-   - **13.2 Donald Knuth – Tese: *Finite Semifields and Projective Planes* (1963)**
-     - Tese de doutorado que contribui para matemática discreta e teoria dos planos projetivos.
-     - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Knuth_Thesis_1963.pdf)
+    - **13.2 Donald Knuth – Tese: *Finite Semifields and Projective Planes* (1963)**
+      - Tese de doutorado que contribui para matemática discreta e teoria dos planos projetivos.
+      - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Knuth_Thesis_1963.pdf)
 
 -----
 
 ###### 🧮 Algoritmos Randômicos e Probabilísticos
 
 14. **Michael Rabin – "Probabilistic Algorithm for Testing Primality" (1980)**
-   - Primeiro algoritmo probabilístico eficiente para teste de primalidade.
-   - Abre caminho para a utilização de aleatoriedade na construção de algoritmos rápidos.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Rabin_Paper_1980.pdf)
+    - Primeiro algoritmo probabilístico eficiente para teste de primalidade.
+    - Abre caminho para a utilização de aleatoriedade na construção de algoritmos rápidos.
+    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Rabin_Paper_1980.pdf)
 
 15. **Rajeev Motwani & Prabhakar Raghavan – *Randomized Algorithms* (Primeira edição: 1995)**
-   - Livro que compila diversos algoritmos randômicos com fundamentação teórica rigorosa.
-   - Amplamente usado em cursos avançados de algoritmos.
-   - [Livro na Amazon](https://www.amazon.com.br/Randomized-Algorithms-Rajeev-Motwani/dp/0521474655)
+    - Livro que compila diversos algoritmos randômicos com fundamentação teórica rigorosa.
+    - Amplamente usado em cursos avançados de algoritmos.
+    - [Livro na Amazon](https://www.amazon.com.br/Randomized-Algorithms-Rajeev-Motwani/dp/0521474655)
 
 -----
 
 ###### 🧱 Estruturas de Dados fundamentais
 
 16. **Robert Tarjan – "Efficiency of a Good But Not Linear Set Union Algorithm" (1975)**
-   - Introduz melhorias no algoritmo Union-Find, fundamentais para muitas aplicações em grafos.
-   - Combina técnicas de path compression e union by rank para eficiência quase linear.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Tarjan_Paper_1975.pdf)
+    - Introduz melhorias no algoritmo Union-Find, fundamentais para muitas aplicações em grafos.
+    - Combina técnicas de path compression e union by rank para eficiência quase linear.
+    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Tarjan_Paper_1975.pdf)
 
 17. **Michael L. Fredman & Robert E. Tarjan – "Fibonacci Heaps and Their Uses in Improved Network Optimization Algorithms" (1987)**
-   - Estrutura de dados avançada que melhora complexidade de operações em heaps.
-   - Aplicações em algoritmos de otimização de redes e grafos.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Tarjan_Paper_1987.pdf)
+    - Estrutura de dados avançada que melhora complexidade de operações em heaps.
+    - Aplicações em algoritmos de otimização de redes e grafos.
+    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Tarjan_Paper_1987.pdf)
 
 18. **Jon Bentley – *Programming Pearls* (1986)**
-   - Série clássica sobre design e implementação prática de algoritmos.
+    - Série clássica sobre design e implementação prática de algoritmos.
 
-   - **18.1 Livro – *Programming Pearls* (1986)**
-     - Coleção expandida de colunas originalmente publicadas na *Communications of the ACM*.
-     - Explora problemas reais, otimização e clareza de código em situações do cotidiano.
-     - Muito citado por engenheiros de software e usado em entrevistas técnicas.
-     - [Livro na Amazon](https://www.amazon.com.br/Programming-Pearls-Jon-Bentley/dp/0201657880)
+    - **18.1 Livro – *Programming Pearls* (1986)**
+      - Coleção expandida de colunas originalmente publicadas na *Communications of the ACM*.
+      - Explora problemas reais, otimização e clareza de código em situações do cotidiano.
+      - Muito citado por engenheiros de software e usado em entrevistas técnicas.
+      - [Livro na Amazon](https://www.amazon.com.br/Programming-Pearls-Jon-Bentley/dp/0201657880)
 
-   - **18.2 Artigo – "Programming Pearls: Little Languages" (1986)**
-     - Um dos artigos originais da série, publicado na *Communications of the ACM*.
-     - Foca em "linguagens pequenas" (little languages) como ferramentas poderosas para resolver problemas específicos.
-     - Documento curto de **11 páginas**, frequentemente citado como inspiração para soluções elegantes.
-     - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bentley_Paper_1986.pdf)
+    - **18.2 Artigo – "Programming Pearls: Little Languages" (1986)**
+      - Um dos artigos originais da série, publicado na *Communications of the ACM*.
+      - Foca em "linguagens pequenas" (little languages) como ferramentas poderosas para resolver problemas específicos.
+      - Documento curto de **11 páginas**, frequentemente citado como inspiração para soluções elegantes.
+      - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bentley_Paper_1986.pdf)
 
 -----
 
 ###### 📚 Extras avançados
 
 19. **Leslie Valiant – "A Theory of the Learnable" (1984)**
-   - Introduz o modelo PAC (Provably Approximately Correct) para aprendizagem computacional.
-   - Importante conexão entre algoritmos, teoria da complexidade e inteligência artificial.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Valiant_Paper_1984.pdf)
+    - Introduz o modelo PAC (Provably Approximately Correct) para aprendizagem computacional.
+    - Importante conexão entre algoritmos, teoria da complexidade e inteligência artificial.
+    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Valiant_Paper_1984.pdf)
 
 20. **Shafi Goldwasser & Silvio Micali – "Probabilistic Encryption" (1984)**
-   - Trabalho seminal na criptografia moderna, utilizando conceitos de complexidade computacional.
-   - Define a segurança semântica e o uso de algoritmos probabilísticos para encriptação.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Goldwasser_Micali_Paper_1984.pdf)
+    - Trabalho seminal na criptografia moderna, utilizando conceitos de complexidade computacional.
+    - Define a segurança semântica e o uso de algoritmos probabilísticos para encriptação.
+    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Goldwasser_Micali_Paper_1984.pdf)
 
 -----
 
