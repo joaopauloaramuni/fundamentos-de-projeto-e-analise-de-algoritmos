@@ -268,7 +268,7 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 17. **Michael L. Fredman & Robert E. Tarjan – "Fibonacci Heaps and Their Uses in Improved Network Optimization Algorithms" (1987)**
     - Estrutura de dados avançada que melhora complexidade de operações em heaps.
     - Aplicações em algoritmos de otimização de redes e grafos.
-    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Tarjan_Paper_1987.pdf)
+    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Fredman_Tarjan_Paper_1987.pdf)
 
 18. **Jon Bentley – *Programming Pearls* (1986)**
     - Série clássica sobre design e implementação prática de algoritmos.
