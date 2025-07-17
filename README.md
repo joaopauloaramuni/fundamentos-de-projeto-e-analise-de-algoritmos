@@ -141,7 +141,7 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 -----
 
-###### 📜 Artigos Históricos e Fundacionais (Enviados por você)
+###### 📜 Artigos Históricos e Fundacionais
 
 1. **Alan Turing – "On Computable Numbers, with an Application to the Entscheidungsproblem" (1936)**
    - Origem da máquina de Turing e da noção de computabilidade.
