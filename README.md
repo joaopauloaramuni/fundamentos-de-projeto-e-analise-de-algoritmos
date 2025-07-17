@@ -135,6 +135,101 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
+##### 📖 Leituras fundamentais e clássicas
+
+Esta lista reúne artigos clássicos e essenciais para compreender a análise de algoritmos, incluindo fundamentos teóricos, complexidade computacional, paradigmas de projeto, estruturas de dados e algoritmos randômicos.
+
+-----
+
+###### 📜 Artigos Históricos e Fundacionais (Enviados por você)
+
+1. **Alan Turing – "On Computable Numbers, with an Application to the Entscheidungsproblem" (1936)**
+   - Origem da máquina de Turing e da noção de computabilidade.
+
+2. **Alan Turing – "Computing Machinery and Intelligence" (1950)**
+   - Propõe o "Teste de Turing" e discute a inteligência artificial.
+
+3. **Stephen Cook – "The Complexity of Theorem-Proving Procedures" (1971)**
+   - Artigo que introduz o conceito de NP-completude.
+
+-----
+
+###### 📘 Clássicos da Análise de Algoritmos
+
+4. **Edsger Dijkstra – "A Note on Two Problems in Connexion with Graphs" (1959)**
+   - Introduz o algoritmo de caminhos mínimos em grafos (Dijkstra).
+
+5. **Robert Floyd – "Algorithm 97: Shortest Path" (1962)**
+   - Introduz o algoritmo de Floyd-Warshall para caminhos mínimos.
+
+6. **Anatolii Karatsuba & Yu. Ofman – "Multiplication of Multidigit Numbers on Automata" (1962)**
+   - Algoritmo de multiplicação com complexidade subquadrática.
+
+7. **Richard Bellman – "Dynamic Programming" (1957)**
+   - Artigo fundacional do paradigma de programação dinâmica.
+
+-----
+
+###### 🧠 Complexidade e Classes de Problemas
+
+8. **Richard Karp – "Reducibility Among Combinatorial Problems" (1972)**
+   - Lista os primeiros 21 problemas NP-completos.
+
+9. **Leonid Levin – Versão paralela ao artigo de Cook (1973)**
+   - Co-descobridor do conceito de NP-completude (versão russa).
+
+10. **Michael Sipser – Capítulos de *Introduction to the Theory of Computation***
+   - Excelente referência didática sobre P, NP, e problemas indecidíveis.
+
+-----
+
+###### 🔁 Paradigmas de Projeto de Algoritmos
+
+11. **Cormen, Leiserson, Rivest, Stein – *Introduction to Algorithms***
+   - Livro com referências para dezenas de artigos fundamentais.
+
+12. **C.L. Liu – *Elements of Discrete Mathematics* (1985)**
+   - Apresenta algoritmos gulosos e programação dinâmica com base teórica.
+
+13. **Donald Knuth – *The Art of Computer Programming***
+   - Compilação de ideias e algoritmos clássicos, com análise formal.
+
+-----
+
+###### 🧮 Algoritmos Randômicos e Probabilísticos
+
+14. **Michael Rabin – "Probabilistic Algorithm for Testing Primality" (1980)**
+   - Exemplo clássico de algoritmo probabilístico eficiente.
+
+15. **Motwani & Raghavan – *Randomized Algorithms***
+   - Livro que referencia diversos artigos sobre algoritmos randômicos.
+
+-----
+
+###### 🧱 Estruturas de Dados fundamentais
+
+16. **Robert Tarjan – "Efficiency of a Good But Not Linear Set Union Algorithm" (1975)**
+   - Estrutura de dados Union-Find com path compression e union by rank.
+
+17. **Fredman & Tarjan – "Fibonacci Heaps and Their Uses in Improved Network Optimization Algorithms" (1987)**
+   - Estrutura avançada usada para otimização de grafos.
+
+18. **Jon Bentley – *Programming Pearls* (série de artigos, 1986)**
+   - Reflexões práticas sobre algoritmos e eficiência.
+
+-----
+
+###### 📚 Extras avançados
+
+19. **Leslie Valiant – "A Theory of the Learnable" (1984)**
+   - Origem da aprendizagem pac (PAC-learning) na IA, com viés algorítmico.
+
+20. **Shafi Goldwasser & Silvio Micali – "Probabilistic Encryption" (1984)**
+   - Introduz as bases teóricas para criptografia moderna baseada em complexidade.
+   - Estabelece a noção de segurança semântica e algoritmos probabilísticos na criptografia.
+
+-----
+
 #### 🎥 Medição de tempos de execução para 1 bilhão de iterações em loops aninhados - 31 Linguagens:
  
 [1 Billion nested loop iterations](https://github.com/user-attachments/assets/ecc2b488-08b9-4fa8-a86e-3091cba92e91)
