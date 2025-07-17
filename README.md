@@ -181,17 +181,17 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
    - Artigo fundacional do paradigma de programação dinâmica.
    - Também autor do livro *Dynamic Programming* (1972), que expande e consolida a teoria.
 
-   7.1 **Richard Bellman – "Dynamic Programming" (1957, RAND Paper P-392)**
-   - Artigo curto **10 páginas** que introduz o paradigma de programação dinâmica.
-   - Enfatiza a ideia de decompor problemas em subproblemas sobrepostos.
-   - Publicado originalmente como um relatório técnico da RAND Corporation.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bellman_Paper_1957.pdf)
+   - **7.1 Richard Bellman – "Dynamic Programming" (1957, RAND Paper P-392)**
+     - Artigo curto **10 páginas** que introduz o paradigma de programação dinâmica.
+     - Enfatiza a ideia de decompor problemas em subproblemas sobrepostos.
+     - Publicado originalmente como um relatório técnico da RAND Corporation.
+     - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bellman_Paper_1957.pdf)
 
-   7.2 **Richard Bellman – *Dynamic Programming* (Livro, 1972 – Sixth Printing, Princeton University Press)**
-   - Versão expandida e consolidada da teoria com aplicações matemáticas, físicas e econômicas.
-   - Contém **365 páginas** na edição de 1972 (Sexta impressão).
-   - Uma das obras mais citadas sobre o tema na literatura científica.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bellman_Book_1972.pdf)
+   - **7.2 Richard Bellman – *Dynamic Programming* (Livro, 1972 – Sixth Printing, Princeton University Press)**
+     - Versão expandida e consolidada da teoria com aplicações matemáticas, físicas e econômicas.
+     - Contém **365 páginas** na edição de 1972 (Sexta impressão).
+     - Uma das obras mais citadas sobre o tema na literatura científica.
+     - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bellman_Book_1972.pdf)
 
 -----
 
@@ -233,14 +233,14 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
    - Série clássica que compila algoritmos e análise formal detalhada.
    - Referência essencial para aprofundamento teórico e histórico.
 
-   13.1 **Livro – *The Art of Computer Programming***
-   - Primeira edição publicada em 1968.
-   - Volumes sucessivos abrangem análise de algoritmos, estruturas de dados, técnicas avançadas, e mais.
-   - [Boxed Set na Amazon](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
+   - **13.1 Livro – *The Art of Computer Programming***
+     - Primeira edição publicada em 1968.
+     - Volumes sucessivos abrangem análise de algoritmos, estruturas de dados, técnicas avançadas, e mais.
+     - [Boxed Set na Amazon](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
 
-   13.2 **Donald Knuth – Tese: *Finite Semifields and Projective Planes* (1963)**
-   - Tese de doutorado que contribui para matemática discreta e teoria dos planos projetivos.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Knuth_Thesis_1963.pdf)
+   - **13.2 Donald Knuth – Tese: *Finite Semifields and Projective Planes* (1963)**
+     - Tese de doutorado que contribui para matemática discreta e teoria dos planos projetivos.
+     - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Knuth_Thesis_1963.pdf)
 
 -----
 
@@ -273,17 +273,17 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 18. **Jon Bentley – *Programming Pearls* (1986)**
    - Série clássica sobre design e implementação prática de algoritmos.
 
-   18.1 **Livro – *Programming Pearls* (1986)**
-   - Coleção expandida de colunas originalmente publicadas na *Communications of the ACM*.
-   - Explora problemas reais, otimização e clareza de código em situações do cotidiano.
-   - Muito citado por engenheiros de software e usado em entrevistas técnicas.
-   - [Livro na Amazon](https://www.amazon.com.br/Programming-Pearls-Jon-Bentley/dp/0201657880)
+   - **18.1 Livro – *Programming Pearls* (1986)**
+     - Coleção expandida de colunas originalmente publicadas na *Communications of the ACM*.
+     - Explora problemas reais, otimização e clareza de código em situações do cotidiano.
+     - Muito citado por engenheiros de software e usado em entrevistas técnicas.
+     - [Livro na Amazon](https://www.amazon.com.br/Programming-Pearls-Jon-Bentley/dp/0201657880)
 
-   18.2 **Artigo – "Programming Pearls: Little Languages" (1986)**
-   - Um dos artigos originais da série, publicado na *Communications of the ACM*.
-   - Foca em "linguagens pequenas" (little languages) como ferramentas poderosas para resolver problemas específicos.
-   - Documento curto de **11 páginas**, frequentemente citado como inspiração para soluções elegantes.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bentley_Paper_1986.pdf)
+   - **18.2 Artigo – "Programming Pearls: Little Languages" (1986)**
+     - Um dos artigos originais da série, publicado na *Communications of the ACM*.
+     - Foca em "linguagens pequenas" (little languages) como ferramentas poderosas para resolver problemas específicos.
+     - Documento curto de **11 páginas**, frequentemente citado como inspiração para soluções elegantes.
+     - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bentley_Paper_1986.pdf)
 
 -----
 
