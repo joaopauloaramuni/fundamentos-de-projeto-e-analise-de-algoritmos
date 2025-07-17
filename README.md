@@ -145,14 +145,17 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 1. **Alan Turing – "On Computable Numbers, with an Application to the Entscheidungsproblem" (1936)**
    - Origem da máquina de Turing e da noção de computabilidade.
+   - Trabalho seminal que fundamenta toda a teoria da computação.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Turing_Paper_1936.pdf)
 
 2. **Alan Turing – "Computing Machinery and Intelligence" (1950)**
-   - Propõe o "Teste de Turing" e discute a inteligência artificial.
+   - Propõe o "Teste de Turing" e discute a possibilidade de máquinas pensarem.
+   - Marco inicial na inteligência artificial.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Turing_Paper_1950.pdf)
 
 3. **Stephen Cook – "The Complexity of Theorem-Proving Procedures" (1971)**
-   - Artigo que introduz o conceito de NP-completude.
+   - Introduz o conceito de NP-completude, base da teoria da complexidade.
+   - Fundamenta a distinção entre problemas eficientes e intratáveis.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Cook_Paper_1971.pdf)
 
 -----
@@ -160,15 +163,18 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 ###### 📘 Clássicos da Análise de Algoritmos
 
 4. **Edsger Dijkstra – "A Note on Two Problems in Connexion with Graphs" (1959)**
-   - Introduz o algoritmo de caminhos mínimos em grafos (Dijkstra).
+   - Introduz o algoritmo de caminhos mínimos em grafos (algoritmo de Dijkstra).
+   - Artigo clássico e fundamental para grafos e otimização.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Dijkstra_Paper_1959.pdf)
 
 5. **Robert Floyd – "Algorithm 97: Shortest Path" (1962)**
-   - Introduz o algoritmo de Floyd-Warshall para caminhos mínimos.
+   - Introduz o algoritmo de Floyd-Warshall para encontrar caminhos mínimos entre todos os pares de vértices.
+   - Artigo muito conciso, com apenas 1 página.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Floyd_Paper_1962.pdf)
 
 6. **Anatolii Karatsuba & Yu. Ofman – "Multiplication of Multidigit Numbers on Automata" (1962)**
-   - Algoritmo de multiplicação com complexidade subquadrática.
+   - Primeiro algoritmo de multiplicação de números grandes com complexidade subquadrática (Karatsuba).
+   - Publicado em apenas 2 páginas, revolucionou multiplicação eficiente.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Karatsuba_Paper_1962.pdf)
 
 7. **Richard Bellman – "Dynamic Programming" (1957)**
@@ -191,7 +197,8 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 ###### 🧠 Complexidade e Classes de Problemas
 
 8. **Richard Karp – "Reducibility Among Combinatorial Problems" (1972)**
-   - Lista os primeiros 21 problemas NP-completos.
+   - Lista os primeiros 21 problemas NP-completos, formalizando a teoria da NP-completude.
+   - Artigo fundamental para o estudo da complexidade computacional e algoritmos.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Karp_Paper_1972.pdf)
 
 9. **Leonid Levin – "Universal Sequential Search Problems" (1973)**
@@ -201,7 +208,7 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
    - Reconhecido como co-descobridor da teoria da NP-completude.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Levin_Paper_1973.pdf)
 
-10. **Michael Sipser – *Introduction to the Theory of Computation* (Primeira edição: 1996, Terceira edição: 2012)**
+10. **Michael Sipser – *Introduction to the Theory of Computation* (Primeira edição: 1996; Terceira edição: 2012)**
    - Livro didático referência para teoria da computação, complexidade computacional e automatos.
    - Aborda detalhadamente classes de problemas como P, NP, NP-completos e problemas indecidíveis.
    - Muito utilizado em cursos de graduação e pós-graduação como base teórica para análise de algoritmos e teoria da complexidade.
@@ -211,48 +218,67 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 ###### 🔁 Paradigmas de Projeto de Algoritmos
 
-11. **Cormen, Leiserson, Rivest, Stein – *Introduction to Algorithms***
-   - Livro com referências para dezenas de artigos fundamentais.
+11. **Cormen, Leiserson, Rivest, Stein – *Introduction to Algorithms* (Primeira edição: 1990)**
+   - Livro referência para design e análise de algoritmos, cobrindo uma ampla gama de tópicos e paradigmas.
+   - Fundamental para estudantes de engenharia de software e ciência da computação.
+   - [PDF]()
 
 12. **C.L. Liu – *Elements of Discrete Mathematics* (1985)**
-   - Apresenta algoritmos gulosos e programação dinâmica com base teórica.
+   - Apresenta os fundamentos da matemática discreta com enfoque em algoritmos gulosos e programação dinâmica.
+   - Excelente para entender bases teóricas dos algoritmos.
+   - [PDF]()
 
-13. **Donald Knuth – *The Art of Computer Programming***
-   - Compilação de ideias e algoritmos clássicos, com análise formal.
+13. **Donald Knuth – *The Art of Computer Programming* (Volumes publicados a partir de 1968)**
+   - Série clássica que compila algoritmos e análise formal detalhada.
+   - Referência essencial para aprofundamento teórico e histórico.
+   - [PDF]()
 
 -----
 
 ###### 🧮 Algoritmos Randômicos e Probabilísticos
 
 14. **Michael Rabin – "Probabilistic Algorithm for Testing Primality" (1980)**
-   - Exemplo clássico de algoritmo probabilístico eficiente.
+   - Primeiro algoritmo probabilístico eficiente para teste de primalidade.
+   - Abre caminho para a utilização de aleatoriedade na construção de algoritmos rápidos.
+   - [PDF]()
 
-15. **Motwani & Raghavan – *Randomized Algorithms***
-   - Livro que referencia diversos artigos sobre algoritmos randômicos.
+15. **Rajeev Motwani & Prabhakar Raghavan – *Randomized Algorithms* (Primeira edição: 1995)**
+   - Livro que compila diversos algoritmos randômicos com fundamentação teórica rigorosa.
+   - Amplamente usado em cursos avançados de algoritmos.
+   - [PDF]()
 
 -----
 
 ###### 🧱 Estruturas de Dados fundamentais
 
 16. **Robert Tarjan – "Efficiency of a Good But Not Linear Set Union Algorithm" (1975)**
-   - Estrutura de dados Union-Find com path compression e union by rank.
+   - Introduz melhorias no algoritmo Union-Find, fundamentais para muitas aplicações em grafos.
+   - Combina técnicas de path compression e union by rank para eficiência quase linear.
+   - [PDF]()
 
-17. **Fredman & Tarjan – "Fibonacci Heaps and Their Uses in Improved Network Optimization Algorithms" (1987)**
-   - Estrutura avançada usada para otimização de grafos.
+17. **Michael L. Fredman & Robert E. Tarjan – "Fibonacci Heaps and Their Uses in Improved Network Optimization Algorithms" (1987)**
+   - Estrutura de dados avançada que melhora complexidade de operações em heaps.
+   - Aplicações em algoritmos de otimização de redes e grafos.
+   - [PDF]()
 
-18. **Jon Bentley – *Programming Pearls* (série de artigos, 1986)**
-   - Reflexões práticas sobre algoritmos e eficiência.
+18. **Jon Bentley – *Programming Pearls* (Série de artigos, 1986)**
+   - Coleção de artigos práticos e intuitivos sobre técnicas para escrever algoritmos eficientes.
+   - Muito útil para entender o lado prático do design de algoritmos.
+   - [PDF]()
 
 -----
 
 ###### 📚 Extras avançados
 
 19. **Leslie Valiant – "A Theory of the Learnable" (1984)**
-   - Origem da aprendizagem pac (PAC-learning) na IA, com viés algorítmico.
+   - Introduz o modelo PAC (Provably Approximately Correct) para aprendizagem computacional.
+   - Importante conexão entre algoritmos, teoria da complexidade e inteligência artificial.
+   - [PDF]()
 
 20. **Shafi Goldwasser & Silvio Micali – "Probabilistic Encryption" (1984)**
-   - Introduz as bases teóricas para criptografia moderna baseada em complexidade.
-   - Estabelece a noção de segurança semântica e algoritmos probabilísticos na criptografia.
+   - Trabalho seminal na criptografia moderna, utilizando conceitos de complexidade computacional.
+   - Define a segurança semântica e o uso de algoritmos probabilísticos para encriptação.
+   - [PDF]()
 
 -----
 
