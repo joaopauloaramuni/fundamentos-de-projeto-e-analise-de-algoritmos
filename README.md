@@ -284,10 +284,10 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
     - Fundamental para estudantes de engenharia de software e ciência da computação.
     - [Livro na Amazon](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904)
 
-12. **C.L. Liu – *Elements of Discrete Mathematics* (1985)**
-    - Apresenta os fundamentos da matemática discreta com enfoque em algoritmos gulosos e programação dinâmica.
-    - Excelente para entender bases teóricas dos algoritmos.
-    - [Livro na Amazon](https://www.amazon.com/Elements-Discrete-Mathematics-C-Liu/dp/0071005447)
+12. **Kenneth H. Rosen – *Discrete Mathematics and Its Applications* (8º edição: 2018)**
+    - Um dos livros mais utilizados em cursos de matemática discreta para ciência da computação e engenharia.
+    - Abrange lógica, conjuntos, relações, grafos, combinatória e apresenta bons capítulos sobre algoritmos gulosos e programação dinâmica.
+    - [Livro na Amazon](https://www.amazon.com.br/Discrete-Mathematics-Applications-Kenneth-Rosen-dp-1260091996/dp/1260091996/)
 
 13. **Donald Knuth – *The Art of Computer Programming* (Volumes publicados a partir de 1968)**
     - Série clássica que compila algoritmos e análise formal detalhada.
