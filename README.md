@@ -58,7 +58,13 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-##### 🔧 Recursos e ferramentas para Python e Algoritmos:
+##### 🔧 Recursos e ferramentas para Python:
+
+###### 🧰 IDE recomendada:
+- [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
+- [JetBrains para estudantes](https://www.jetbrains.com/community/education/#students)
+- [Licenças JetBrains gratuitas via GitHub Student Developer Pack](https://blog.jetbrains.com/education/2018/09/18/free-jetbrains-licenses-as-part-of-github-student-developer-pack/)
+- [GitHub Student Developer Pack](https://education.github.com/pack)
 
 ###### 🐍 Python:
 - [Documentação Oficial do Python](https://docs.python.org/3/)
@@ -67,40 +73,81 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ###### 🐢 Python Tutor:
 - [Python Tutor - Página principal](https://pythontutor.com/)
 - [Python Tutor - Python Compiler](https://pythontutor.com/python-compiler.html)  
-  *(Permite visualizar graficamente a execução passo a passo do código, mostrando como as variáveis, pilha de chamadas na memória e estruturas de dados evoluem ao longo da execução.)*
+Permite visualizar graficamente a execução passo a passo do código, mostrando como as variáveis, pilha de chamadas na memória e estruturas de dados evoluem ao longo da execução.
 
 ###### 🖥️ Programiz:
 - [Programiz - Compilador Online para Python](https://www.programiz.com/python-programming/online-compiler/)  
-  *(Ideal para quem não está com o ambiente configurado no VS Code ou PyCharm.)*
+Ideal para quem não está com o ambiente configurado no VS Code ou PyCharm.
 
-###### 📈 Big-O Cheat Sheet:
-- [Big-O Cheat Sheet - Página principal](https://www.bigocheatsheet.com/)
-- [Big-O Cheat Sheet - PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/CHEATSHEETS/BIG-O-CHEATSHEET/big-o-cheatsheet.pdf)
-
-###### 🧠 Algorithm Visualizer:
-- [Algorithm Visualizer](https://algorithm-visualizer.org/)
-
-###### 🧰 IDE recomendada:
-- [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
-- [JetBrains para estudantes](https://www.jetbrains.com/community/education/#students)
-- [Licenças JetBrains gratuitas via GitHub Student Developer Pack](https://blog.jetbrains.com/education/2018/09/18/free-jetbrains-licenses-as-part-of-github-student-developer-pack/)
-- [GitHub Student Developer Pack](https://education.github.com/pack)
+###### Algorithm Visualizer:
+- [Algorithm Visualizer - Website](https://algorithm-visualizer.org/)
+- [Algorithm Visualizer - GitHub](https://github.com/algorithm-visualizer/algorithm-visualizer)  
+Projeto open source que oferece visualização passo a passo de vários algoritmos clássicos para facilitar o aprendizado.
 
 -----
 
-##### 🛠️ Bibliotecas e Frameworks Python para aplicações práticas
+##### 📋 Cheat Sheets:
+
+###### 📈 Big-O Cheat Sheet:
+- [Big-O Cheat Sheet - Página principal](https://www.bigocheatsheet.com/)
+- [Big-O Cheat Sheet - PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/CHEATSHEETS/BIG-O-CHEATSHEET/big-o-cheatsheet.pdf)  
+Um resumo rápido e visual das principais notações de complexidade de algoritmos (tempo e espaço), com exemplos comuns para ajudar na análise de desempenho.
+
+###### 🔢 Recursion Cheat Sheet:
+- [Recursion Cheat Sheet - Visualgo](https://visualgo.net/en/recursion)  
+Guia que explica os conceitos, exemplos e padrões de recursão, um paradigma fundamental para diversos algoritmos.
+
+###### 📚 Sorting Algorithms Cheat Sheet:
+- [Sorting Algorithms Cheat Sheet - GeeksforGeeks](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200412123320/Sorting-Algorithm-Complexity.png)  
+Tabela comparativa das principais técnicas de ordenação, mostrando complexidades, estabilidade e uso típico.
+
+###### 🧩 Data Structures Cheat Sheet:
+- [Data Structures Cheat Sheet - GitHub](https://github.com/donnemartin/interactive-coding-challenges/blob/master/data_structures/data_structures_cheat_sheet.md)  
+Resumo das estruturas de dados fundamentais (listas, pilhas, filas, árvores, grafos) com propriedades e operações principais.
+
+###### 🔎 Graph Algorithms Cheat Sheet:
+- [Graph Algorithms Cheat Sheet - Stanford](https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lectures/05/Slides05.pdf)  
+Guia dos principais algoritmos de grafos como BFS, DFS, Dijkstra, Prim, Kruskal, com complexidades e aplicações.
+
+-----
+
+##### 🛠️ Bibliotecas e Frameworks Python para análise e visualização de algoritmos
 
 ###### 🚀 PyGMO:
 - [PyGMO - Página principal](https://esa.github.io/pygmo/)
 - [PyGMO - Documentação](https://esa.github.io/pygmo/documentation/index.html)
-- [Travelling Salesman Problem with PyGMO - GitHub](https://github.com/GuintherKovalski/Travelling-Salesman-Problem)
+- [Travelling Salesman Problem with PyGMO - GitHub](https://github.com/GuintherKovalski/Travelling-Salesman-Problem)  
+Biblioteca para otimização global e metaheurísticas, útil para resolver problemas complexos como o Caixeiro Viajante com algoritmos evolutivos.
 
 ###### 🎮 PyGame:
 - [PyGame - Página principal](https://www.pygame.org/news)
 - [PyGame - Documentação](https://www.pygame.org/docs/)
-- [Sudoku GUI Solver & Game in Python (Backtracking) - GitHub](https://github.com/willtrinh/Sudoku-Solver)
+- [Sudoku GUI Solver & Game in Python (Backtracking) - GitHub](https://github.com/willtrinh/Sudoku-Solver)  
+Framework para desenvolvimento de jogos 2D em Python, excelente para criar visualizações interativas de algoritmos.
 
------
+###### NetworkX:
+- [NetworkX - Página oficial](https://networkx.org/)
+- [NetworkX - Documentação](https://networkx.org/documentation/stable/)  
+Biblioteca para criação, manipulação e análise de grafos e redes, facilitando a implementação e visualização de algoritmos de grafos.
+
+###### PyAlgoViz:
+- [PyAlgoViz - GitHub](https://github.com/carey/pyalgoviz)  
+Biblioteca focada em visualização animada de algoritmos, especialmente de ordenação e busca, para fins educacionais.
+
+###### timeit (módulo Python padrão):
+- [timeit - Documentação oficial](https://docs.python.org/3/library/timeit.html)  
+Módulo para medir o tempo de execução de pequenos trechos de código, essencial para análise experimental de algoritmos.
+
+###### cProfile / Profile (módulos Python padrão):
+- [cProfile - Documentação oficial](https://docs.python.org/3/library/profile.html)  
+Ferramentas para profiling de código Python, permitindo identificar gargalos de desempenho em implementações.
+
+###### Graphviz / PyGraphviz:
+- [Graphviz - Site oficial](https://graphviz.org/)
+- [PyGraphviz - GitHub](https://pygraphviz.github.io/)  
+Ferramentas para criação e visualização de grafos e diagramas estruturados, úteis para representar grafos, árvores e fluxogramas.
+
+------
 
 ##### 📖 Leituras fundamentais e clássicas
 
