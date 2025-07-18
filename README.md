@@ -98,16 +98,24 @@ Um resumo rápido e visual das principais notações de complexidade de algoritm
 Guia que explica os conceitos, exemplos e padrões de recursão, um paradigma fundamental para diversos algoritmos.
 
 ###### 📚 Sorting Algorithms Cheat Sheet:
-- [Sorting Algorithms Cheat Sheet - GeeksforGeeks](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200412123320/Sorting-Algorithm-Complexity.png)  
-Tabela comparativa das principais técnicas de ordenação, mostrando complexidades, estabilidade e uso típico.
+- [Sound of Sorting - SoS - CheatSheet](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/CHEATSHEETS/SOUND-OF-SORTING-CHEATSHEET/SoS-CheatSheet.pdf)
+Um resumo visual dos principais algoritmos de ordenação, ilustrando seus passos, comparações e trocas de forma clara e didática, facilitando o entendimento do funcionamento interno de cada algoritmo.
+- [Sorting Algorithms Cheat Sheet - Interview Cake](https://www.interviewcake.com/sorting-algorithm-cheat-sheet)  
+Um resumo visual e prático dos principais algoritmos de ordenação, incluindo suas complexidades de tempo no melhor, médio e pior caso, além de características como estabilidade, memória usada e estratégias básicas.
 
-###### 🧩 Data Structures Cheat Sheet:
-- [Data Structures Cheat Sheet - GitHub](https://github.com/donnemartin/interactive-coding-challenges/blob/master/data_structures/data_structures_cheat_sheet.md)  
-Resumo das estruturas de dados fundamentais (listas, pilhas, filas, árvores, grafos) com propriedades e operações principais.
+###### 🧩 Data Structures Cheat Sheet:  
+- [Data Structures Cheat Sheet - Tel Aviv University](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/CHEATSHEETS/DATA-STRUCTURES-CHEATSHEET/Data-Structures-CheatSheet.pdf)  
+Resumo abrangente com estruturas como árvores, heaps, hashing, union-find, algoritmos de ordenação e seleção, além de conceitos fundamentais como ordens de crescimento e análise amortizada. Ideal para revisão rápida e aprofundamento teórico.
+- [Data Structures Cheat Sheet - Rice University](https://www.clear.rice.edu/comp160/data_cheat.html)  
+Tabela comparativa com as operações mais comuns em estruturas como Array, List<T>, LinkedList<T>, Stack, Queue e Dictionary. Inclui as complexidades de inserção, remoção, acesso e busca, ajudando a escolher a estrutura ideal para cada situação.  
 
-###### 🔎 Graph Algorithms Cheat Sheet:
-- [Graph Algorithms Cheat Sheet - Stanford](https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lectures/05/Slides05.pdf)  
-Guia dos principais algoritmos de grafos como BFS, DFS, Dijkstra, Prim, Kruskal, com complexidades e aplicações.
+###### 🎯 States-Based Models & MDP Cheat Sheet:  
+- [States-based models with search optimization and MDP - Stanford University](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-states-models)  
+Um guia compacto sobre modelos baseados em estados, incluindo técnicas de otimização de busca (search) e processos decisórios Markovianos (MDP), essenciais para inteligência artificial e aprendizado por reforço.
+
+###### 🔎 Graph Algorithms Cheat Sheet:  
+- [CS 106B Section 8 - Graphs Cheat Sheet - Stanford University](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164//sections/section08.pdf)  
+Resumo prático com terminologias fundamentais de grafos e os algoritmos de busca mais usados, como busca em largura (BFS) e busca em profundidade (DFS). Inclui também problemas recomendados para praticar os conceitos.
 
 -----
 
