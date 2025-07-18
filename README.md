@@ -69,7 +69,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 <div>
 
 <details>
-<summary>⬇️ Veja o passo a passo de como obter a licença da JetBrains para estudantes via GitHub Student Developer Pack
+<summary>⬇️ Veja o passo a passo de como obter o GitHub Student Developer Pack
 </summary>
 
 -----
