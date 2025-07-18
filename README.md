@@ -41,7 +41,6 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📓 [Algorithms in a Nutshell – George Heineman (2016)](https://www.amazon.com.br/Algorithms-Nutshell-2e-George-Heineman/dp/1491948922)
 - 📗 [Algorithms Illuminated (Volume 1) – Tim Roughgarden (2018)](https://www.amazon.com.br/Algorithms-Illuminated-Part-Foundations/dp/0999282905)
 - 📓 [Algorithms (free PDF) – Jeff Erickson (2020)](https://jeffe.cs.illinois.edu/teaching/algorithms/)
-- 📙 [Cracking the Coding Interview – Gayle Laakmann McDowell (2015)](https://www.amazon.com.br/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 
 ###### 🐍 Algoritmos e Estruturas de Dados com Python
 - 📘 [Problemas Clássicos de Ciência da Computação com Python – David Kopec (2019)](https://www.amazon.com.br/Problemas-Cl%C3%A1ssicos-Ci%C3%AAncia-Computa%C3%A7%C3%A3o-Python/dp/8575228056)
@@ -50,6 +49,11 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📔 [Python Distilled – David Beazley (2021)](https://www.amazon.com.br/Python-Essential-Reference-David-Beazley-dp-0134173279/dp/0134173279)
 - 📗 [Effective Python: 90 Specific Ways to Write Better Python – Brett Slatkin (2ª ed., 2020)](https://www.amazon.com.br/Effective-Python-Specific-Software-Development/dp/0134853989)
 - 📕 [Data Structures and Algorithms in Python – Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser (2013)](https://www.amazon.com.br/Data-Structures-Algorithms-Python-Michael/dp/1118290275)
+
+###### 💼 Entrevistas Técnicas e Algoritmos
+- 📙 [Cracking the Coding Interview – Gayle Laakmann McDowell (2015)](https://www.amazon.com.br/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+- 📕 [Elements of Programming Interviews – Adnan Aziz, Tsung-Hsien Lee, Amit Prakash (2015)](https://www.amazon.com.br/Elements-Programming-Interviews-Insiders-Guide/dp/1517671272)
+- 📘 [Programming Interviews Exposed: Secrets to Landing Your Next Job – John Mongan, Noah Suojanen Kindler, Eric Giguère (2012)](https://www.amazon.com.br/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
 
 -----
 
