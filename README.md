@@ -38,8 +38,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ###### 🧠 Análise de Algoritmos
 - 📕 [Algoritmos – Thomas H. Cormen (2024)](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904)
 - 📗 [Algorithms – Robert Sedgewick (2011)](https://www.amazon.com.br/Algorithms-Robert-Sedgewick/dp/032157351X)
-- 📓 [Algorithms in a Nutshell – George Heineman (2016)](https://www.amazon.com.br/Algorithms-Nutshell-2e-George-Heineman/dp/1491948922)
-- 📗 [Algorithms Illuminated (Volume 1) – Tim Roughgarden (2018)](https://www.amazon.com.br/Algorithms-Illuminated-Part-Foundations/dp/0999282905)
+- 📙 [Algorithms in a Nutshell – George Heineman (2016)](https://www.amazon.com.br/Algorithms-Nutshell-2e-George-Heineman/dp/1491948922)
+- 📒 [Algorithms Illuminated (Volume 1) – Tim Roughgarden (2018)](https://www.amazon.com.br/Algorithms-Illuminated-Part-Foundations/dp/0999282905)
 - 📓 [Algorithms (free PDF) – Jeff Erickson (2020)](https://jeffe.cs.illinois.edu/teaching/algorithms/)
 
 ###### 🐍 Algoritmos e Estruturas de Dados com Python
