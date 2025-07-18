@@ -28,62 +28,90 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 #### Links úteis:
 
-##### 🐍 Python:
+##### 📚 Livros recomendados:
+
+###### 📐 Fundamentos de Projeto
+- 📕 [Algorithm Design – Jon Kleinberg & Éva Tardos (2005)](https://www.amazon.com.br/Algorithm-Design-Jon-Kleinberg/dp/0321295358)
+- 📘 [The Algorithm Design Manual – Steven S. Skiena (2008)](https://www.amazon.com.br/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+- 📒 [Introduction to Algorithms: A Creative Approach – Udi Manber (1989)](https://www.amazon.com.br/Introduction-Algorithms-Creative-Udi-Manber/dp/0201120372)
+
+###### 🧠 Análise de Algoritmos
+- 📕 [Algoritmos – Thomas H. Cormen (2024)](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904)
+- 📗 [Algorithms – Robert Sedgewick (2011)](https://www.amazon.com.br/Algorithms-Robert-Sedgewick/dp/032157351X)
+- 📓 [Algorithms in a Nutshell – George Heineman (2016)](https://www.amazon.com.br/Algorithms-Nutshell-2e-George-Heineman/dp/1491948922)
+- 📗 [Algorithms Illuminated (Volume 1) – Tim Roughgarden (2018)](https://www.amazon.com.br/Algorithms-Illuminated-Part-Foundations/dp/0999282905)
+- 📓 [Algorithms (free PDF) – Jeff Erickson (2020)](https://jeffe.cs.illinois.edu/teaching/algorithms/)
+- 📙 [Cracking the Coding Interview – Gayle Laakmann McDowell (2015)](https://www.amazon.com.br/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+
+###### 🐍 Algoritmos e Estruturas de Dados com Python
+- 📘 [Problemas Clássicos de Ciência da Computação com Python – David Kopec (2019)](https://www.amazon.com.br/Problemas-Cl%C3%A1ssicos-Ci%C3%AAncia-Computa%C3%A7%C3%A3o-Python/dp/8575228056)
+- 📒 [Pense em Python: Como Cientista da Computação – Allen B. Downey (2016)](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computação/dp/8575225081)
+- 📙 [Python Fluente: Programação Concisa e Eficaz – Luciano Ramalho (2015)](https://www.amazon.com.br/Python-Fluente-Programação-Concisa-Eficaz/dp/857522462X)
+- 📔 [Python Distilled – David Beazley (2021)](https://www.amazon.com.br/Python-Essential-Reference-David-Beazley-dp-0134173279/dp/0134173279)
+- 📕 [Data Structures and Algorithms in Python – Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser (2013)](https://www.amazon.com.br/Data-Structures-Algorithms-Python-Michael/dp/1118290275)
+- 📗 [Effective Python: 90 Specific Ways to Write Better Python – Brett Slatkin (2ª ed., 2019)](https://www.amazon.com.br/Effective-Python-Specific-Software-Development/dp/0134853989)
+
+-----
+
+##### 🔧 Recursos e ferramentas para Python e Algoritmos:
+
+###### 🐍 Python:
 - [Documentação Oficial do Python](https://docs.python.org/3/)
 - [DevDocs - Python 3.10](https://devdocs.io/python~3.10/)
 
-##### 🐢 Python Tutor:
+###### 🐢 Python Tutor:
 - [Python Tutor - Página principal](https://pythontutor.com/)
 - [Python Tutor - Python Compiler](https://pythontutor.com/python-compiler.html)  
   *(Permite visualizar graficamente a execução passo a passo do código, mostrando como as variáveis, pilha de chamadas na memória e estruturas de dados evoluem ao longo da execução.)*
 
-##### 🖥️ Programiz:
+###### 🖥️ Programiz:
 - [Programiz - Compilador Online para Python](https://www.programiz.com/python-programming/online-compiler/)  
   *(Ideal para quem não está com o ambiente configurado no VS Code ou PyCharm.)*
 
-##### 📈 Big-O Cheat Sheet:
+###### 📈 Big-O Cheat Sheet:
 - [Big-O Cheat Sheet - Página principal](https://www.bigocheatsheet.com/)
 - [Big-O Cheat Sheet - PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/CHEATSHEETS/BIG-O-CHEATSHEET/big-o-cheatsheet.pdf)
 
-##### 🧠 Algorithm Visualizer:
+###### 🧠 Algorithm Visualizer:
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 
-##### 🧰 IDE recomendada:
+###### 🧰 IDE recomendada:
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
 - [JetBrains para estudantes](https://www.jetbrains.com/community/education/#students)
 - [Licenças JetBrains gratuitas via GitHub Student Developer Pack](https://blog.jetbrains.com/education/2018/09/18/free-jetbrains-licenses-as-part-of-github-student-developer-pack/)
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 
-##### 📚 Livros recomendados:
-- 📕 [Algoritmos – Thomas H. Cormen (2024)](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904)
-- 📗 [Algorithms – Robert Sedgewick (2011)](https://www.amazon.com.br/Algorithms-Robert-Sedgewick/dp/032157351X)
-- 📘 [Problemas Clássicos de Ciência da Computação com Python - David Kopec (2019)](https://www.amazon.com.br/Problemas-Cl%C3%A1ssicos-Ci%C3%AAncia-Computa%C3%A7%C3%A3o-Python/dp/8575228056)
-- 📓 [Algorithms in a Nutshell – George Heineman (2016)](https://www.amazon.com.br/Algorithms-Nutshell-2e-George-Heineman/dp/1491948922)
-- 📒 [Pense em Python: Como Cientista da Computação – Allen B. Downey (2016)](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computação/dp/8575225081)
-- 📙 [Python Fluente: Programação Concisa e Eficaz – Luciano Ramalho (2015)](https://www.amazon.com.br/Python-Fluente-Programação-Concisa-Eficaz/dp/857522462X)
-- 📔 [Python Distilled – David Beazley (2021)](https://www.amazon.com.br/Python-Essential-Reference-David-Beazley-dp-0134173279/dp/0134173279)
+-----
 
-##### ⏱️ Medição de tempo de execução em diversas linguagens:
+##### 🛠️ Bibliotecas e Frameworks Python para aplicações práticas
+
+###### 🚀 PyGMO:
+- [PyGMO - Página principal](https://esa.github.io/pygmo/)
+- [PyGMO - Documentação](https://esa.github.io/pygmo/documentation/index.html)
+- [Travelling Salesman Problem with PyGMO - GitHub](https://github.com/GuintherKovalski/Travelling-Salesman-Problem)
+
+###### 🎮 PyGame:
+- [PyGame - Página principal](https://www.pygame.org/news)
+- [PyGame - Documentação](https://www.pygame.org/docs/)
+- [Sudoku GUI Solver & Game in Python (Backtracking) - GitHub](https://github.com/willtrinh/Sudoku-Solver)
+
+-----
+
+##### 🔍 Medição e visualização de Algoritmos
+
+###### ⏱️ Medição de tempo de execução em diversas linguagens:
 - [BenjDicken - Linguagens](https://benjdd.com/languages/)
 - [BenjDicken - Repositório GitHub - Languages](https://github.com/bddicken/languages)
 - [BenjDicken no X - Post Languages](https://x.com/BenjDicken/status/1863977678690541570)
 - [BenjDicken no X - Post Fibonacci](https://x.com/BenjDicken/status/1861811963434770665)
 
-##### 🎵 Sound of Sorting - SoS:
+###### 🎵 Sound of Sorting - SoS:
 - [The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/)
 - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 - [GitHub Sound of Sorting - SoS](https://github.com/bingmann/sound-of-sorting)
 - [Sound of Sorting - SoS - CheatSheet - PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/CHEATSHEETS/SOUND-OF-SORTING-CHEATSHEET/SoS-CheatSheet.pdf)
 
-##### 🚀 PyGMO:
-- [PyGMO - Página principal](https://esa.github.io/pygmo/)
-- [PyGMO - Documentação](https://esa.github.io/pygmo/documentation/index.html)
-- [Travelling Salesman Problem with PyGMO - GitHub](https://github.com/GuintherKovalski/Travelling-Salesman-Problem)
-
-##### 🎮 PyGame:
-- [PyGame - Página principal](https://www.pygame.org/news)
-- [PyGame - Documentação](https://www.pygame.org/docs/)
-- [Sudoku GUI Solver & Game in Python (Backtracking) - GitHub](https://github.com/willtrinh/Sudoku-Solver)
+-----
 
 ##### 📖 Leituras e vídeos sugeridos:
 
