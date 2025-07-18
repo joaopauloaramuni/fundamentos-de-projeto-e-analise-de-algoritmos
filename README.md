@@ -133,24 +133,24 @@ Biblioteca para otimização global e metaheurísticas, útil para resolver prob
 - [Sudoku GUI Solver & Game in Python (Backtracking) - GitHub](https://github.com/willtrinh/Sudoku-Solver)  
 Framework para desenvolvimento de jogos 2D em Python, excelente para criar visualizações interativas de algoritmos.
 
-###### NetworkX:
+###### 🎨 PyAlgoViz:
+- [PyAlgoViz](https://pyalgoviz.appspot.com/)  
+Biblioteca focada em visualização animada de algoritmos, especialmente de ordenação e busca, para fins educacionais.
+
+###### 🌐 NetworkX:
 - [NetworkX - Página oficial](https://networkx.org/)
 - [NetworkX - Documentação](https://networkx.org/documentation/stable/)  
 Biblioteca para criação, manipulação e análise de grafos e redes, facilitando a implementação e visualização de algoritmos de grafos.
 
-###### PyAlgoViz:
-- [PyAlgoViz - GitHub](https://github.com/carey/pyalgoviz)  
-Biblioteca focada em visualização animada de algoritmos, especialmente de ordenação e busca, para fins educacionais.
-
-###### timeit (módulo Python padrão):
+###### ⏱️ timeit (módulo Python padrão):
 - [timeit - Documentação oficial](https://docs.python.org/3/library/timeit.html)  
 Módulo para medir o tempo de execução de pequenos trechos de código, essencial para análise experimental de algoritmos.
 
-###### cProfile / Profile (módulos Python padrão):
+###### 🔍 cProfile / Profile (módulos Python padrão):
 - [cProfile - Documentação oficial](https://docs.python.org/3/library/profile.html)  
 Ferramentas para profiling de código Python, permitindo identificar gargalos de desempenho em implementações.
 
-###### Graphviz / PyGraphviz:
+###### 🗺️ Graphviz / PyGraphviz:
 - [Graphviz - Site oficial](https://graphviz.org/)
 - [PyGraphviz - GitHub](https://pygraphviz.github.io/)  
 Ferramentas para criação e visualização de grafos e diagramas estruturados, úteis para representar grafos, árvores e fluxogramas.
