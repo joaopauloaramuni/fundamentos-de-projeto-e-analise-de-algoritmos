@@ -51,6 +51,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📕 [Data Structures and Algorithms in Python – Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser (2013)](https://www.amazon.com.br/Data-Structures-Algorithms-Python-Michael/dp/1118290275)
 
 ###### 💼 Entrevistas Técnicas e Algoritmos
+- 📗 [Backtracking Algorithms for the Day Before Your Coding Interview – Aditya Chatterjee, Ue Kiao (2022)](https://www.amazon.com.br/Backtracking-Algorithms-before-Coding-Interview/dp/B09ZZ32731)
 - 📙 [Cracking the Coding Interview – Gayle Laakmann McDowell (2015)](https://www.amazon.com.br/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - 📕 [Elements of Programming Interviews – Adnan Aziz, Tsung-Hsien Lee, Amit Prakash (2015)](https://www.amazon.com.br/Elements-Programming-Interviews-Insiders-Guide/dp/1517671272)
 - 📘 [Programming Interviews Exposed: Secrets to Landing Your Next Job – John Mongan, Noah Suojanen Kindler, Eric Giguère (2012)](https://www.amazon.com.br/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
@@ -98,72 +99,6 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [PyGame - Página principal](https://www.pygame.org/news)
 - [PyGame - Documentação](https://www.pygame.org/docs/)
 - [Sudoku GUI Solver & Game in Python (Backtracking) - GitHub](https://github.com/willtrinh/Sudoku-Solver)
-
------
-
-##### 🔍 Medição e visualização de Algoritmos
-
-###### ⏱️ Medição de tempo de execução em diversas linguagens:
-- [BenjDicken - Linguagens](https://benjdd.com/languages/)
-- [BenjDicken - Repositório GitHub - Languages](https://github.com/bddicken/languages)
-- [BenjDicken no X - Post Languages](https://x.com/BenjDicken/status/1863977678690541570)
-- [BenjDicken no X - Post Fibonacci](https://x.com/BenjDicken/status/1861811963434770665)
-
-###### 🎵 Sound of Sorting - SoS:
-- [The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/)
-- [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
-- [GitHub Sound of Sorting - SoS](https://github.com/bingmann/sound-of-sorting)
-- [Sound of Sorting - SoS - CheatSheet - PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/CHEATSHEETS/SOUND-OF-SORTING-CHEATSHEET/SoS-CheatSheet.pdf)
-
------
-
-##### 📖 Leituras e vídeos sugeridos:
-
-###### 🧩 Sudoku:
-- [2025 - Sudoku Backtracking with Python](https://www.geeksforgeeks.org/dsa/sudoku-backtracking-7/)
-- [2020 - AI-Powered Sudoku Solver with Deep Learning and OpenCV - Article](https://www.kaggle.com/code/sarthakvajpayee/simple-ai-sudoku-solver)
-- [2020 - AI-Powered Sudoku Solver with Deep Learning and OpenCV - GitHub](https://github.com/SarthakV7/ai_sudoku_solver)
-- [2019 - Tech with Tim - Learn how to create a Sudoku Solver using python and backtracking](https://www.techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking)
-- [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.1](https://www.youtube.com/watch?v=eqUwSA0xI-s)
-- [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.2](https://www.youtube.com/watch?v=lK4N8E6uNr4)
-
-###### 🐴 Knight's tour Problem:
-- [2025 - Knights tour problem](https://www.geeksforgeeks.org/dsa/the-knights-tour-problem/)
-- [1997 - An efficient algorithm for the Knight's tour problem](https://mimuw.edu.pl/~rytter/TEACHING/ALCOMB/efficient%20algorithm%20recursion%20knight.pdf)
-
-###### 🧮 Subset Sum Problem:
-- [2025 - Subset Sum Problem (Dynamic Programming)](https://www.geeksforgeeks.org/dsa/subset-sum-problem-dp-25/)
-- [2023 - Subset Sum Problem using Backtracking](https://www.geeksforgeeks.org/dsa/subset-sum-problem/)
-- [2023 - Subset Sum is NP Complete](https://www.geeksforgeeks.org/dsa/subset-sum-is-np-complete/)
-
-###### 👑 N Queens Problem:
-- [2025 - N Queen - Backtracking](https://www.geeksforgeeks.org/dsa/n-queen-problem-backtracking-3/)
-- [1990 - A polynomial time algorithm for the N-Queens problem](https://dl.acm.org/doi/pdf/10.1145/101340.101343)
-
-###### 🎒 Knapsack Problem:
-- [2025 - 0/1 Knapsack Problem (Dynamic Programming)](https://www.geeksforgeeks.org/dsa/0-1-knapsack-problem-dp-10/)
-- [2025 - 0/1 Knapsack Problem - GeeksforGeeks Practice](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
-- [2025 - 0/1 Knapsack Problem - W3Schools](https://www.w3schools.com/dsa/dsa_ref_knapsack.php)
-
-###### 🧳 Traveling Salesman Problem:
-- [2024 - Traveling Salesman Problem (TSP) Implementation](https://www.geeksforgeeks.org/dsa/traveling-salesman-problem-tsp-implementation/)
-- [2014 - Traveling Salesman with Simulated Annealing, R, and Shiny - Post no Blog](https://toddwschneider.com/posts/traveling-salesman-with-simulated-annealing-r-and-shiny/)
-- [2014 - Traveling Salesman with Simulated Annealing, R, and Shiny - GitHub](https://github.com/toddwschneider/shiny-salesman)
-
-###### 🌊 Flood Fill:
-- [2022 - Comparing Flood Fill Algorithms in JavaScript](https://codeheir.com/2022/08/21/comparing-flood-fill-algorithms-in-javascript/)
-- [2020 - Algorithm to Flood Fill in Python - GitHub](https://github.com/ThiagoCComelli/Flood-Fill)
-
-###### ⭐ A* Algorithm:
-- [2017 - A* Pathfinding Algorithm (Coding Challenge 51 - Part 1](https://www.youtube.com/watch?v=aKYlikFAV4k)
-- [2017 - A* Pathfinding Algorithm (Coding Challenge 51.2 - Part 2](https://www.youtube.com/watch?v=EaZxUCWAjb0)
-
-###### 🧮 Algorithm Complexity and Visualizations:
-- [2024 - Python Big O: the time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
-- [2018 - Big-O: How Code Slows as Data Grows](https://nedbatchelder.com/text/bigo.html)
-- [2018 - Ned Batchelder - Big-O: How Code Slows as Data Grows - PyCon 2018](https://www.youtube.com/watch?v=duvZ-2UK0fc)
-- [2018 - Visualizing Algorithm Complexity](https://www.somesolvedproblems.com/2018/02/visualizing-algorithm-complexity.html)
-- [2015 - Course - MIT - Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
 -----
 
@@ -330,6 +265,68 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
     - Trabalho seminal na criptografia moderna, utilizando conceitos de complexidade computacional.
     - Define a segurança semântica e o uso de algoritmos probabilísticos para encriptação.
     - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Goldwasser_Micali_Paper_1984.pdf)
+
+-----
+
+##### 📖 Leituras e vídeos complementares:
+
+###### 🧩 Sudoku:
+- [2025 - Sudoku Backtracking with Python](https://www.geeksforgeeks.org/dsa/sudoku-backtracking-7/)
+- [2020 - AI-Powered Sudoku Solver with Deep Learning and OpenCV - Article](https://www.kaggle.com/code/sarthakvajpayee/simple-ai-sudoku-solver)
+- [2020 - AI-Powered Sudoku Solver with Deep Learning and OpenCV - GitHub](https://github.com/SarthakV7/ai_sudoku_solver)
+- [2019 - Tech with Tim - Learn how to create a Sudoku Solver using python and backtracking](https://www.techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking)
+- [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.1](https://www.youtube.com/watch?v=eqUwSA0xI-s)
+- [2019 - Tech with Tim -  Python Sudoku Solver Tutorial with Backtracking p.2](https://www.youtube.com/watch?v=lK4N8E6uNr4)
+
+###### 🐴 Knight's tour Problem:
+- [2025 - Knights tour problem](https://www.geeksforgeeks.org/dsa/the-knights-tour-problem/)
+- [1997 - An efficient algorithm for the Knight's tour problem](https://mimuw.edu.pl/~rytter/TEACHING/ALCOMB/efficient%20algorithm%20recursion%20knight.pdf)
+
+###### 🧮 Subset Sum Problem:
+- [2025 - Subset Sum Problem (Dynamic Programming)](https://www.geeksforgeeks.org/dsa/subset-sum-problem-dp-25/)
+- [2023 - Subset Sum Problem using Backtracking](https://www.geeksforgeeks.org/dsa/subset-sum-problem/)
+- [2023 - Subset Sum is NP Complete](https://www.geeksforgeeks.org/dsa/subset-sum-is-np-complete/)
+
+###### 👑 N Queens Problem:
+- [2025 - N Queen - Backtracking](https://www.geeksforgeeks.org/dsa/n-queen-problem-backtracking-3/)
+- [1990 - A polynomial time algorithm for the N-Queens problem](https://dl.acm.org/doi/pdf/10.1145/101340.101343)
+
+###### 🎒 Knapsack Problem:
+- [2025 - 0/1 Knapsack Problem (Dynamic Programming)](https://www.geeksforgeeks.org/dsa/0-1-knapsack-problem-dp-10/)
+- [2025 - 0/1 Knapsack Problem - GeeksforGeeks Practice](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
+- [2025 - 0/1 Knapsack Problem - W3Schools](https://www.w3schools.com/dsa/dsa_ref_knapsack.php)
+
+###### 🧳 Traveling Salesman Problem:
+- [2024 - Traveling Salesman Problem (TSP) Implementation](https://www.geeksforgeeks.org/dsa/traveling-salesman-problem-tsp-implementation/)
+- [2014 - Traveling Salesman with Simulated Annealing, R, and Shiny - Post no Blog](https://toddwschneider.com/posts/traveling-salesman-with-simulated-annealing-r-and-shiny/)
+- [2014 - Traveling Salesman with Simulated Annealing, R, and Shiny - GitHub](https://github.com/toddwschneider/shiny-salesman)
+
+###### 🌊 Flood Fill:
+- [2022 - Comparing Flood Fill Algorithms in JavaScript](https://codeheir.com/2022/08/21/comparing-flood-fill-algorithms-in-javascript/)
+- [2020 - Algorithm to Flood Fill in Python - GitHub](https://github.com/ThiagoCComelli/Flood-Fill)
+
+###### ⭐ A* Algorithm:
+- [2017 - A* Pathfinding Algorithm (Coding Challenge 51 - Part 1](https://www.youtube.com/watch?v=aKYlikFAV4k)
+- [2017 - A* Pathfinding Algorithm (Coding Challenge 51.2 - Part 2](https://www.youtube.com/watch?v=EaZxUCWAjb0)
+
+###### 🧮 Algorithm Complexity and Visualizations:
+- [2024 - Python Big O: the time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
+- [2018 - Big-O: How Code Slows as Data Grows](https://nedbatchelder.com/text/bigo.html)
+- [2018 - Ned Batchelder - Big-O: How Code Slows as Data Grows - PyCon 2018](https://www.youtube.com/watch?v=duvZ-2UK0fc)
+- [2018 - Visualizing Algorithm Complexity](https://www.somesolvedproblems.com/2018/02/visualizing-algorithm-complexity.html)
+- [2015 - Course - MIT - Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+
+###### ⏱️ Medição de tempo de execução em diversas linguagens:
+- [2024 - BenjDicken - Linguagens](https://benjdd.com/languages/)
+- [2024 - BenjDicken - Repositório GitHub - Languages](https://github.com/bddicken/languages)
+- [2024 - BenjDicken no X - Post Languages](https://x.com/BenjDicken/status/1863977678690541570)
+- [2024 - BenjDicken no X - Post Fibonacci](https://x.com/BenjDicken/status/1861811963434770665)
+
+###### 🎵 Sound of Sorting - SoS:
+- [2013 - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/)
+- [2013 - 15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
+- [2023 - GitHub Sound of Sorting - SoS](https://github.com/bingmann/sound-of-sorting)
+- [2023 - Sound of Sorting - SoS - CheatSheet - PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/CHEATSHEETS/SOUND-OF-SORTING-CHEATSHEET/SoS-CheatSheet.pdf)
 
 -----
 
