@@ -49,7 +49,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📙 [Python Fluente: Programação Concisa e Eficaz – Luciano Ramalho (2015)](https://www.amazon.com.br/Python-Fluente-Programação-Concisa-Eficaz/dp/857522462X)
 - 📔 [Python Distilled – David Beazley (2021)](https://www.amazon.com.br/Python-Essential-Reference-David-Beazley-dp-0134173279/dp/0134173279)
 - 📕 [Data Structures and Algorithms in Python – Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser (2013)](https://www.amazon.com.br/Data-Structures-Algorithms-Python-Michael/dp/1118290275)
-- 📗 [Effective Python: 90 Specific Ways to Write Better Python – Brett Slatkin (2020)](https://www.amazon.com.br/Effective-Python-Specific-Software-Development/dp/0134853989)
+- 📗 [Effective Python: 90 Specific Ways to Write Better Python – Brett Slatkin (2ª ed., 2020)](https://www.amazon.com.br/Effective-Python-Specific-Software-Development/dp/0134853989)
 
 -----
 
