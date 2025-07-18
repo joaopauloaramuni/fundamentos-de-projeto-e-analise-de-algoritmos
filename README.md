@@ -323,7 +323,11 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 -----
 
-##### 📖 Leituras e vídeos complementares:
+##### 📖 Leituras, códigos e vídeos complementares:
+
+###### 🧠 Implementações de Algoritmos em Python:
+- [2012 até 2016 - prakhar1989 - Algorithms (GitHub)](https://github.com/prakhar1989/Algorithms)  
+Coleção bem organizada de implementações em Python para algoritmos clássicos e estruturas de dados. Inclui exemplos práticos de grafos, ordenação, busca, programação dinâmica, divisão e conquista, estrutura de pilhas, filas, árvores, heaps e muito mais.
 
 ###### 🧩 Sudoku:
 - [2025 - Sudoku Backtracking with Python](https://www.geeksforgeeks.org/dsa/sudoku-backtracking-7/)
