@@ -231,12 +231,10 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 5. **Robert Floyd – "Algorithm 97: Shortest Path" (1962)**
    - Introduz o algoritmo de Floyd-Warshall para encontrar caminhos mínimos entre todos os pares de vértices.
-   - Artigo muito conciso, com apenas 1 página.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Floyd_Paper_1962.pdf)
 
 6. **Anatolii Karatsuba & Yu. Ofman – "Multiplication of Multidigit Numbers on Automata" (1962)**
    - Primeiro algoritmo de multiplicação de números grandes com complexidade subquadrática (Karatsuba).
-   - Publicado em apenas 2 páginas, revolucionou multiplicação eficiente.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Karatsuba_Paper_1962.pdf)
 
 7. **Richard Bellman – "Dynamic Programming" (1957)**
