@@ -386,7 +386,7 @@ Coleção bem organizada de implementações em Python para algoritmos clássico
 
 ###### 👑 N Queens Problem:
 - [2025 - N Queen - Backtracking](https://www.geeksforgeeks.org/dsa/n-queen-problem-backtracking-3/)
-- [1990 - A polynomial time algorithm for the N-Queens problem](https://dl.acm.org/doi/pdf/10.1145/101340.101343)
+- [1990 - A polynomial time algorithm for the N-Queens problem](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Sosic_Gu_Paper_1990.pdf)
 
 ###### 🎒 Knapsack Problem:
 - [2025 - 0/1 Knapsack Problem (Dynamic Programming)](https://www.geeksforgeeks.org/dsa/0-1-knapsack-problem-dp-10/)
