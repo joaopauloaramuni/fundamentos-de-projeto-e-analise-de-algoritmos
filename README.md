@@ -368,6 +368,11 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
     - Define a segurança semântica e o uso de algoritmos probabilísticos para encriptação.
     - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Goldwasser_Micali_Paper_1984.pdf)
 
+21. **Chatterjee et al. – "Solving various NP-hard problems using exponentially fewer qubits on a quantum computer" (2024)**
+    - Algoritmo híbrido quântico-clássico para problemas NP-difíceis como Max Cut, Clique, etc.
+    - Metodologia que escala logaritmicamente com o tamanho do problema, testada até 256 nós.
+    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Chatterjee_Paper_2024.pdf)
+
 -----
 
 ##### 📖 Leituras, códigos e vídeos complementares:
