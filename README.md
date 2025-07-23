@@ -197,6 +197,15 @@ Ferramentas para criação e visualização de grafos e diagramas estruturados, 
 
 ------
 
+##### 🏗️ Roadmap Computer Science e Data Structures & Algorithms
+
+Um **roadmap** é um guia visual que apresenta etapas, habilidades ou conhecimentos necessários para atingir um objetivo específico. Ele ajuda a organizar o aprendizado ou desenvolvimento ao longo do tempo, mostrando caminhos recomendados e prioridades.
+
+- 🗺️ [Roadmap Computer Science - Roadmap.sh](https://roadmap.sh/computer-science)
+- 🗺️ [Roadmap Data Structures & Algorithms - Roadmap.sh](https://roadmap.sh/datastructures-and-algorithms)
+
+-----
+
 ##### 📖 Leituras fundamentais e clássicas
 
 Esta lista reúne artigos clássicos e essenciais para compreender a análise de algoritmos, incluindo fundamentos teóricos, complexidade computacional, paradigmas de projeto, estruturas de dados e algoritmos randômicos.
