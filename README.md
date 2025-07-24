@@ -238,47 +238,47 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
    - Artigo clássico e fundamental para grafos e otimização.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Dijkstra_Paper_1959.pdf)
 
-5. **Robert Floyd – "Algorithm 97: Shortest Path" (1962)**
+**5.** **Robert Floyd – "Algorithm 97: Shortest Path" (1962)**
    - Introduz o algoritmo de Floyd-Warshall para encontrar caminhos mínimos entre todos os pares de vértices.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Floyd_Paper_1962.pdf)
 
-6. **Anatolii Karatsuba & Yu. Ofman – "Multiplication of Multidigit Numbers on Automata" (1962)**
+**6.** **Anatolii Karatsuba & Yu. Ofman – "Multiplication of Multidigit Numbers on Automata" (1962)**
    - Primeiro algoritmo de multiplicação de números grandes com complexidade subquadrática (Karatsuba).
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Karatsuba_Paper_1962.pdf)
 
-7. **Richard Bellman – "Dynamic Programming" (1957)**
+**7.** **Richard Bellman – "Dynamic Programming" (1957)**
    - Artigo fundacional do paradigma de programação dinâmica.
    - Também autor do livro *Dynamic Programming* (1972), que expande e consolida a teoria.
 
-   - **7.1 Richard Bellman – "Dynamic Programming" (1957, RAND Paper P-392)**
-     - Artigo curto **10 páginas** que introduz o paradigma de programação dinâmica.
-     - Enfatiza a ideia de decompor problemas em subproblemas sobrepostos.
-     - Publicado originalmente como um relatório técnico da RAND Corporation.
-     - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bellman_Paper_1957.pdf)
+   - **7.1** **Richard Bellman – "Dynamic Programming" (1957, RAND Paper P-392)**
+    - Artigo curto **10 páginas** que introduz o paradigma de programação dinâmica.
+    - Enfatiza a ideia de decompor problemas em subproblemas sobrepostos.
+    - Publicado originalmente como um relatório técnico da RAND Corporation.
+    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bellman_Paper_1957.pdf)
 
-   - **7.2 Richard Bellman – *Dynamic Programming* (Livro, 1972 – Sixth Printing, Princeton University Press)**
-     - Versão expandida e consolidada da teoria com aplicações matemáticas, físicas e econômicas.
-     - Contém **365 páginas** na edição de 1972 (Sexta impressão).
-     - Uma das obras mais citadas sobre o tema na literatura científica.
-     - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bellman_Book_1972.pdf)
+   - **7.2** **Richard Bellman – *Dynamic Programming* (Livro, 1972 – Sixth Printing, Princeton University Press)**
+    - Versão expandida e consolidada da teoria com aplicações matemáticas, físicas e econômicas.
+    - Contém **365 páginas** na edição de 1972 (Sexta impressão).
+    - Uma das obras mais citadas sobre o tema na literatura científica.
+    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bellman_Book_1972.pdf)
 
 -----
 
 ###### 🧠 Complexidade e Classes de Problemas
 
-8. **Richard Karp – "Reducibility Among Combinatorial Problems" (1972)**
+**8.** **Richard Karp – "Reducibility Among Combinatorial Problems" (1972)**
    - Lista os primeiros 21 problemas NP-completos, formalizando a teoria da NP-completude.
    - Artigo fundamental para o estudo da complexidade computacional e algoritmos.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Karp_Paper_1972.pdf)
 
-9. **Leonid Levin – "Universal Sequential Search Problems" (1973)**
+**9.** **Leonid Levin – "Universal Sequential Search Problems" (1973)**
    - Publicado originalmente em russo como *"Universal’nye perebornye zadachi"* na revista *Problemy Peredachi Informatsii*, vol. 9, nº 3.
    - Artigo independente, publicado quase simultaneamente ao de Stephen Cook, que introduz formalmente a noção de problemas de busca NP-completos.
    - Levin define seis problemas universais que capturam a dificuldade intrínseca dos problemas em NP.
    - Reconhecido como co-descobridor da teoria da NP-completude.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Levin_Paper_1973.pdf)
 
-10. **Michael Sipser – *Introduction to the Theory of Computation* (Primeira edição: 1996; Terceira edição: 2012)**
+**10.** **Michael Sipser – *Introduction to the Theory of Computation* (Primeira edição: 1996; Terceira edição: 2012)**
    - Livro didático referência para teoria da computação, complexidade computacional e automatos.
    - Aborda detalhadamente classes de problemas como P, NP, NP-completos e problemas indecidíveis.
    - Muito utilizado em cursos de graduação e pós-graduação como base teórica para análise de algoritmos e teoria da complexidade.
@@ -288,17 +288,17 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 ###### 🔁 Paradigmas de Projeto de Algoritmos
 
-11. **Cormen, Leiserson, Rivest, Stein – *Introduction to Algorithms* (Primeira edição: 1990; Quarta edição: 2024)**
+**11.** **Cormen, Leiserson, Rivest, Stein – *Introduction to Algorithms* (Primeira edição: 1990; Quarta edição: 2024)**
    - Livro referência para design e análise de algoritmos, cobrindo uma ampla gama de tópicos e paradigmas.
    - Fundamental para estudantes de engenharia de software e ciência da computação.
    - [Livro na Amazon](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904)
 
-12. **Kenneth H. Rosen – *Discrete Mathematics and Its Applications* (8º edição: 2018)**
+**12.** **Kenneth H. Rosen – *Discrete Mathematics and Its Applications* (8º edição: 2018)**
    - Um dos livros mais utilizados em cursos de matemática discreta para ciência da computação e engenharia.
    - Abrange lógica, conjuntos, relações, grafos, combinatória e apresenta bons capítulos sobre algoritmos gulosos e programação dinâmica.
    - [Livro na Amazon](https://www.amazon.com.br/Discrete-Mathematics-Applications-Kenneth-Rosen-dp-1260091996/dp/1260091996/)
 
-13. **Donald Knuth – *The Art of Computer Programming* (Volumes publicados a partir de 1968)**
+**13.** **Donald Knuth – *The Art of Computer Programming* (Volumes publicados a partir de 1968)**
    - Série clássica que compila algoritmos e análise formal detalhada.
    - Referência essencial para aprofundamento teórico e histórico.
 
@@ -315,12 +315,12 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 ###### 🧮 Algoritmos Randômicos e Probabilísticos
 
-14. **Michael Rabin – "Probabilistic Algorithm for Testing Primality" (1980)**
+**14.** **Michael Rabin – "Probabilistic Algorithm for Testing Primality" (1980)**
    - Primeiro algoritmo probabilístico eficiente para teste de primalidade.
    - Abre caminho para a utilização de aleatoriedade na construção de algoritmos rápidos.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Rabin_Paper_1980.pdf)
 
-15. **Rajeev Motwani & Prabhakar Raghavan – *Randomized Algorithms* (Primeira edição: 1995)**
+**15.** **Rajeev Motwani & Prabhakar Raghavan – *Randomized Algorithms* (Primeira edição: 1995)**
    - Livro que compila diversos algoritmos randômicos com fundamentação teórica rigorosa.
    - Amplamente usado em cursos avançados de algoritmos.
    - [Livro na Amazon](https://www.amazon.com.br/Randomized-Algorithms-Rajeev-Motwani/dp/0521474655)
@@ -329,17 +329,17 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 ###### 🧱 Estruturas de Dados fundamentais
 
-16. **Robert Tarjan – "Efficiency of a Good But Not Linear Set Union Algorithm" (1975)**
+**16.** **Robert Tarjan – "Efficiency of a Good But Not Linear Set Union Algorithm" (1975)**
    - Introduz melhorias no algoritmo Union-Find, fundamentais para muitas aplicações em grafos.
    - Combina técnicas de path compression e union by rank para eficiência quase linear.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Tarjan_Paper_1975.pdf)
 
-17. **Michael L. Fredman & Robert E. Tarjan – "Fibonacci Heaps and Their Uses in Improved Network Optimization Algorithms" (1987)**
+**17.** **Michael L. Fredman & Robert E. Tarjan – "Fibonacci Heaps and Their Uses in Improved Network Optimization Algorithms" (1987)**
    - Estrutura de dados avançada que melhora complexidade de operações em heaps.
    - Aplicações em algoritmos de otimização de redes e grafos.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Fredman_Tarjan_Paper_1987.pdf)
 
-18. **Jon Bentley – *Programming Pearls* (1986)**
+**18.** **Jon Bentley – *Programming Pearls* (1986)**
    - Série clássica sobre design e implementação prática de algoritmos.
 
    - **18.1 Livro – *Programming Pearls* (1986)**
@@ -358,7 +358,7 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 ###### 📘 Algoritmos de ordenação
 
-19. **C. A. R. Hoare – "Quicksort" (1961)**
+**19.** **C. A. R. Hoare – "Quicksort" (1961)**
    - Apresenta o algoritmo de ordenação *Quicksort*, baseado no paradigma de **divisão e conquista**.
    - É um dos algoritmos de ordenação mais eficientes na prática, sendo amplamente utilizado até hoje.
    - Introduz ideias que influenciaram fortemente o desenvolvimento de algoritmos modernos.
@@ -368,17 +368,17 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 ###### 📚 Extras avançados
 
-20. **Leslie Valiant – "A Theory of the Learnable" (1984)**
+**20.** **Leslie Valiant – "A Theory of the Learnable" (1984)**
    - Introduz o modelo PAC (Provably Approximately Correct) para aprendizagem computacional.
    - Importante conexão entre algoritmos, teoria da complexidade e inteligência artificial.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Valiant_Paper_1984.pdf)
 
-21. **Shafi Goldwasser & Silvio Micali – "Probabilistic Encryption" (1984)**
+**21.** **Shafi Goldwasser & Silvio Micali – "Probabilistic Encryption" (1984)**
    - Trabalho seminal na criptografia moderna, utilizando conceitos de complexidade computacional.
    - Define a segurança semântica e o uso de algoritmos probabilísticos para encriptação.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Goldwasser_Micali_Paper_1984.pdf)
 
-22. **Chatterjee et al. – "Solving various NP-hard problems using exponentially fewer qubits on a quantum computer" (2024)**
+**22.** **Chatterjee et al. – "Solving various NP-hard problems using exponentially fewer qubits on a quantum computer" (2024)**
    - Algoritmo híbrido quântico-clássico para problemas NP-difíceis como Max Cut, Clique, etc.
    - Metodologia que escala logaritmicamente com o tamanho do problema, testada até 256 nós.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Chatterjee_Paper_2024.pdf)
