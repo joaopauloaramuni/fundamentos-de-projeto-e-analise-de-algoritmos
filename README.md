@@ -356,19 +356,29 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 -----
 
+###### 📘 Algoritmos de ordenação
+
+19. **C. A. R. Hoare – "Quicksort" (1961)**
+   - Apresenta o algoritmo de ordenação *Quicksort*, baseado no paradigma de **divisão e conquista**.
+   - É um dos algoritmos de ordenação mais eficientes na prática, sendo amplamente utilizado até hoje.
+   - Introduz ideias que influenciaram fortemente o desenvolvimento de algoritmos modernos.
+   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Hoare_Paper_1961.pdf)
+
+-----
+
 ###### 📚 Extras avançados
 
-19. **Leslie Valiant – "A Theory of the Learnable" (1984)**
+20. **Leslie Valiant – "A Theory of the Learnable" (1984)**
     - Introduz o modelo PAC (Provably Approximately Correct) para aprendizagem computacional.
     - Importante conexão entre algoritmos, teoria da complexidade e inteligência artificial.
     - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Valiant_Paper_1984.pdf)
 
-20. **Shafi Goldwasser & Silvio Micali – "Probabilistic Encryption" (1984)**
+21. **Shafi Goldwasser & Silvio Micali – "Probabilistic Encryption" (1984)**
     - Trabalho seminal na criptografia moderna, utilizando conceitos de complexidade computacional.
     - Define a segurança semântica e o uso de algoritmos probabilísticos para encriptação.
     - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Goldwasser_Micali_Paper_1984.pdf)
 
-21. **Chatterjee et al. – "Solving various NP-hard problems using exponentially fewer qubits on a quantum computer" (2024)**
+22. **Chatterjee et al. – "Solving various NP-hard problems using exponentially fewer qubits on a quantum computer" (2024)**
     - Algoritmo híbrido quântico-clássico para problemas NP-difíceis como Max Cut, Clique, etc.
     - Metodologia que escala logaritmicamente com o tamanho do problema, testada até 256 nós.
     - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Chatterjee_Paper_2024.pdf)
