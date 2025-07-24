@@ -214,17 +214,17 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 ###### 📜 Artigos históricos e fundacionais
 
-1. **Alan Turing – "On Computable Numbers, with an Application to the Entscheidungsproblem" (1936)**
+**1.** **Alan Turing – "On Computable Numbers, with an Application to the Entscheidungsproblem" (1936)**
    - Origem da máquina de Turing e da noção de computabilidade.
    - Trabalho seminal que fundamenta toda a teoria da computação.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Turing_Paper_1936.pdf)
 
-2. **Alan Turing – "Computing Machinery and Intelligence" (1950)**
+**2.** **Alan Turing – "Computing Machinery and Intelligence" (1950)**
    - Propõe o "Teste de Turing" e discute a possibilidade de máquinas pensarem.
    - Marco inicial na inteligência artificial.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Turing_Paper_1950.pdf)
 
-3. **Stephen Cook – "The Complexity of Theorem-Proving Procedures" (1971)**
+**3.** **Stephen Cook – "The Complexity of Theorem-Proving Procedures" (1971)**
    - Introduz o conceito de NP-completude, base da teoria da complexidade.
    - Fundamenta a distinção entre problemas eficientes e intratáveis.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Cook_Paper_1971.pdf)
@@ -233,7 +233,7 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 ###### 📘 Clássicos da Análise de Algoritmos
 
-4. **Edsger Dijkstra – "A Note on Two Problems in Connexion with Graphs" (1959)**
+**4.** **Edsger Dijkstra – "A Note on Two Problems in Connexion with Graphs" (1959)**
    - Introduz o algoritmo de caminhos mínimos em grafos (algoritmo de Dijkstra).
    - Artigo clássico e fundamental para grafos e otimização.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Dijkstra_Paper_1959.pdf)
