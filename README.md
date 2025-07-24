@@ -277,7 +277,7 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
    - Levin define seis problemas universais que capturam a dificuldade intrínseca dos problemas em NP.
    - Reconhecido como co-descobridor da teoria da NP-completude.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Levin_Paper_1973.pdf)
-  
+
 10. **Michael Sipser – *Introduction to the Theory of Computation* (Primeira edição: 1996; Terceira edição: 2012)**
    - Livro didático referência para teoria da computação, complexidade computacional e automatos.
    - Aborda detalhadamente classes de problemas como P, NP, NP-completos e problemas indecidíveis.
