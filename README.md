@@ -378,21 +378,26 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
    - Introduz ideias que influenciaram fortemente o desenvolvimento de algoritmos modernos.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Hoare_Paper_1961.pdf)
 
+**21.** **Robert Sedgewick – "Implementing Quicksort Programs" (1978)**  
+   - Explora otimizações práticas para o Quicksort, incluindo escolhas de pivô e técnicas de partição.  
+   - Fundamenta implementações eficientes em linguagens modernas.  
+   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Sedgewick_Paper_1978.pdf)
+
 -----
 
 ###### 📚 Extras avançados
 
-**21.** **Leslie Valiant – "A Theory of the Learnable" (1984)**
+**22.** **Leslie Valiant – "A Theory of the Learnable" (1984)**
    - Introduz o modelo PAC (Provably Approximately Correct) para aprendizagem computacional.
    - Importante conexão entre algoritmos, teoria da complexidade e inteligência artificial.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Valiant_Paper_1984.pdf)
 
-**22.** **Shafi Goldwasser & Silvio Micali – "Probabilistic Encryption" (1984)**
+**23.** **Shafi Goldwasser & Silvio Micali – "Probabilistic Encryption" (1984)**
    - Trabalho seminal na criptografia moderna, utilizando conceitos de complexidade computacional.
    - Define a segurança semântica e o uso de algoritmos probabilísticos para encriptação.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Goldwasser_Micali_Paper_1984.pdf)
 
-**23.** **Chatterjee et al. – "Solving various NP-hard problems using exponentially fewer qubits on a quantum computer" (2024)**
+**24.** **Chatterjee et al. – "Solving various NP-hard problems using exponentially fewer qubits on a quantum computer" (2024)**
    - Algoritmo híbrido quântico-clássico para problemas NP-difíceis como Max Cut, Clique, etc.
    - Metodologia que escala logaritmicamente com o tamanho do problema, testada até 256 nós.
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Chatterjee_Paper_2024.pdf)
