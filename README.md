@@ -383,7 +383,7 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
    - Fundamenta implementações eficientes em linguagens modernas.  
    - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Sedgewick_Paper_1978.pdf)
 
-**22.** **William A. Martin – "Sorting" (ca. 1971, MIT)**  
+**22.** **William A. Martin – "Sorting" (1971, MIT)**  
    - Artigo de revisão que apresenta **37 algoritmos de ordenação** e referencia **100 livros e artigos** publicados nas duas décadas anteriores.  
    - Resume as ideias centrais da literatura sobre ordenação e destaca os algoritmos mais eficientes para diferentes contextos.  
    - Apresenta comparações, análises matemáticas e sugestões práticas para escolha do algoritmo mais adequado.  
