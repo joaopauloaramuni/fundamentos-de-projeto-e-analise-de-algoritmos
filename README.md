@@ -324,70 +324,60 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 ###### 🧱 Estruturas de Dados fundamentais
 
-**17.** **Robert Tarjan – "Efficiency of a Good But Not Linear Set Union Algorithm" (1975)**
+**17.** Robert Tarjan – ["Efficiency of a Good But Not Linear Set Union Algorithm" (1975)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Tarjan_Paper_1975.pdf)  
    - Introduz melhorias no algoritmo Union-Find, fundamentais para muitas aplicações em grafos.
    - Combina técnicas de path compression e union by rank para eficiência quase linear.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Tarjan_Paper_1975.pdf)
 
-**18.** **Michael L. Fredman & Robert E. Tarjan – "Fibonacci Heaps and Their Uses in Improved Network Optimization Algorithms" (1987)**
+**18.** Michael L. Fredman & Robert E. Tarjan – ["Fibonacci Heaps and Their Uses in Improved Network Optimization Algorithms" (1987)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Fredman_Tarjan_Paper_1987.pdf)  
    - Estrutura de dados avançada que melhora complexidade de operações em heaps.
    - Aplicações em algoritmos de otimização de redes e grafos.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Fredman_Tarjan_Paper_1987.pdf)
 
-**19.** **Jon Bentley – *Programming Pearls* (1986)**
+**19.** Jon Bentley – "Programming Pearls" (1986)  
    - Série clássica sobre design e implementação prática de algoritmos.
 
-   - **19.1** Livro – *Programming Pearls* (1986)
+   - **19.1** Livro – ["Programming Pearls" (1986)](https://www.amazon.com.br/Programming-Pearls-Jon-Bentley/dp/0201657880)  
      - Coleção expandida de colunas originalmente publicadas na *Communications of the ACM*.
      - Explora problemas reais, otimização e clareza de código em situações do cotidiano.
      - Muito citado por engenheiros de software e usado em entrevistas técnicas.
-     - [Livro na Amazon](https://www.amazon.com.br/Programming-Pearls-Jon-Bentley/dp/0201657880)
 
-   - **19.2** Artigo – "Programming Pearls: Little Languages" (1986)
+   - **19.2** Artigo – ["Programming Pearls: Little Languages" (1986)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bentley_Paper_1986.pdf)  
      - Um dos artigos originais da série, publicado na *Communications of the ACM*.
      - Foca em "linguagens pequenas" (little languages) como ferramentas poderosas para resolver problemas específicos.
      - Documento curto de **11 páginas**, frequentemente citado como inspiração para soluções elegantes.
-     - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Bentley_Paper_1986.pdf)
 
 -----
 
 ###### 📘 Algoritmos de ordenação
 
-**20.** **C. A. R. Hoare – "Quicksort" (1961)**
+**20.** C. A. R. Hoare – ["Quicksort" (1961)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Hoare_Paper_1961.pdf)  
    - Apresenta o algoritmo de ordenação *Quicksort*, baseado no paradigma de **divisão e conquista**.
    - É um dos algoritmos de ordenação mais eficientes na prática, sendo amplamente utilizado até hoje.
    - Introduz ideias que influenciaram fortemente o desenvolvimento de algoritmos modernos.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Hoare_Paper_1961.pdf)
 
-**21.** **Robert Sedgewick – "Implementing Quicksort Programs" (1978)**  
+**21.** Robert Sedgewick – ["Implementing Quicksort Programs" (1978)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Sedgewick_Paper_1978.pdf)  
    - Explora otimizações práticas para o Quicksort, incluindo escolhas de pivô e técnicas de partição.  
    - Fundamenta implementações eficientes em linguagens modernas.  
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Sedgewick_Paper_1978.pdf)
 
-**22.** **William A. Martin – "Sorting" (1971, MIT)**  
+**22.** William A. Martin – ["Sorting" (1971, MIT)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Martin_Paper_1971.pdf)   
    - Artigo de revisão que apresenta **37 algoritmos de ordenação** e referencia **100 livros e artigos** publicados nas duas décadas anteriores.  
    - Resume as ideias centrais da literatura sobre ordenação e destaca os algoritmos mais eficientes para diferentes contextos.  
    - Apresenta comparações, análises matemáticas e sugestões práticas para escolha do algoritmo mais adequado.  
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Martin_Paper_1971.pdf)
 
 -----
 
 ###### 📚 Extras avançados
 
-**23.** **Leslie Valiant – "A Theory of the Learnable" (1984)**
+**23.** Leslie Valiant – ["A Theory of the Learnable" (1984)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Valiant_Paper_1984.pdf)  
    - Introduz o modelo PAC (Provably Approximately Correct) para aprendizagem computacional.
    - Importante conexão entre algoritmos, teoria da complexidade e inteligência artificial.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Valiant_Paper_1984.pdf)
 
-**24.** **Shafi Goldwasser & Silvio Micali – "Probabilistic Encryption" (1984)**
+**24.** Shafi Goldwasser & Silvio Micali – ["Probabilistic Encryption" (1984)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Goldwasser_Micali_Paper_1984.pdf)  
    - Trabalho seminal na criptografia moderna, utilizando conceitos de complexidade computacional.
    - Define a segurança semântica e o uso de algoritmos probabilísticos para encriptação.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Goldwasser_Micali_Paper_1984.pdf)
 
-**25.** **Chatterjee et al. – "Solving various NP-hard problems using exponentially fewer qubits on a quantum computer" (2024)**
+**25.** Chatterjee et al. – ["Solving various NP-hard problems using exponentially fewer qubits on a quantum computer" (2024)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Chatterjee_Paper_2024.pdf)  
    - Algoritmo híbrido quântico-clássico para problemas NP-difíceis como Max Cut, Clique, etc.
    - Metodologia que escala logaritmicamente com o tamanho do problema, testada até 256 nós.
-   - [PDF](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Chatterjee_Paper_2024.pdf)
 
 -----
 
