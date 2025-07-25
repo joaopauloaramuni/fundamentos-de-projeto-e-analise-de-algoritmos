@@ -242,12 +242,12 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
    - Pioneiro na formalização da Teoria da Informação e na aplicação da álgebra booleana a circuitos elétricos.  
    - Seus trabalhos lançaram as bases para a codificação digital e a eletrônica digital moderna.
 
-   - **5.1** [A Mathematical Theory of Communication (1948)](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Shannon_Paper_1948.pdf)  
+   - **5.1** [A Mathematical Theory of Communication (1948)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Shannon_Paper_1948.pdf)  
      - Estabelece os fundamentos da Teoria da Informação.  
      - Introduz conceitos como entropia, redundância e capacidade de canal.  
      - Essencial para codificação, compressão e transmissão de dados.
 
-   - **5.2** [A Symbolic Analysis of Relay and Switching Circuits (1937)](https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/blob/main/ARTIGOS/Shannon_Thesis_1937.pdf)  
+   - **5.2** [A Symbolic Analysis of Relay and Switching Circuits (1937)](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/ARTIGOS/Shannon_Thesis_1937.pdf)  
      - Dissertação de mestrado de Shannon, considerada o nascimento dos circuitos digitais.  
      - Aplica álgebra booleana à análise e projeto de circuitos de relés e comutadores.  
      - Fundamento para o desenvolvimento da eletrônica digital e dos computadores modernos.
