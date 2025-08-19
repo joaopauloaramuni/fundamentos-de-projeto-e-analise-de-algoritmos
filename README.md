@@ -632,7 +632,7 @@ Coleção bem organizada de implementações em Python para algoritmos clássico
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="400px" alt="hanoi_4" src="https://joaopauloaramuni.github.io/image/Tower_of_Hanoi_4_disks.gif?raw=true"/></td>
+ <td align="center"><img width="400px" alt="hanoi_4" src="https://joaopauloaramuni.github.io/image/Tower_of_Hanoi_4_disks.svg?raw=true"/></td>
 </tr>
 <tr>
  <td align="center">Tower of Hanoi with 4 disks</td>
