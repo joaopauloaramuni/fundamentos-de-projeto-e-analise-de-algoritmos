@@ -574,7 +574,7 @@ Coleção bem organizada de implementações em Python para algoritmos clássico
 <div align="center">
 <table>
 <tr>
- <td align="center"><img align="center" alt="Travelling_Salesman_Problem" src="https://joaopauloaramuni.github.io/image/Travelling_Salesman_Problem.gif?raw=true"/></td>
+ <td align="center"><img align="center" alt="Travelling_Salesman_Problem" src="https://joaopauloaramuni.github.io/image/Travelling_Salesman_Problem.svg?raw=true"/></td>
  <td align="center"><img height="290px" align="center" alt="Travelling_Salesman" src="https://joaopauloaramuni.github.io/image/Traveling_Salesman_1.jpg?raw=true"/></td>
 </tr>
 <tr>
