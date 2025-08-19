@@ -489,8 +489,8 @@ Coleção bem organizada de implementações em Python para algoritmos clássico
 <div align="center">
 <table>
 <tr>
- <td align="center"><img align="center" alt="min_complexity" src="https://joaopauloaramuni.github.io/image/min_complexity.gif?raw=true"/></td>
- <td align="center"><img align="center" alt="min_complexity" src="https://joaopauloaramuni.github.io/image/min_complexity2.gif?raw=true"/></td>
+ <td align="center"><img align="center" alt="min_complexity" src="https://joaopauloaramuni.github.io/image/min_complexity.svg?raw=true"/></td>
+ <td align="center"><img align="center" alt="min_complexity" src="https://joaopauloaramuni.github.io/image/min_complexity2.svg?raw=true"/></td>
 </tr>
 <tr>
  <td>Cada algoritmo tenta encontrar o número 29 em um conjunto de 40 números ordenados do menor para o maior.</td>
@@ -504,7 +504,7 @@ Coleção bem organizada de implementações em Python para algoritmos clássico
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="400px" align="center" alt="min_complexitysort" src="https://joaopauloaramuni.github.io/image/min_complexitysort.gif?raw=true"/></td>
+ <td align="center"><img width="400px" align="center" alt="min_complexitysort" src="https://joaopauloaramuni.github.io/image/min_complexitysort.svg?raw=true"/></td>
 </tr>
 <tr>
  <td align="center">Merge Sort vs Bubble Sort</td>
@@ -521,8 +521,8 @@ Coleção bem organizada de implementações em Python para algoritmos clássico
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="350px" align="center" alt="Knights_Tour_8x8" src="https://joaopauloaramuni.github.io/image/Knights_Tour_8x8.gif?raw=true"/></td>
- <td align="center"><img width="350px" align="center" alt="Knights_Tour_8x8_2" src="https://joaopauloaramuni.github.io/image/Knights_Tour_8x8_2.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Knights_Tour_8x8" src="https://joaopauloaramuni.github.io/image/Knights_Tour_8x8.svg?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Knights_Tour_8x8_2" src="https://joaopauloaramuni.github.io/image/Knights_Tour_8x8_2.svg?raw=true"/></td>
 </tr>
 <tr>
  <td>O cavalo visita cada casa exatamente uma vez. Duas casas em uma direção (horizontal ou vertical) e uma casa em uma direção perpendicular.</td>
@@ -536,8 +536,8 @@ Coleção bem organizada de implementações em Python para algoritmos clássico
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="290px" align="center" alt="Knights_Tour_5x5" src="https://joaopauloaramuni.github.io/image/Knights_Tour_5x5.gif?raw=true"/></td>
- <td align="center"><img width="300px" align="center" alt="Knights_Tour_8x8_3" src="https://joaopauloaramuni.github.io/image/Knights_Tour_8x8_3.gif?raw=true"/></td>
+ <td align="center"><img width="290px" align="center" alt="Knights_Tour_5x5" src="https://joaopauloaramuni.github.io/image/Knights_Tour_5x5.svg?raw=true"/></td>
+ <td align="center"><img width="300px" align="center" alt="Knights_Tour_8x8_3" src="https://joaopauloaramuni.github.io/image/Knights_Tour_8x8_3.svg?raw=true"/></td>
 </tr>
 <tr>
  <td>Como você começa em uma casa, você fará 24 movimentos [(n x n) - 1] em um tabuleiro 5×5.</td>
@@ -555,8 +555,8 @@ Coleção bem organizada de implementações em Python para algoritmos clássico
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="350px" align="center" alt="Eight_Queens_Puzzle" src="https://joaopauloaramuni.github.io/image/Eight_Queens_Puzzle.gif?raw=true"/></td>
- <td align="center"><img width="350px" align="center" alt="Eight_Queens_Puzzle_Min_Conflict" src="https://joaopauloaramuni.github.io/image/Eight_Queens_Puzzle_Min_Conflict.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Eight_Queens_Puzzle" src="https://joaopauloaramuni.github.io/image/Eight_Queens_Puzzle.svg?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Eight_Queens_Puzzle_Min_Conflict" src="https://joaopauloaramuni.github.io/image/Eight_Queens_Puzzle_Min_Conflict.svg?raw=true"/></td>
 </tr>
 <tr>
  <td>Backtracking para resolver o Problema das Oito Rainhas.</td>
@@ -593,8 +593,8 @@ Coleção bem organizada de implementações em Python para algoritmos clássico
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="350px" align="center" alt="Flood_Fill" src="https://joaopauloaramuni.github.io/image/Flood_Fill.gif?raw=true"/></td>
- <td align="center"><img width="350px" align="center" alt="Flood_Fill_2" src="https://joaopauloaramuni.github.io/image/Flood_Fill_2.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Flood_Fill" src="https://joaopauloaramuni.github.io/image/Flood_Fill.svg?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Flood_Fill_2" src="https://joaopauloaramuni.github.io/image/Flood_Fill_2.svg?raw=true"/></td>
 </tr>
 <tr>
  <td align="center">Com Python</td>
@@ -612,8 +612,8 @@ Coleção bem organizada de implementações em Python para algoritmos clássico
 <div align="center">
 <table>
 <tr>
- <td align="center"><img width="350px" align="center" alt="Sudoku" src="https://joaopauloaramuni.github.io/image/Sudoku_autosolve.gif?raw=true"/></td>
- <td align="center"><img width="350px" align="center" alt="Sudoku_2" src="https://joaopauloaramuni.github.io/image/Sudoku_solved_by_bactracking_2.gif?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Sudoku" src="https://joaopauloaramuni.github.io/image/Sudoku_autosolve.svg?raw=true"/></td>
+ <td align="center"><img width="350px" align="center" alt="Sudoku_2" src="https://joaopauloaramuni.github.io/image/Sudoku_solved_by_bactracking_2.svg?raw=true"/></td>
 </tr>
 <tr>
  <td align="center">https://github.com/willtrinh/Sudoku-Solver</td>
