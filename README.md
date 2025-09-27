@@ -403,6 +403,15 @@ Esta lista reúne artigos clássicos e essenciais para compreender a análise de
 
 ##### 📖 Leituras, códigos e vídeos complementares:
 
+###### 📘 Minicurso de Análise de Algoritmos - Paulo Feofiloff - Universidade de São Paulo
+- [2011 - Texto completo e slides (PDF)](https://www.ime.usp.br/%7Epf/livrinho-AA/)  
+Este livrinho é uma versão corrigida e expandida do minicurso ministrado nas Jornadas de Atualização em Informática da Sociedade Brasileira de Computação, ocorridas em Bento Gonçalves, Rio Grande do Sul, em julho de 2009. O texto original do minicurso foi publicado no livro *Atualizações em Informática 2009* (organizado por A. de Carvalho e T. Kowaltowski), Editora PUC Rio, 2009.
+
+###### 📗 Análise de Algoritmos - Maggie Johnson - Universidade de Stanford (Tradução do Prof. Flávio Velloso Laper)
+- [2013 - Análise de Algoritmos - Stanford](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/MATERIAL%20COMPLEMENTAR/Ana%CC%81lise%20de%20Algoritmos%20-%20Maggie%20Johnson%20-%20Universidade%20de%20Stanford.pdf)
+Este trabalho é uma tradução de documentos sobre análise de algoritmos escritos por Maggie Johnson. O objetivo é servir como referência didática, apresentando conceitos de forma simples, precisa e objetiva.  
+Supõe-se que o leitor possua conhecimentos básicos em matemática discreta e estruturas de dados, além de familiaridade com algoritmos recursivos e de ordenação (seleção, inserção, bolha, mergesort, heapsort, quicksort, etc.).
+
 ###### 🧠 Implementações de Algoritmos em Python:
 - [2012 até 2016 - prakhar1989 - Algorithms (GitHub)](https://github.com/prakhar1989/Algorithms)  
 Coleção bem organizada de implementações em Python para algoritmos clássicos e estruturas de dados. Inclui exemplos práticos de grafos, ordenação, busca, programação dinâmica, divisão e conquista, estrutura de pilhas, filas, árvores, heaps e muito mais.
