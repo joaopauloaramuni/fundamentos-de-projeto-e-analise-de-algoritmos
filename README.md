@@ -409,8 +409,7 @@ Este livrinho é uma versão corrigida e expandida do minicurso ministrado nas J
 
 ###### 📗 Análise de Algoritmos - Maggie Johnson - Universidade de Stanford (Tradução do Prof. Flávio Velloso Laper)
 - [2013 - Análise de Algoritmos - Stanford](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/blob/main/MATERIAL%20COMPLEMENTAR/Ana%CC%81lise%20de%20Algoritmos%20-%20Maggie%20Johnson%20-%20Universidade%20de%20Stanford.pdf)
-Este trabalho é uma tradução de documentos sobre análise de algoritmos escritos por Maggie Johnson. O objetivo é servir como referência didática, apresentando conceitos de forma simples, precisa e objetiva.  
-Supõe-se que o leitor possua conhecimentos básicos em matemática discreta e estruturas de dados, além de familiaridade com algoritmos recursivos e de ordenação (seleção, inserção, bolha, mergesort, heapsort, quicksort, etc.).
+Este trabalho é uma tradução de documentos sobre análise de algoritmos escritos por Maggie Johnson. O objetivo é servir como referência didática, apresentando conceitos de forma simples, precisa e objetiva. Supõe-se que o leitor possua conhecimentos básicos em matemática discreta e estruturas de dados, além de familiaridade com algoritmos recursivos e de ordenação (seleção, inserção, bolha, mergesort, heapsort, quicksort, etc.).
 
 ###### 🧠 Implementações de Algoritmos em Python:
 - [2012 até 2016 - prakhar1989 - Algorithms (GitHub)](https://github.com/prakhar1989/Algorithms)  
