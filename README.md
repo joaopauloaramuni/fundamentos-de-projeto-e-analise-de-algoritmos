@@ -41,6 +41,12 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📘 [The Algorithm Design Manual – Steven S. Skiena (2008)](https://www.amazon.com.br/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
 - 📒 [Introduction to Algorithms: A Creative Approach – Udi Manber (1989)](https://www.amazon.com.br/Introduction-Algorithms-Creative-Udi-Manber/dp/0201120372)
 
+### 🧩 Fundamentos Teóricos de Computação
+- 📘 [Structure and Interpretation of Computer Programs (SICP) – Harold Abelson & Gerald Jay Sussman (1996)](https://web.mit.edu/6.001/6.037/sicp.pdf)
+- 📗 [Introdução aos Fundamentos da Computação: Linguagens de Programação, Máquinas e Computabilidade – Newton Vieira (2006)](https://www.amazon.com.br/Introdução-aos-fundamentos-computação-Linguagens/dp/8522105081)
+  - 🌐 Página do autor: [https://homepages.dcc.ufmg.br/~nvieira/](https://homepages.dcc.ufmg.br/~nvieira/)
+  - 👨‍🏫 Professor Associado aposentado do Departamento de Ciência da Computação da UFMG.
+
 ###### 🧠 Análise de Algoritmos
 - 📕 [Algoritmos – Thomas H. Cormen (2024)](https://www.amazon.com.br/Algoritmos-Thomas-H-Cormen/dp/8595159904)
 - 📗 [Algorithms – Robert Sedgewick (2011)](https://www.amazon.com.br/Algorithms-Robert-Sedgewick/dp/032157351X)
